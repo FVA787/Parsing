@@ -1,0 +1,111 @@
+{
+  "source_file": "0453_МФЦ _Ривер Парк Коломенский__22060200_obj51932-pd77-002857.xlsx",
+  "id": 51932,
+  "N_declaration": "77-002857",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 51932,
+    "name": "Многофункциональный центр",
+    "N_declaration": "77-002857",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 51932,
+    "N_declaration": "77-002857",
+    "date_declaration": "2026-03-05",
+    "name": "Многофункциональный центр",
+    "developer": "МССЗ",
+    "city": "Москва",
+    "district": "Нагатинский Затон",
+    "street": "Корабельная улица",
+    "land_plot": "земельный участок 7",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Нагатинский Затон",
+    "S_total": 26000.0,
+    "S_residential": 0.0,
+    "S_non_residential": 19475.5,
+    "Price_plan": 3945535353.0,
+    "S_land": 14492.0,
+    "Start_period": "2023-04-27",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2023-06-08",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "50 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 391,
+    "parking": 100,
+    "other_rooms": 291,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 12490000000.0,
+    "other_info": "По состоянию на 31.12.2024 г.(за IV квартал 2024 г.) в финансо-вом результате текущего года чистая прибыль составила 5 022 776 тыс.руб.Размер кредиторской задолженности на 31.12.2024 г.-1 544 108 тыс.руб.Размер дебиторской задолженности на 31.12.2024 г.-4 274 451 тыс.руб"
+  },
+  "debug": {
+    "address_raw": "Российская Федерация, город Москва, внутригородская терри-тория муниципальный округ Нагатинский Затон, Корабельная улица, земельный участок 7",
+    "developer_raw": "Специализированный застройщик\"МССЗ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Нагатинский Затон\", \"street\": \"Корабельная улица\", \"land_plot\": \"земельный участок 7\", \"building\": null}",
+    "developer_llm_response": "МССЗ",
+    "loan_amounts_parsed": [
+      12490000000.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

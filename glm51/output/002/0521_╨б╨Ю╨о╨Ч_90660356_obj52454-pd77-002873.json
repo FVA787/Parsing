@@ -1,0 +1,421 @@
+{
+  "source_file": "0521_СОЮЗ_90660356_obj52454-pd77-002873.xlsx",
+  "id": 52454,
+  "N_declaration": "77-002873",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 52454,
+    "name": "Многоэтажный жилой комплекс с подземным паркингом, Этап 1, Корпус 1",
+    "N_declaration": "77-002873",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 52454,
+    "N_declaration": "77-002873",
+    "date_declaration": "2026-03-06",
+    "name": "Многоэтажный жилой комплекс с подземным паркингом, Этап 1, Корпус 1",
+    "developer": "ИСКРА",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": "участок 26/2",
+    "building": "корпус 1",
+    "subject": "г Москва",
+    "region": "Район в населенном пункте:",
+    "S_total": 20375.0,
+    "S_residential": 16507.3,
+    "S_non_residential": 770.3,
+    "Price_plan": 4012900946.0,
+    "S_land": 24390.0,
+    "Start_period": "2022-06-15",
+    "Finish_period": "3 квартал 2025 г.",
+    "Date_expert": "2022-04-28",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "82.5 м",
+    "N_residential_rooms": 225,
+    "N_non_residential_rooms": 12,
+    "parking": 0,
+    "other_rooms": 12,
+    "min_S_flat": 25.0,
+    "other_rooms_19_6_1_4": 236143901000.0,
+    "other_info": "Нежилое помещение под условным номером в Проектной дек-ларации УК, расположенное в объекте № 2, соответствует в проектной документации (ПСО) № блока помещений-Уп-равляющая компания.Объект долевого строительства по пер-вому зарегистрированному ДДУ фактически относится к 1 корпусу, однако в случае добавления информации о первом за-регистрированном ДДУ к каждому объекту , технически требу-ется заполнить п.19.7.в связи с чем в п.19.7.по 2,3,4,5,6 корпусу и подземному паркингу внесена информация о регистрации договора с данными объекта долевого строительства по перво-му зарегистрированному ДДУ, относящемуся к 1 корпусу"
+  },
+  "debug": {
+    "address_raw": "Уч.26/2, корпус 1",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ИСКРА\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": \"участок 26/2\", \"building\": \"корпус 1\"}",
+    "developer_llm_response": "ИСКРА",
+    "loan_amounts_parsed": [
+      34296804000.0,
+      30363077000.0,
+      34296804000.0,
+      34296804000.0,
+      34296804000.0,
+      34296804000.0,
+      34296804000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "25.00",
+      "conditional_number": "13"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2025 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2022 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2022 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2022 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      }
+    ]
+  }
+}

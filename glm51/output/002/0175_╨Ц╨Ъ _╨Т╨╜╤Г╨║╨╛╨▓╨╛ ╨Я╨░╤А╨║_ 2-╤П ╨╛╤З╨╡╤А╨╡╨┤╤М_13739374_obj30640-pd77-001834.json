@@ -1,0 +1,113 @@
+{
+  "source_file": "0175_ЖК _Внуково Парк_ 2-я очередь_13739374_obj30640-pd77-001834.xlsx",
+  "id": 30640,
+  "N_declaration": "77-001834",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 30640,
+    "name": "Малоэтажная жилая застройка",
+    "N_declaration": "77-001834",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 30640,
+    "N_declaration": "77-001834",
+    "date_declaration": "2026-03-05",
+    "name": "Малоэтажная жилая застройка",
+    "developer": "МИЛЛЕНИУМ",
+    "city": null,
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Внуково",
+    "S_total": 7776.22,
+    "S_residential": 4038.45,
+    "S_non_residential": null,
+    "Price_plan": 614806216.0,
+    "S_land": 7110.0,
+    "Start_period": "2007-11-19",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2023-05-30",
+    "material_walls": "с монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "12 м",
+    "N_residential_rooms": 102,
+    "N_non_residential_rooms": null,
+    "parking": 0,
+    "other_rooms": 0,
+    "min_S_flat": 24.27,
+    "other_rooms_19_6_1_4": null,
+    "other_info": "Открыт специальный счет застройщика 40702810138000039704 в ПАО СБЕРБАНК БИК 044525225; 13.2.4Максимальный про-цент застройки в границах земельного участка согласно ГПЗУ-без ограничений.На 31 декабря 2021 года показатели ООО\n«Специализированный застройщик «МИЛЛЕНИУМ» сос-тавляют:1.Финансовый результат 2021 года = 0 тыс.руб.2. Де-биторская задолженность = 10 695 тыс.руб.3.Кредиторская за-долженность = 300 271 тыс.руб"
+  },
+  "debug": {
+    "address_raw": ".",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК МИЛЛЕНИУМ",
+    "address_llm_response": "{\"city\": null, \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "МИЛЛЕНИУМ",
+    "loan_amounts_parsed": [],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "24.27",
+      "conditional_number": "1в"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2018 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2020 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2021 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

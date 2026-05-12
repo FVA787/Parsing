@@ -1,0 +1,166 @@
+{
+  "source_file": "0065_Город-парк Первый Московский __69224656_obj51395-pd77-002844.xlsx",
+  "id": 51395,
+  "N_declaration": "77-002844",
+  "date_declaration": "2026-03-07",
+  "Declaration_info": {
+    "id": 51395,
+    "name": "Жилая застройка на земельных участках тепличного комбината\n№1 в г. Московский. Третий микрорайон. Квартал 3, Корпуса 1, 2",
+    "N_declaration": "77-002844",
+    "date_declaration": "2026-03-07"
+  },
+  "Current_declaration": {
+    "id": 51395,
+    "N_declaration": "77-002844",
+    "date_declaration": "2026-03-07",
+    "name": "Жилая застройка на земельных участках тепличного комбината\n№1 в г. Московский. Третий микрорайон. Квартал 3, Корпуса 1, 2",
+    "developer": "ПЕРВЫЙ МОСКОВСКИЙ",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": "корпус 1",
+    "subject": "Город Москва",
+    "region": "Район Филимонковский",
+    "S_total": 17439.3,
+    "S_residential": 13672.3,
+    "S_non_residential": 400.5,
+    "Price_plan": 1565000000.0,
+    "S_land": 9216.0,
+    "Start_period": "2023-04-12",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2023-03-15",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Стены и каркас – монолитные железобетонные, наружные стены – ячеистобетон-ные блоки)",
+    "material_covering": "монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "63 м",
+    "N_residential_rooms": 255,
+    "N_non_residential_rooms": 49,
+    "parking": 0,
+    "other_rooms": 49,
+    "min_S_flat": 20.5,
+    "other_rooms_19_6_1_4": 27400000000.0,
+    "other_info": "Данные раздела 13.1.2 относятся совместно к корпусам 1 и 2"
+  },
+  "debug": {
+    "address_raw": "Район Тепличного комбината № 1, корп.1",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПЕРВЫЙ МОС-КОВСКИЙ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": null, \"building\": \"корпус 1\"}",
+    "developer_llm_response": "ПЕРВЫЙ МОСКОВСКИЙ",
+    "loan_amounts_parsed": [
+      13700000000.0,
+      13700000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "20.50",
+      "conditional_number": "Кв-1"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

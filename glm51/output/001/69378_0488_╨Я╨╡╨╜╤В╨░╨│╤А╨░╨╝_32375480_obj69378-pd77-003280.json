@@ -1,0 +1,196 @@
+{
+  "source_file": "0488_Пентаграм_32375480_obj69378-pd77-003280.xlsx",
+  "id": "69378",
+  "N_declaration": "77-003280",
+  "date_declaration": "10.03.2026",
+  "parsed_raw": {
+    "name": {
+      "source_section": "9.2.2",
+      "value": "Многоквартирный дом с подземной парковкой"
+    },
+    "developer": {
+      "source_section": "1.1.2",
+      "value": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК КОЗИХИНСКИЙ"
+    },
+    "address_raw": {
+      "source_section": "9.2.17",
+      "value": "Большой Козихинский пер., вл.31, с.1"
+    },
+    "subject": {
+      "source_section": "9.2.3",
+      "value": "Город Москва"
+    },
+    "region": {
+      "source_section": "9.2.8",
+      "value": "Пресненский район"
+    },
+    "S_total": {
+      "source_section": "9.2.21",
+      "value": "1185 м2"
+    },
+    "S_residential": {
+      "source_section": "9.3.1",
+      "value": "608,90 м2"
+    },
+    "S_non_residential": {
+      "source_section": "9.3.2",
+      "value": "147,70 м2"
+    },
+    "Price_plan": {
+      "source_section": "18.1.1",
+      "value": "1 398 594 905,00 руб."
+    },
+    "S_land": {
+      "source_section": "12.3.2",
+      "value": "578,00 м²"
+    },
+    "Start_period": {
+      "source_section": "11.1.2",
+      "value": "10.12.2025"
+    },
+    "Date_expert": {
+      "source_section": "10.4.2",
+      "value": "Дата выдачи заключения экспертизы проектной документации и (или) экспертизы результатов инженерных изысканий: 03.09.2025"
+    },
+    "material_walls": {
+      "source_section": "9.2.22",
+      "value": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)"
+    },
+    "material_covering": {
+      "source_section": "9.2.23",
+      "value": "Монолитные железобетонные"
+    },
+    "energy_class": {
+      "source_section": "9.2.24",
+      "value": "A+"
+    },
+    "max_height": {
+      "source_section": "13.2.3",
+      "value": "18.2 м"
+    },
+    "N_residential_rooms": {
+      "source_section": "15.1.1",
+      "value": "4"
+    },
+    "N_non_residential_rooms": {
+      "source_section": "15.1.2",
+      "value": "6"
+    },
+    "parking": {
+      "source_section": "15.1.2.1",
+      "value": "0"
+    },
+    "other_rooms": {
+      "source_section": "15.1.2.2",
+      "value": "6"
+    },
+    "other_info": {
+      "source_section": "23.1.1",
+      "value": "Иная информация о проекте:"
+    },
+    "Finish_period": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      }
+    ],
+    "residential_units_raw": {
+      "source_section": "15.2.1",
+      "value": [
+        {
+          "conditional_number": "1",
+          "purpose": "Квартира",
+          "floor": "1",
+          "entrance": "1",
+          "total_area": "89.50",
+          "rooms_count": "1",
+          "living_area": "11.60",
+          "ceiling_height": "4.50"
+        },
+        {
+          "conditional_number": "2",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "134.30",
+          "rooms_count": "2",
+          "living_area": "31.60",
+          "ceiling_height": "4.50"
+        },
+        {
+          "conditional_number": "3",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "117.70",
+          "rooms_count": "2",
+          "living_area": "34.40",
+          "ceiling_height": "4.50"
+        },
+        {
+          "conditional_number": "4",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "1",
+          "total_area": "267.40",
+          "rooms_count": "4",
+          "living_area": "67.30",
+          "ceiling_height": "4.50"
+        }
+      ]
+    },
+    "loan_amounts_19_6_1_4_raw": [
+      {
+        "occurrence": 1,
+        "source_section": "19.6.1.4",
+        "value": "1 398 594 905,00 руб."
+      }
+    ]
+  }
+}

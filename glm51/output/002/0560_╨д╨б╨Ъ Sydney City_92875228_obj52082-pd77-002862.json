@@ -1,0 +1,115 @@
+{
+  "source_file": "0560_ФСК Sydney City_92875228_obj52082-pd77-002862.xlsx",
+  "id": 52082,
+  "N_declaration": "77-002862",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 52082,
+    "name": "Жилой комплекс № 6",
+    "N_declaration": "77-002862",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 52082,
+    "N_declaration": "77-002862",
+    "date_declaration": "2026-03-10",
+    "name": "Жилой комплекс № 6",
+    "developer": "ЛИДЕР СТРОИТЕЛЬНОЙ ОТРАСЛИ",
+    "city": "Москва",
+    "district": "Хорошёво-Мнёвники",
+    "street": "улица Шеногина",
+    "land_plot": "земельный участок 2/17",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Хорошёво-Мнёвники",
+    "S_total": 74584.67,
+    "S_residential": 49224.1,
+    "S_non_residential": 11925.0,
+    "Price_plan": 19694831391.0,
+    "S_land": 9678.0,
+    "Start_period": "2022-10-26",
+    "Finish_period": "3 квартал 2027 г.",
+    "Date_expert": "2022-10-07",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "160 м",
+    "N_residential_rooms": 942,
+    "N_non_residential_rooms": 654,
+    "parking": 500,
+    "other_rooms": 154,
+    "min_S_flat": 29.1,
+    "other_rooms_19_6_1_4": 16312900523.0,
+    "other_info": "Пояснение к п.15.3, а именно:«Вместимость автостоянки 500 машиномест, в том числе 33 машиноместа для ТРЦ, имеющие номера 229-261.Машиноместа с указанными номерами реали-зованы не будут»"
+  },
+  "debug": {
+    "address_raw": "Г. Москва,СЗАО, Хорошёво-Мнёвники, улица Шеногина, земель-ный участок 2/17",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ЛИДЕР СТРО-ИТЕЛЬНОЙ ОТРАСЛИ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Хорошёво-Мнёвники\", \"street\": \"улица Шеногина\", \"land_plot\": \"земельный участок 2/17\", \"building\": null}",
+    "developer_llm_response": "ЛИДЕР СТРОИТЕЛЬНОЙ ОТРАСЛИ",
+    "loan_amounts_parsed": [
+      16312900523.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "29.10",
+      "conditional_number": "12"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      }
+    ]
+  }
+}

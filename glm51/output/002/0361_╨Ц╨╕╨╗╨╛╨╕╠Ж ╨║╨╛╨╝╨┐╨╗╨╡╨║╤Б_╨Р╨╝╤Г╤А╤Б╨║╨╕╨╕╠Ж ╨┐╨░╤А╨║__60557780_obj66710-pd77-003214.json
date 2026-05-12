@@ -1,0 +1,115 @@
+{
+  "source_file": "0361_Жилой комплекс_Амурский парк__60557780_obj66710-pd77-003214.xlsx",
+  "id": 66710,
+  "N_declaration": "77-003214",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 66710,
+    "name": "Жилая застройка с объектами социальной инфраструктуры, Этап 4.1",
+    "N_declaration": "77-003214",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 66710,
+    "N_declaration": "77-003214",
+    "date_declaration": "2026-03-03",
+    "name": "Жилая застройка с объектами социальной инфраструктуры, Этап 4.1",
+    "developer": "ГЛОРИ",
+    "city": "Москва",
+    "district": "Гольяново",
+    "street": "улица Амурская",
+    "land_plot": "владение 2А/1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Гольяново",
+    "S_total": 81884.3,
+    "S_residential": 46597.1,
+    "S_non_residential": 6570.7,
+    "Price_plan": 10876256767.0,
+    "S_land": 18606.0,
+    "Start_period": "2025-05-26",
+    "Finish_period": "1 квартал 2029 г.",
+    "Date_expert": "2024-07-30",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (с монолитным железобетонным каркасом и стенами из мелкоштучных матери-алов (блоки), стенами из крупных железобетонных панелей)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "150 м",
+    "N_residential_rooms": 1034,
+    "N_non_residential_rooms": 383,
+    "parking": 226,
+    "other_rooms": 157,
+    "min_S_flat": 18.4,
+    "other_rooms_19_6_1_4": 10876256766.6,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Москва, ВАО, Гольяново, ул. Амурская, вл. 2А/1, Этап 4.1",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ГЛОРИ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Гольяново\", \"street\": \"улица Амурская\", \"land_plot\": \"владение 2А/1\", \"building\": null}",
+    "developer_llm_response": "ГЛОРИ",
+    "loan_amounts_parsed": [
+      10876256766.6
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "18.40",
+      "conditional_number": "732"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2029 г."
+      }
+    ]
+  }
+}

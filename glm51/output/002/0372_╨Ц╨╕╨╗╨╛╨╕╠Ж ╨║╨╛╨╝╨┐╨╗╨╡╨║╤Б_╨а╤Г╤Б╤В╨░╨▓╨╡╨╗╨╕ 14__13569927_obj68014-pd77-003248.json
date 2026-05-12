@@ -1,0 +1,115 @@
+{
+  "source_file": "0372_Жилой комплекс_Руставели 14__13569927_obj68014-pd77-003248.xlsx",
+  "id": 68014,
+  "N_declaration": "77-003248",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 68014,
+    "name": "Многофункциональный жилой комплекс. Многоквартирный жи-лой дом - Корпус 3 (строение 3.5-3.7) с подземной автостоянкой (Этап 1)",
+    "N_declaration": "77-003248",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 68014,
+    "N_declaration": "77-003248",
+    "date_declaration": "2026-03-03",
+    "name": "Многофункциональный жилой комплекс. Многоквартирный жи-лой дом - Корпус 3 (строение 3.5-3.7) с подземной автостоянкой (Этап 1)",
+    "developer": "ПЛАМ",
+    "city": "Москва",
+    "district": "СВАО",
+    "street": "улица Руставели",
+    "land_plot": "владение 14",
+    "building": "корпус 3",
+    "subject": "Город Москва",
+    "region": "Бутырский район",
+    "S_total": 60361.8,
+    "S_residential": 24411.4,
+    "S_non_residential": 9633.2,
+    "Price_plan": 23547424000.0,
+    "S_land": 12559.0,
+    "Start_period": "2025-09-29",
+    "Finish_period": "1 квартал 2029 г.",
+    "Date_expert": "2025-09-19",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Монолитные же-лезобетонные, из бетонных блоков, а также применены трехслой-ные навесные панели, вентилируемый фасад на подсистеме в ка-честве ограждающих конструкций)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 506,
+    "N_non_residential_rooms": 801,
+    "parking": 474,
+    "other_rooms": 327,
+    "min_S_flat": 28.2,
+    "other_rooms_19_6_1_4": 23547424000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, СВАО, ул. Руставели, вл.14, стр.1, корпус 3 (строение 3.5-3.7)",
+    "developer_raw": "Специализированный застройщик \"ПЛАМ\"",
+    "address_llm_response": "{\n  \"city\": \"Москва\",\n  \"district\": \"СВАО\",\n  \"street\": \"улица Руставели\",\n  \"land_plot\": \"владение 14\",\n  \"building\": \"корпус 3\"\n}",
+    "developer_llm_response": "ПЛАМ",
+    "loan_amounts_parsed": [
+      23547424000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.20",
+      "conditional_number": "9"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2029 г."
+      }
+    ]
+  }
+}

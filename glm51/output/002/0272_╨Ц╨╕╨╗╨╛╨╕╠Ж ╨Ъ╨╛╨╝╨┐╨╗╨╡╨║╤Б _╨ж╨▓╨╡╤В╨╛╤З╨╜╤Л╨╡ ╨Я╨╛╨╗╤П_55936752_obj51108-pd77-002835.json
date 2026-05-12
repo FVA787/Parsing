@@ -1,0 +1,115 @@
+{
+  "source_file": "0272_Жилой Комплекс _Цветочные Поля_55936752_obj51108-pd77-002835.xlsx",
+  "id": 51108,
+  "N_declaration": "77-002835",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 51108,
+    "name": "Комплексная жилая застройка \"Многоквартирный жилой дом\n№11 2-ой очереди строительства жилого комплекса «Цветочные поляны» по адресу: г. Москва, поселение Филимонковское, дерев-ня Староселье",
+    "N_declaration": "77-002835",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 51108,
+    "N_declaration": "77-002835",
+    "date_declaration": "2026-03-10",
+    "name": "Комплексная жилая застройка \"Многоквартирный жилой дом\n№11 2-ой очереди строительства жилого комплекса «Цветочные поляны» по адресу: г. Москва, поселение Филимонковское, дерев-ня Староселье",
+    "developer": "МИЦ-6",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Филимонковский",
+    "S_total": 13236.0,
+    "S_residential": 10275.11,
+    "S_non_residential": 1291.05,
+    "Price_plan": 1519339892.0,
+    "S_land": 118405.0,
+    "Start_period": "2023-03-24",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2024-02-29",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 275,
+    "N_non_residential_rooms": 121,
+    "parking": 0,
+    "other_rooms": 121,
+    "min_S_flat": 22.4,
+    "other_rooms_19_6_1_4": 24900000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Дом №11",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"МИЦ-6\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "МИЦ-6",
+    "loan_amounts_parsed": [
+      24900000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "22.40",
+      "conditional_number": "7"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

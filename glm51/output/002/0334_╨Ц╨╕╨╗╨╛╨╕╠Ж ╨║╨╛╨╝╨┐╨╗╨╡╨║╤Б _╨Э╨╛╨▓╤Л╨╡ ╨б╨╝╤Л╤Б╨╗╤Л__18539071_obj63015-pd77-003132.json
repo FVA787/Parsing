@@ -1,0 +1,115 @@
+{
+  "source_file": "0334_Жилой комплекс _Новые Смыслы__18539071_obj63015-pd77-003132.xlsx",
+  "id": 63015,
+  "N_declaration": "77-003132",
+  "date_declaration": "2026-03-16",
+  "Declaration_info": {
+    "id": 63015,
+    "name": "Жилой комплекс. 2-й этап. Корпуса 3, 4",
+    "N_declaration": "77-003132",
+    "date_declaration": "2026-03-16"
+  },
+  "Current_declaration": {
+    "id": 63015,
+    "N_declaration": "77-003132",
+    "date_declaration": "2026-03-16",
+    "name": "Жилой комплекс. 2-й этап. Корпуса 3, 4",
+    "developer": "ИНВЕСТ-ПРОГРЕСС",
+    "city": "Москва",
+    "district": "НАО",
+    "street": "улица Александры Монаховой",
+    "land_plot": "земельный участок 88 А/1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Коммунарка",
+    "S_total": 56299.7,
+    "S_residential": 35748.0,
+    "S_non_residential": 3955.8,
+    "Price_plan": 7058577000.0,
+    "S_land": 39623.0,
+    "Start_period": "2024-08-27",
+    "Finish_period": "3 квартал 2028 г.",
+    "Date_expert": "2024-05-20",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 801,
+    "N_non_residential_rooms": 323,
+    "parking": 166,
+    "other_rooms": 157,
+    "min_S_flat": 19.0,
+    "other_rooms_19_6_1_4": 0.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Москва, НАО, вн.тер.г.поселение, г.Москва, Сосенское, п.Комму-нарка, ул.Александры Монаховой, земельный участок 88 А/1",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ИНВЕСТ-ПРОГ-РЕСС\"",
+    "address_llm_response": "{\n  \"city\": \"Москва\",\n  \"district\": \"НАО\",\n  \"street\": \"улица Александры Монаховой\",\n  \"land_plot\": \"земельный участок 88 А/1\",\n  \"building\": null\n}",
+    "developer_llm_response": "ИНВЕСТ-ПРОГРЕСС",
+    "loan_amounts_parsed": [
+      0.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "19.00",
+      "conditional_number": "509"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      }
+    ]
+  }
+}

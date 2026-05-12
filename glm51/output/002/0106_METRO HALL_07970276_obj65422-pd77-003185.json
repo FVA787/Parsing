@@ -1,0 +1,111 @@
+{
+  "source_file": "0106_METRO HALL_07970276_obj65422-pd77-003185.xlsx",
+  "id": 65422,
+  "N_declaration": "77-003185",
+  "date_declaration": "2026-03-17",
+  "Declaration_info": {
+    "id": 65422,
+    "name": "Торгово-развлекательный комплекс",
+    "N_declaration": "77-003185",
+    "date_declaration": "2026-03-17"
+  },
+  "Current_declaration": {
+    "id": 65422,
+    "N_declaration": "77-003185",
+    "date_declaration": "2026-03-17",
+    "name": "Торгово-развлекательный комплекс",
+    "developer": "ЭС АЙ ЭС ДЕВЕЛОПМЕНТ",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Рязанский район",
+    "S_total": 6496.46,
+    "S_residential": null,
+    "S_non_residential": 4871.1,
+    "Price_plan": 1125269360.0,
+    "S_land": 3439.0,
+    "Start_period": "2024-09-09",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2024-07-15",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (сэндвич-панели с последующей отделкой алюминиевыми композитными панеля-ми)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "C",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 39,
+    "parking": 0,
+    "other_rooms": 39,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 28049888000.0,
+    "other_info": "В п.19.6.-О целевом кредите (целевом займе), указана общая сумма кредита, в соответствии с условиями договора об откры-тии невозобновляемой кредитной линии на цели финансирова-ния всех затрат связанных с реализацией Проекта, распо-ложенного по адресу:г.Москва, мкр.126, ограниченного ули-цами Рязанский проспект, ул.Ак.Скрябина"
+  },
+  "debug": {
+    "address_raw": "Адресный ориентир:Российская Федерация, г.Москва, внутри-городское муниципальное образование Рязанское, пр-т Рязанский (кадастровый номер земельного участка:77:04:0002013:14858)",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ЭС АЙ ЭС ДЕ-ВЕЛОПМЕНТ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ЭС АЙ ЭС ДЕВЕЛОПМЕНТ",
+    "loan_amounts_parsed": [
+      28049888000.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

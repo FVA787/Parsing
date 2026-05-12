@@ -1,0 +1,115 @@
+{
+  "source_file": "0430_Клубный квартал КРЫЛАТСКАЯ 33_44309683_obj62503-pd77-003121.xlsx",
+  "id": 62503,
+  "N_declaration": "77-003121",
+  "date_declaration": "2026-03-09",
+  "Declaration_info": {
+    "id": 62503,
+    "name": "Многофункциональный жилой комплекс с подземным паркингом",
+    "N_declaration": "77-003121",
+    "date_declaration": "2026-03-09"
+  },
+  "Current_declaration": {
+    "id": 62503,
+    "N_declaration": "77-003121",
+    "date_declaration": "2026-03-09",
+    "name": "Многофункциональный жилой комплекс с подземным паркингом",
+    "developer": "СИЯНИЕ",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": "земельный участок 33/1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Крылатское",
+    "S_total": 86485.6,
+    "S_residential": 51720.8,
+    "S_non_residential": 8781.05,
+    "Price_plan": 21358156469.0,
+    "S_land": 14641.0,
+    "Start_period": "2024-08-14",
+    "Finish_period": "2 квартал 2027 г.",
+    "Date_expert": "2024-07-15",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "150 м",
+    "N_residential_rooms": 755,
+    "N_non_residential_rooms": 397,
+    "parking": 271,
+    "other_rooms": 126,
+    "min_S_flat": 28.1,
+    "other_rooms_19_6_1_4": 21600000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Земельный участок 33/1",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"СИЯНИЕ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": \"земельный участок 33/1\", \"building\": null}",
+    "developer_llm_response": "СИЯНИЕ",
+    "loan_amounts_parsed": [
+      21600000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.10",
+      "conditional_number": "25"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      }
+    ]
+  }
+}

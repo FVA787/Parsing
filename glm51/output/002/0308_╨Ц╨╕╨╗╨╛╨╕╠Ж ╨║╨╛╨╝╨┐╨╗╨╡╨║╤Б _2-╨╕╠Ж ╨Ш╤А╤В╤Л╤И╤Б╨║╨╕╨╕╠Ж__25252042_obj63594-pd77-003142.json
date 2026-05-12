@@ -1,0 +1,116 @@
+{
+  "source_file": "0308_Жилой комплекс _2-й Иртышский__25252042_obj63594-pd77-003142.xlsx",
+  "id": 63594,
+  "N_declaration": "77-003142",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 63594,
+    "name": "Многоквартирный жилой дом с пристроенными помещениями. Этап 2.",
+    "N_declaration": "77-003142",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 63594,
+    "N_declaration": "77-003142",
+    "date_declaration": "2026-03-04",
+    "name": "Многоквартирный жилой дом с пристроенными помещениями. Этап 2.",
+    "developer": "Л-ДЕВЕЛОПМЕНТ",
+    "city": "Москва",
+    "district": "Гольяново",
+    "street": "проезд 2-й Иртышский",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Гольяново",
+    "S_total": 34965.5,
+    "S_residential": 23854.0,
+    "S_non_residential": 738.4,
+    "Price_plan": 5850000000.0,
+    "S_land": 22986.0,
+    "Start_period": "2024-12-02",
+    "Finish_period": "3 квартал 2028 г.",
+    "Date_expert": "2024-07-31",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Навесная фасад-ная система с металлокассетами)",
+    "material_covering": "Иной вид материалов перекрытий (Монолитный железобетон)",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 563,
+    "N_non_residential_rooms": 22,
+    "parking": 0,
+    "other_rooms": 22,
+    "min_S_flat": 20.3,
+    "other_rooms_19_6_1_4": 8850000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, ВАО, Гольяново, пр-д 2-й Иртышский. Этап 2",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"Л-ДЕВЕЛОП-МЕНТ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Гольяново\", \"street\": \"проезд 2-й Иртышский\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "Л-ДЕВЕЛОПМЕНТ",
+    "loan_amounts_parsed": [
+      5850000000.0,
+      3000000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "20.30",
+      "conditional_number": "11"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "source_file": "0571_Город Москва_ ГОРОД МОСКВА_ Хо_90221584_obj70548-pd77-003299.xlsx",
+  "id": 70548,
+  "N_declaration": "77-003299",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 70548,
+    "name": "Многофункциональный жилой комплекс с подземным паркингом и объектами социального назначения",
+    "N_declaration": "77-003299",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 70548,
+    "N_declaration": "77-003299",
+    "date_declaration": "2026-03-06",
+    "name": "Многофункциональный жилой комплекс с подземным паркингом и объектами социального назначения",
+    "developer": "МАСТЕРС",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Викторенко",
+    "land_plot": "земельный участок 18/3А",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Хорошёвский район",
+    "S_total": 100107.88,
+    "S_residential": 53665.9,
+    "S_non_residential": 13291.87,
+    "Price_plan": 30043284059.0,
+    "S_land": 12671.0,
+    "Start_period": "2026-02-03",
+    "Finish_period": "4 квартал 2029 г.",
+    "Date_expert": "2026-01-28",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "89.66 м",
+    "N_residential_rooms": 672,
+    "N_non_residential_rooms": 467,
+    "parking": 363,
+    "other_rooms": 104,
+    "min_S_flat": 28.5,
+    "other_rooms_19_6_1_4": 35779935000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Улица Викторенко, земельный участок 18/3А",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"МАСТЕРС\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Викторенко\", \"land_plot\": \"земельный участок 18/3А\", \"building\": null}",
+    "developer_llm_response": "МАСТЕРС",
+    "loan_amounts_parsed": [
+      35779935000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.50",
+      "conditional_number": "84"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2029 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2029 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "source_file": "0038_Жилой комплекс_Саларьево парк__77660451_obj57033-pd77-003005.xlsx",
+  "id": 57033,
+  "N_declaration": "77-003005",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 57033,
+    "name": "Многоэтажный жилой дом №20 с подземной стоянкой автомоби-лей, с инженерными сетями",
+    "N_declaration": "77-003005",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 57033,
+    "N_declaration": "77-003005",
+    "date_declaration": "2026-03-04",
+    "name": "Многоэтажный жилой дом №20 с подземной стоянкой автомоби-лей, с инженерными сетями",
+    "developer": "ТИРОН",
+    "city": "Москва",
+    "district": "НАО",
+    "street": null,
+    "land_plot": "земельный участок 3",
+    "building": "корпус 20",
+    "subject": "Город Москва",
+    "region": "Поселение Московский",
+    "S_total": 23016.1,
+    "S_residential": 13830.6,
+    "S_non_residential": 2839.9,
+    "Price_plan": 4050000000.0,
+    "S_land": 7241.0,
+    "Start_period": "2024-01-19",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2024-01-12",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (До 1 этажа - мо-нолитные железобетонные конструкции, Со 2-го этажа - навесные железобетонные конструкции)",
+    "material_covering": "Иной вид материалов перекрытий (Перекрытие подвала и 1-го этажа - монолитные железобетонные безбалочные плиты; Перек-рытие 2-го этажа и выше - монолитные железобетонные безбалоч-ные плиты)",
+    "energy_class": "A+",
+    "max_height": "76 м",
+    "N_residential_rooms": 356,
+    "N_non_residential_rooms": 130,
+    "parking": 80,
+    "other_rooms": 50,
+    "min_S_flat": 19.7,
+    "other_rooms_19_6_1_4": 7102000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, НАО, вн.тер.г.поселение Московский, д.Саларьево, квартал 76, з/у 3, корпус 20",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТИРОН\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"НАО\", \"street\": null, \"land_plot\": \"земельный участок 3\", \"building\": \"корпус 20\"}",
+    "developer_llm_response": "ТИРОН",
+    "loan_amounts_parsed": [
+      3052000000.0,
+      4050000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "19.70",
+      "conditional_number": "4"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

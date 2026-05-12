@@ -1,0 +1,115 @@
+{
+  "source_file": "0235_ЖК _Нижегородская от Гранель__26934710_obj66793-pd77-003217.xlsx",
+  "id": 66793,
+  "N_declaration": "77-003217",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 66793,
+    "name": "Многофункциональный жилой комплекс",
+    "N_declaration": "77-003217",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 66793,
+    "N_declaration": "77-003217",
+    "date_declaration": "2026-03-06",
+    "name": "Многофункциональный жилой комплекс",
+    "developer": "ТАЛИСМАН",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Газгольдерная",
+    "land_plot": "владение 10А",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Нижегородский район",
+    "S_total": 63331.87,
+    "S_residential": 36939.18,
+    "S_non_residential": 5861.55,
+    "Price_plan": 16474709000.0,
+    "S_land": 19244.0,
+    "Start_period": "2025-06-06",
+    "Finish_period": "3 квартал 2028 г.",
+    "Date_expert": "2025-05-30",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Иной вид материалов перекрытий (Монолитные железобетонные)",
+    "energy_class": "B",
+    "max_height": "99.95 м",
+    "N_residential_rooms": 874,
+    "N_non_residential_rooms": 488,
+    "parking": 261,
+    "other_rooms": 227,
+    "min_S_flat": 28.85,
+    "other_rooms_19_6_1_4": 19074709000.0,
+    "other_info": "Сейсмостойкость равна 5.Многоквартирный дом к уникаль-ным объектам не относится.В Разрешение на строительство 19.08.2025г.внесены корректировки в\"иные показатели\""
+  },
+  "debug": {
+    "address_raw": "Г.Москва, ул.Газгольдерная, вл.10А",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТАЛИСМАН\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Газгольдерная\", \"land_plot\": \"владение 10А\", \"building\": null}",
+    "developer_llm_response": "ТАЛИСМАН",
+    "loan_amounts_parsed": [
+      19074709000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.85",
+      "conditional_number": "586"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "source_file": "0153_Город-парк Переделкино Ближнее_29174338_obj61344-pd77-003095.xlsx",
+  "id": 61344,
+  "N_declaration": "77-003095",
+  "date_declaration": "2026-03-07",
+  "Declaration_info": {
+    "id": 61344,
+    "name": "Надземная многоэтажная автостоянка открытого типа",
+    "N_declaration": "77-003095",
+    "date_declaration": "2026-03-07"
+  },
+  "Current_declaration": {
+    "id": 61344,
+    "N_declaration": "77-003095",
+    "date_declaration": "2026-03-07",
+    "name": "Надземная многоэтажная автостоянка открытого типа",
+    "developer": "ПЕРЕДЕЛКИНО БЛИЖНЕЕ",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Льва Кассиля",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Поселение Внуковское",
+    "S_total": 12925.5,
+    "S_residential": 0.0,
+    "S_non_residential": 5812.4,
+    "Price_plan": 676000000.0,
+    "S_land": 40033.0,
+    "Start_period": "2024-08-02",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2024-05-31",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Каркас здания – монолитный железобетон Материал наружных стен: - монолитная ж/б стена, минераловатный утеплитель, фиброцементные панели (Тип 1); - газосиликатный блок, минераловатный утеплитель, фиб-роцементные панели (Тип 2); - монолитная ж/б стена, минера-ловатный утеплитель, перфорированные металлические панели (Тип 3); - газосиликатный блок, металлические перфорированные панели (Тип 4); - металлические перфорированные панели (Тип 5).)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A++",
+    "max_height": "28.8 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 332,
+    "parking": 300,
+    "other_rooms": 32,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 909954267.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Ул.Льва Кассиля, Надземная многоэтажная автостоянка откры-того типа",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПЕРЕДЕЛКИНО БЛИЖНЕЕ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Льва Кассиля\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ПЕРЕДЕЛКИНО БЛИЖНЕЕ",
+    "loan_amounts_parsed": [
+      909954267.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

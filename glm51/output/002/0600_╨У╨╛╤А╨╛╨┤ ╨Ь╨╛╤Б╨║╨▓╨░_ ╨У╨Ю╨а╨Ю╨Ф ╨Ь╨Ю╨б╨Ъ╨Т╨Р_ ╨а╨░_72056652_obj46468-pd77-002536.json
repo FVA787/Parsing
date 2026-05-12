@@ -1,0 +1,111 @@
+{
+  "source_file": "0600_Город Москва_ ГОРОД МОСКВА_ Ра_72056652_obj46468-pd77-002536.xlsx",
+  "id": 46468,
+  "N_declaration": "77-002536",
+  "date_declaration": "2026-03-16",
+  "Declaration_info": {
+    "id": 46468,
+    "name": "Многофункциональное здание",
+    "N_declaration": "77-002536",
+    "date_declaration": "2026-03-16"
+  },
+  "Current_declaration": {
+    "id": 46468,
+    "N_declaration": "77-002536",
+    "date_declaration": "2026-03-16",
+    "name": "Многофункциональное здание",
+    "developer": "ЗАРЕЧНАЯ",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": "земельный участок 1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Филёвский Парк",
+    "S_total": 23544.83,
+    "S_residential": 0.0,
+    "S_non_residential": 18971.74,
+    "Price_plan": 3310911806.55,
+    "S_land": 5375.0,
+    "Start_period": "2022-02-09",
+    "Finish_period": "4 квартал 2025 г.",
+    "Date_expert": "2021-12-27",
+    "material_walls": "Со сборно-монолитным железобетонным каркасом и стенами из крупных каменных блоков и панелей со сборно-монолитным же-лезобетонным каркасом и стенами из мелкоштучных каменных материалов (кирпич, керамические камни, блоки и другие)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "84.2 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 246,
+    "parking": 108,
+    "other_rooms": 138,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 4082064000.0,
+    "other_info": "Финансовый результат за 2022 г.Дебиторская задолженность на 31.12.2022 в размере 222 186 тыс.руб.Кредиторская задол-\nженность на 31.12.2022 в размере 12 363 тыс.руб.Чистая при-\nбыль за январь-декабрь 2022 в размере 5 053 тыс.руб"
+  },
+  "debug": {
+    "address_raw": "З/у 1",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ЗАРЕЧНАЯ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": \"земельный участок 1\", \"building\": null}",
+    "developer_llm_response": "ЗАРЕЧНАЯ",
+    "loan_amounts_parsed": [
+      4082064000.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2025 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2023 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,2420 @@
+{
+  "source_file": "0379_Жилой комплекс_Середневский ле_01931094_obj59215-pd77-003052.xlsx",
+  "extracted_at": "2026-05-08T00:37:08",
+  "parsed_raw": {
+    "id": "59215",
+    "N_declaration": "77-003052",
+    "date_declaration": "04.03.2026",
+    "name": {
+      "source_section": "9.2.2",
+      "value": "Наименование объекта: Многоквартирный жилой дом, корпус 4.3 в составе жилой застрой-ки с объектами социальной инфраструктуры",
+      "cell": "J2413"
+    },
+    "developer": {
+      "source_section": "1.1.2",
+      "value": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК СЕРЕДНЕВО\"",
+      "cell": "J4"
+    },
+    "address": {
+      "source_section": "9.2.17",
+      "value": "Уточнение адреса: Г.Москва, НАО, поселение Филимонковское, ОАО \"Марьинская птицефабрика\", корпус 4.3",
+      "cell": "J2428"
+    },
+    "entity": {
+      "source_section": "9.2.3",
+      "value": "Субъект Российской Федерации: Город Москва",
+      "cell": "J2414"
+    },
+    "region": {
+      "source_section": "9.2.8",
+      "value": "Район в населенном пункте: Поселение Филимонковское",
+      "cell": "J2419"
+    },
+    "S_total": {
+      "source_section": "9.2.21",
+      "value": "Общая площадь объекта: 38034.3 м2",
+      "cell": "J2432"
+    },
+    "S_residential": {
+      "source_section": "9.3.1",
+      "value": "Сумма общей площади всех жилых помещений: 21 874,20 м2",
+      "cell": "J2436"
+    },
+    "S_non-residential": {
+      "source_section": "9.3.2",
+      "value": "Сумма общей площади всех нежилых помещений: 3 681,50 м2",
+      "cell": "J2437"
+    },
+    "Price_plan": {
+      "source_section": "18.1.1",
+      "value": "Планируемая стоимость строительства: 3 568 273 688,87 руб.",
+      "cell": "M3972"
+    },
+    "S_land": {
+      "source_section": "12.3.2",
+      "value": "Площадь земельного участка: 14 689,00 м²",
+      "cell": "L2532"
+    },
+    "Start_period": {
+      "source_section": "11.1.2",
+      "value": "Дата выдачи разрешения на строительство: 06.02.2024",
+      "cell": "L2501"
+    },
+    "Finish_period": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "Этап реализации проекта строительства: 20 процентов готовности",
+        "cell": "M3959"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "Планируемый квартал и год выполнения этапа реализации проекта строительства: 3 квартал 2024 г.",
+        "cell": "M3960"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "Этап реализации проекта строительства: 40 процентов готовности",
+        "cell": "M3961"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "Планируемый квартал и год выполнения этапа реализации проекта строительства: 1 квартал 2025 г.",
+        "cell": "M3962"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "Этап реализации проекта строительства: 60 процентов готовности",
+        "cell": "M3963"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "Планируемый квартал и год выполнения этапа реализации проекта строительства: 3 квартал 2025 г.",
+        "cell": "M3964"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "Этап реализации проекта строительства: 80 процентов готовности",
+        "cell": "M3965"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "Планируемый квартал и год выполнения этапа реализации проекта строительства: 1 квартал 2026 г.",
+        "cell": "M3966"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "Этап реализации проекта строительства: получение разрешения на ввод в эксплуатацию объекта недви-жимости",
+        "cell": "M3967"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "Планируемый квартал и год выполнения этапа реализации проекта строительства: 3 квартал 2026 г.",
+        "cell": "M3968"
+      }
+    ],
+    "Date_expert": {
+      "source_section": "10.4.2",
+      "value": "Дата выдачи заключения экспертизы проектной документации и (или) экспертизы результатов инженерных изысканий: 28.11.2023",
+      "cell": "L2480"
+    },
+    "material_walls": {
+      "source_section": "9.2.22",
+      "value": "Материал наружных стен и каркаса объекта: Иной вид материалов наружных стен и каркасов (Навесные 3-х слойные энергоэффективные панели по монолитному железо-бетонному каркасу)",
+      "cell": "J2433"
+    },
+    "material_covering": {
+      "source_section": "9.2.23",
+      "value": "Материал перекрытий: Монолитные железобетонные",
+      "cell": "J2434"
+    },
+    "energy_class": {
+      "source_section": "9.2.24",
+      "value": "Класс энергетической эффективности: A",
+      "cell": "J2435"
+    },
+    "max_height": {
+      "source_section": "13.2.3",
+      "value": "Максимальная высота многоквартирного дома и (или) иного объекта недвижимости: 31 м",
+      "cell": "L2559"
+    },
+    "N_residential_rooms": {
+      "source_section": "15.1.1",
+      "value": "Количество жилых помещений: 557",
+      "cell": "L2623"
+    },
+    "N_non-residential_rooms": {
+      "source_section": "15.1.2",
+      "value": "Количество нежилых помещений: 326",
+      "cell": "L2624"
+    },
+    "parking": {
+      "source_section": "15.1.2.1",
+      "value": "В том числе машино-мест: 0",
+      "cell": "L2625"
+    },
+    "other_rooms": {
+      "source_section": "15.1.2.2",
+      "value": "В том числе иных нежилых помещений: 326",
+      "cell": "L2626"
+    },
+    "min_S_flat": [
+      {
+        "purpose": "Квартира",
+        "total_area": "43.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "26.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "33.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "62.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "50.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "44.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "43.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "26.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "33.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "62.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "50.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "44.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "43.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "26.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "33.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "62.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "50.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "44.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "43.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "26.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "33.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "62.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "50.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "44.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "43.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "26.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "33.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "62.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "50.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "44.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "43.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "26.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "33.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "62.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "50.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "44.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "43.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "26.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "33.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "62.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "50.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "44.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "43.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "26.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "33.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "62.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "50.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "44.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "33.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "19.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "52.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "42.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "65.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "42.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "66.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "42.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "66.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "42.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "66.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "42.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "66.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "42.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "66.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "42.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "66.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "42.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "66.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "37.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "40.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "35.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "43.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "56.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "59.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "51.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "52.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "56.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "59.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "51.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "52.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "56.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "59.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "51.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "52.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "56.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "59.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "51.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "52.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "56.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "59.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "51.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "52.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "56.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "59.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "51.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "52.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "56.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "59.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "51.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "23.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "52.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "56.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "59.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "51.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "50.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "36.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "33.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "33.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "54.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "39.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "35.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "54.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "25.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "63.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "37.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "39.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "56.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "39.60"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "35.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "54.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "25.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "63.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "37.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "39.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "56.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "37.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "53.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "62.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "37.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "53.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "62.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "37.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "53.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "62.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "22.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.80"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "57.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.40"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "37.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "53.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "24.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "62.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "92.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "90.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "92.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "90.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "92.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "90.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "92.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "90.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "92.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "90.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "92.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "90.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "92.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "90.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "92.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "38.00"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.90"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.30"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "90.20"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "42.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "54.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "42.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "54.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "42.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "54.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "34.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "21.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "42.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "54.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "54.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "54.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "54.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "64.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "32.50"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "20.10"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "41.70"
+      },
+      {
+        "purpose": "Квартира",
+        "total_area": "54.50"
+      }
+    ],
+    "other_rooms_19_6_1_4": [
+      {
+        "occurrence": 1,
+        "source_section": "19.6.1.4",
+        "value": "Сумма кредита (займа) в соответствии с условиями договора: 3 568 273 688,87 руб.",
+        "cell": "M4001"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "19.6.1.4",
+        "value": "Сумма кредита (займа) в соответствии с условиями договора: 1 260 000 000,00 руб.",
+        "cell": "M4009"
+      }
+    ],
+    "other_info": {
+      "source_section": "23.1.1",
+      "value": "Иная информация о проекте:",
+      "cell": "M4076"
+    }
+  }
+}

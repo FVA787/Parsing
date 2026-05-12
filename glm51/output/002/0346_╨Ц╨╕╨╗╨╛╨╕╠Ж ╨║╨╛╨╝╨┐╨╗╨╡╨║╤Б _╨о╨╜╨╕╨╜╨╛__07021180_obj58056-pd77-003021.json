@@ -1,0 +1,116 @@
+{
+  "source_file": "0346_Жилой комплекс _Юнино__07021180_obj58056-pd77-003021.xlsx",
+  "id": 58056,
+  "N_declaration": "77-003021",
+  "date_declaration": "2026-03-13",
+  "Declaration_info": {
+    "id": 58056,
+    "name": "Многоэтажный жилой дом. Корпус 2.",
+    "N_declaration": "77-003021",
+    "date_declaration": "2026-03-13"
+  },
+  "Current_declaration": {
+    "id": 58056,
+    "N_declaration": "77-003021",
+    "date_declaration": "2026-03-13",
+    "name": "Многоэтажный жилой дом. Корпус 2.",
+    "developer": "ТЕРИБЕРСКИЙ БЕРЕГ",
+    "city": "Москва",
+    "district": "НАО",
+    "street": null,
+    "land_plot": null,
+    "building": "корпус 2",
+    "subject": "Город Москва",
+    "region": "Поселение Щербинка",
+    "S_total": 13273.57,
+    "S_residential": 8112.0,
+    "S_non_residential": 790.6,
+    "Price_plan": 1850000000.0,
+    "S_land": 2160.0,
+    "Start_period": "2023-11-23",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2023-11-15",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Каркасная сис-тема с ограждающими трехслойными навесными панелями)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A++",
+    "max_height": "55 м",
+    "N_residential_rooms": 208,
+    "N_non_residential_rooms": 41,
+    "parking": 0,
+    "other_rooms": 41,
+    "min_S_flat": 20.0,
+    "other_rooms_19_6_1_4": 2726107000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Москва, НАО, городской округ Щербинка, город Щербинка, мик-рорайон Люблинский, Корпус 2",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТЕРИБЕРСКИЙ БЕРЕГ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"НАО\", \"street\": null, \"land_plot\": null, \"building\": \"корпус 2\"}",
+    "developer_llm_response": "ТЕРИБЕРСКИЙ БЕРЕГ",
+    "loan_amounts_parsed": [
+      1850000000.0,
+      876107000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "20.00",
+      "conditional_number": "1"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

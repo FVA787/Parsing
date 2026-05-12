@@ -1,0 +1,115 @@
+{
+  "source_file": "0444_МИРА_84006794_obj62998-pd77-003131.xlsx",
+  "id": 62998,
+  "N_declaration": "77-003131",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 62998,
+    "name": "Многофункциональный жилой комплекс",
+    "N_declaration": "77-003131",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 62998,
+    "N_declaration": "77-003131",
+    "date_declaration": "2026-03-10",
+    "name": "Многофункциональный жилой комплекс",
+    "developer": "ПМ-ДЕВЕЛОПМЕНТ",
+    "city": "Москва",
+    "district": "Алексеевский район",
+    "street": "проспект Мира",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Алексеевский район",
+    "S_total": 67413.0,
+    "S_residential": 43837.0,
+    "S_non_residential": 6887.8,
+    "Price_plan": 20652892810.0,
+    "S_land": 12829.0,
+    "Start_period": "2024-08-07",
+    "Finish_period": "3 квартал 2027 г.",
+    "Date_expert": "2025-07-23",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 762,
+    "N_non_residential_rooms": 409,
+    "parking": 259,
+    "other_rooms": 150,
+    "min_S_flat": 28.01,
+    "other_rooms_19_6_1_4": 20652892810.0,
+    "other_info": "в раздел 9 и развел 15 проектной декларации.19.12.2024 г.-вне-сены изменения в раздел 17.2.проектной декларации.10.01.2025 г.-внесены изменения в раздел 19.6.и 19.7.проектной декла-"
+  },
+  "debug": {
+    "address_raw": "ГОРОД МОСКВА, СВАО, Алексеевский район, пр-кт Мира",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ПМ-ДЕВЕЛОП-МЕНТ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Алексеевский район\", \"street\": \"проспект Мира\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ПМ-ДЕВЕЛОПМЕНТ",
+    "loan_amounts_parsed": [
+      20652892810.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.01",
+      "conditional_number": "10310"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      }
+    ]
+  }
+}

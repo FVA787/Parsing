@@ -1,0 +1,111 @@
+{
+  "source_file": "0092_ASPACE Хорошевская_12075259_obj66023-pd77-003197.xlsx",
+  "id": 66023,
+  "N_declaration": "77-003197",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 66023,
+    "name": "Бизнес-центр по адресу: г. Москва, ш. Хорошевское, вл.39",
+    "N_declaration": "77-003197",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 66023,
+    "N_declaration": "77-003197",
+    "date_declaration": "2026-03-06",
+    "name": "Бизнес-центр по адресу: г. Москва, ш. Хорошевское, вл.39",
+    "developer": "АСПЕЙС ХОРОШЕВСКАЯ",
+    "city": "Москва",
+    "district": null,
+    "street": "Хорошевское шоссе",
+    "land_plot": "владение 39",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Хорошёвский район",
+    "S_total": 51774.63,
+    "S_residential": 0.0,
+    "S_non_residential": 33641.97,
+    "Price_plan": 10008582061.19,
+    "S_land": 14193.0,
+    "Start_period": "2025-05-06",
+    "Finish_period": "4 квартал 2027 г.",
+    "Date_expert": "2025-04-18",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Ограждающие конструкции - двухкамерные витражные. Конструктивная схема - монолитно-каркасная)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 434,
+    "parking": 221,
+    "other_rooms": 213,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 10008582061.19,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Москва, Хорошевское шоссе, вл.39",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"АСПЕЙС ХО-РОШЕВСКАЯ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"Хорошевское шоссе\", \"land_plot\": \"владение 39\", \"building\": null}",
+    "developer_llm_response": "АСПЕЙС ХОРОШЕВСКАЯ",
+    "loan_amounts_parsed": [
+      10008582061.19
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      }
+    ]
+  }
+}

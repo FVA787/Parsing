@@ -1,0 +1,115 @@
+{
+  "source_file": "0201_ЖК _Первый Нагатинский__05311368_obj68144-pd77-003249.xlsx",
+  "id": 68144,
+  "N_declaration": "77-003249",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 68144,
+    "name": "2 очередь комплексной жилой застройки ( ЖК 1й Нагатинский)",
+    "N_declaration": "77-003249",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 68144,
+    "N_declaration": "77-003249",
+    "date_declaration": "2026-03-06",
+    "name": "2 очередь комплексной жилой застройки ( ЖК 1й Нагатинский)",
+    "developer": "АЛЬФА",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Нагатинская",
+    "land_plot": "владение 1/1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Нагатино-Садовники",
+    "S_total": 63819.7,
+    "S_residential": 35709.4,
+    "S_non_residential": 6145.5,
+    "Price_plan": 17842855014.0,
+    "S_land": 9992.0,
+    "Start_period": "2025-10-02",
+    "Finish_period": "4 квартал 2028 г.",
+    "Date_expert": "2025-09-25",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "174.89 м",
+    "N_residential_rooms": 632,
+    "N_non_residential_rooms": 284,
+    "parking": 201,
+    "other_rooms": 83,
+    "min_S_flat": 28.1,
+    "other_rooms_19_6_1_4": 16363970000.0,
+    "other_info": "Права аренды на Земельный участок, на котором осуществля-ется строительство Жилого дома и объектов инженерной ин-фраструктуры Жилого дома (к.н.77:05:0004001:2106) находится в залоге у Публичного акционерного общества «Сбербанк Рос-сии» ИНН 7707083893.БКТ-5 расположен на 1 и 2 этажах"
+  },
+  "debug": {
+    "address_raw": "Ул. Нагатинская, вл.1/1",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"АЛЬФА\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Нагатинская\", \"land_plot\": \"владение 1/1\", \"building\": null}",
+    "developer_llm_response": "АЛЬФА",
+    "loan_amounts_parsed": [
+      16363970000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "28.10",
+      "conditional_number": "482"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      }
+    ]
+  }
+}

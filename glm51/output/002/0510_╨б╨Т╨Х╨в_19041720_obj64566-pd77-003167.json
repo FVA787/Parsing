@@ -1,0 +1,115 @@
+{
+  "source_file": "0510_СВЕТ_19041720_obj64566-pd77-003167.xlsx",
+  "id": 64566,
+  "N_declaration": "77-003167",
+  "date_declaration": "2026-03-09",
+  "Declaration_info": {
+    "id": 64566,
+    "name": "Многофункциональный жилой комплекс",
+    "N_declaration": "77-003167",
+    "date_declaration": "2026-03-09"
+  },
+  "Current_declaration": {
+    "id": 64566,
+    "N_declaration": "77-003167",
+    "date_declaration": "2026-03-09",
+    "name": "Многофункциональный жилой комплекс",
+    "developer": "ЛАЗУРИТ",
+    "city": "Москва",
+    "district": null,
+    "street": "Дмитровское шоссе",
+    "land_plot": "владение 83а",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Западное Дегунино",
+    "S_total": 54866.6,
+    "S_residential": 35659.2,
+    "S_non_residential": 2159.8,
+    "Price_plan": 12764946947.0,
+    "S_land": 11619.0,
+    "Start_period": "2025-01-13",
+    "Finish_period": "1 квартал 2028 г.",
+    "Date_expert": "2024-10-28",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Витражная конструкция с применением в качестве внешнего слоя одинарного остекления с листом оцинкованной стали, окрашенной по RAL 7016)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "180 м",
+    "N_residential_rooms": 662,
+    "N_non_residential_rooms": 158,
+    "parking": 99,
+    "other_rooms": 59,
+    "min_S_flat": 28.7,
+    "other_rooms_19_6_1_4": 12500000000.0,
+    "other_info": "Раздел 10.7-на данной стадии реализации проекта-генераль-ный подрядчик отсутствует"
+  },
+  "debug": {
+    "address_raw": "Г Москва, Дмитровское шоссе, влд 83а",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ЛАЗУРИТ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"Дмитровское шоссе\", \"land_plot\": \"владение 83а\", \"building\": null}",
+    "developer_llm_response": "ЛАЗУРИТ",
+    "loan_amounts_parsed": [
+      12500000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.70",
+      "conditional_number": "2"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      }
+    ]
+  }
+}

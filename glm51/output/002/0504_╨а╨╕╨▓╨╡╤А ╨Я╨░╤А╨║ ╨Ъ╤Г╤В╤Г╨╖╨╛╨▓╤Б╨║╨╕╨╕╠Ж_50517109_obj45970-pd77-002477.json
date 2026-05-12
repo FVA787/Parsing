@@ -1,0 +1,166 @@
+{
+  "source_file": "0504_Ривер Парк Кутузовский_50517109_obj45970-pd77-002477.xlsx",
+  "id": 45970,
+  "N_declaration": "77-002477",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 45970,
+    "name": "Многофункциональный жилой комплекс. Этап 1 (Корпус 1, Корпус 2, Корпус 5, Пост охраны)",
+    "N_declaration": "77-002477",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 45970,
+    "N_declaration": "77-002477",
+    "date_declaration": "2026-03-06",
+    "name": "Многофункциональный жилой комплекс. Этап 1 (Корпус 1, Корпус 2, Корпус 5, Пост охраны)",
+    "developer": "КУТУЗОВСКИЙ, 16",
+    "city": "Москва",
+    "district": "Дорогомилово",
+    "street": "проезд Кутузовский",
+    "land_plot": "земельный участок 16А/1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Дорогомилово",
+    "S_total": 136224.5,
+    "S_residential": 84246.6,
+    "S_non_residential": 17867.0,
+    "Price_plan": 44214693715.0,
+    "S_land": 32415.0,
+    "Start_period": "2022-04-28",
+    "Finish_period": "3 квартал 2027 г.",
+    "Date_expert": "2024-10-17",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Витражная сис-тема профилей из алюминиевых сплавов; монолитный железо-бетон; кирпичная кладка на цементно-песчаном растворе; кладка из газобетонных блоков; металлические кассеты в составе серти-фицированной фасадной системы с воздушным зазором)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "180 м",
+    "N_residential_rooms": 1207,
+    "N_non_residential_rooms": 940,
+    "parking": 563,
+    "other_rooms": 377,
+    "min_S_flat": 18.6,
+    "other_rooms_19_6_1_4": 132974816000.0,
+    "other_info": "По состоянию на 31.12.2023 г.(за IV квартал 2023 г.) в финансо-вом результате текущего года чистая прибыль составила 1326,67 тыс.руб"
+  },
+  "debug": {
+    "address_raw": "ЗАО, Район Дорогомилово, проезд Кутузовский, земельный учас-ток 16А/1",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"КУТУЗОВСКИЙ, 16\" (ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ)",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Дорогомилово\", \"street\": \"проезд Кутузовский\", \"land_plot\": \"земельный участок 16А/1\", \"building\": null}",
+    "developer_llm_response": "КУТУЗОВСКИЙ, 16",
+    "loan_amounts_parsed": [
+      66487408000.0,
+      66487408000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "18.60",
+      "conditional_number": "5/4"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2022 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      }
+    ]
+  }
+}

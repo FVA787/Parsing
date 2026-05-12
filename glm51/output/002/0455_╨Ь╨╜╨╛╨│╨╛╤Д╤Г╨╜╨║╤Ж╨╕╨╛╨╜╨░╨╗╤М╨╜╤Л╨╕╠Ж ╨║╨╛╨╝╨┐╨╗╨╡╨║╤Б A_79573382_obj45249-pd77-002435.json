@@ -1,0 +1,111 @@
+{
+  "source_file": "0455_Многофункциональный комплекс A_79573382_obj45249-pd77-002435.xlsx",
+  "id": 45249,
+  "N_declaration": "77-002435",
+  "date_declaration": "2025-08-05",
+  "Declaration_info": {
+    "id": 45249,
+    "name": "Многофункциональный комплекс с подземной автостоянкой (3-й этап строительства)",
+    "N_declaration": "77-002435",
+    "date_declaration": "2025-08-05"
+  },
+  "Current_declaration": {
+    "id": 45249,
+    "N_declaration": "77-002435",
+    "date_declaration": "2025-08-05",
+    "name": "Многофункциональный комплекс с подземной автостоянкой (3-й этап строительства)",
+    "developer": "Акватория",
+    "city": null,
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Левобережный",
+    "S_total": 71806.01,
+    "S_residential": 0.0,
+    "S_non_residential": 46769.63,
+    "Price_plan": 10418812073.0,
+    "S_land": 49956.0,
+    "Start_period": "2022-02-22",
+    "Finish_period": "3 квартал 2025 г.",
+    "Date_expert": "2021-10-28",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "Не нормируется",
+    "max_height": "75 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 1016,
+    "parking": 389,
+    "other_rooms": 627,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 10418812073.0,
+    "other_info": "1 Финансирование проекта строительства Объекта 1 за счет собственных средств застройщика:1 838 613 895 рублей.Финан-сирование за счет кредитных средств ПАО\"Сбербанк Рос-сии\"на основании Договора об открытии невозобновляемой кредитной линии от 17.12.2021 № 38В0688:не более 10 418 812\n073 рублей"
+  },
+  "debug": {
+    "address_raw": "Корпуса А1, А2",
+    "developer_raw": "Акватория",
+    "address_llm_response": "{\"city\": null, \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "Акватория",
+    "loan_amounts_parsed": [
+      10418812073.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2025 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2022 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2023 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      }
+    ]
+  }
+}

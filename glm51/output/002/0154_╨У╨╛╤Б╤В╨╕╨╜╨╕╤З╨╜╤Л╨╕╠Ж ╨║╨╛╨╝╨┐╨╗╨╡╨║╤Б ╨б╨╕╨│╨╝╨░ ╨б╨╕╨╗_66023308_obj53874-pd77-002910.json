@@ -1,0 +1,111 @@
+{
+  "source_file": "0154_Гостиничный комплекс Сигма Сил_66023308_obj53874-pd77-002910.xlsx",
+  "id": 53874,
+  "N_declaration": "77-002910",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 53874,
+    "name": "Гостиничный комплекс",
+    "N_declaration": "77-002910",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 53874,
+    "N_declaration": "77-002910",
+    "date_declaration": "2026-03-05",
+    "name": "Гостиничный комплекс",
+    "developer": "АЙГРИН",
+    "city": "Москва",
+    "district": "Зеленоград",
+    "street": "проезд Западный 3-й",
+    "land_plot": "владение 17",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Силино",
+    "S_total": 29855.85,
+    "S_residential": 0.0,
+    "S_non_residential": 18028.52,
+    "Price_plan": 3905995856.86,
+    "S_land": 11992.0,
+    "Start_period": "2023-02-21",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2023-12-15",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мелкоштуч-ных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "50 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 623,
+    "parking": 0,
+    "other_rooms": 623,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 3065407906.51,
+    "other_info": "Дата изменения:11.08.2025 Отчетная дата:30.06.2025 Общая сис-тема налогообложения (ОСН) Кредиторская задолженность:424 163 396,97 руб.Дебиторская задолженность:102 337 072,97\nруб.Чистая прибыль:-4 239 000 руб"
+  },
+  "debug": {
+    "address_raw": "Город Зеленоград, проезд Западный 3-й, владение 17",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"АЙГРИН\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Зеленоград\", \"street\": \"проезд Западный 3-й\", \"land_plot\": \"владение 17\", \"building\": null}",
+    "developer_llm_response": "АЙГРИН",
+    "loan_amounts_parsed": [
+      3065407906.51
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

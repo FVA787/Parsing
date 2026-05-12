@@ -1,0 +1,116 @@
+{
+  "source_file": "0057_Жилой комплекс _МОМЕНТС__43327960_obj53988-pd77-002916.xlsx",
+  "id": 53988,
+  "N_declaration": "77-002916",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 53988,
+    "name": "Многоквартирный жилой дом (Корпус 2.1, 2.2, 2.3) с подземной ав-тостоянкой",
+    "N_declaration": "77-002916",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 53988,
+    "N_declaration": "77-002916",
+    "date_declaration": "2026-03-04",
+    "name": "Многоквартирный жилой дом (Корпус 2.1, 2.2, 2.3) с подземной ав-тостоянкой",
+    "developer": "СОЗВЕЗДИЕ",
+    "city": "Москва",
+    "district": "Щукино",
+    "street": "проезд 1-й Красногорский",
+    "land_plot": null,
+    "building": "корпус 2.1, 2.2, 2.3",
+    "subject": "Город Москва",
+    "region": "Район Щукино",
+    "S_total": 123923.9,
+    "S_residential": 75579.3,
+    "S_non_residential": 9248.09,
+    "Price_plan": 26088480559.59,
+    "S_land": 14037.0,
+    "Start_period": "2023-08-31",
+    "Finish_period": "1 квартал 2027 г.",
+    "Date_expert": "2023-07-28",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A++",
+    "max_height": "150 м",
+    "N_residential_rooms": 1326,
+    "N_non_residential_rooms": 619,
+    "parking": 403,
+    "other_rooms": 216,
+    "min_S_flat": 24.6,
+    "other_rooms_19_6_1_4": 27078480559.59,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, СЗАО, Щукино, проезд 1-й Красногорский, корпус 2.1, 2.2, 2.3",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"СОЗВЕЗДИЕ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Щукино\", \"street\": \"проезд 1-й Красногорский\", \"land_plot\": null, \"building\": \"корпус 2.1, 2.2, 2.3\"}",
+    "developer_llm_response": "СОЗВЕЗДИЕ",
+    "loan_amounts_parsed": [
+      26088480559.59,
+      990000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "24.60",
+      "conditional_number": "866"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      }
+    ]
+  }
+}

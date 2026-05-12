@@ -1,0 +1,170 @@
+{
+  "source_file": "0559_ФСК Amber City_44462303_obj61842-pd77-003107.xlsx",
+  "id": 61842,
+  "N_declaration": "77-003107",
+  "date_declaration": "2026-03-09",
+  "Declaration_info": {
+    "id": 61842,
+    "name": "Многофункциональный жилой комплекс с подземной автостоян-кой (1-я очередь строительства К4, К5 и К6). Этап 1 - Корпуса К4 и К6, пристройки к корпусам, подземная часть",
+    "N_declaration": "77-003107",
+    "date_declaration": "2026-03-09"
+  },
+  "Current_declaration": {
+    "id": 61842,
+    "N_declaration": "77-003107",
+    "date_declaration": "2026-03-09",
+    "name": "Многофункциональный жилой комплекс с подземной автостоян-кой (1-я очередь строительства К4, К5 и К6). Этап 1 - Корпуса К4 и К6, пристройки к корпусам, подземная часть",
+    "developer": "ГУД-СИТИ",
+    "city": "Москва",
+    "district": "САО",
+    "street": "3-й Хорошевский проезд",
+    "land_plot": "владение 3А",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Хорошёвский район",
+    "S_total": 113568.0,
+    "S_residential": 68775.2,
+    "S_non_residential": 14206.5,
+    "Price_plan": 25344933646.87,
+    "S_land": 15112.0,
+    "Start_period": "2024-08-29",
+    "Finish_period": "2 квартал 2028 г.",
+    "Date_expert": "2024-08-07",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 1273,
+    "N_non_residential_rooms": 801,
+    "parking": 571,
+    "other_rooms": 230,
+    "min_S_flat": 28.0,
+    "other_rooms_19_6_1_4": 136818066636.0,
+    "other_info": "1. Нежилое помещение для коммерческого использования 4.1, 4.3, 4.8, 4.9 «Помещение объектов спорта» и 6.24 «Помещения объектов доп.образования» расположены на двух этажах (отм.0,000 и +3,600).2. Номера в столбце «Номер подъезда» со-ответствуют 1 – корпус 4, 2-корпус 5 и 3 – корпус 6"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, САО, 3-й Хорошевский пр. 3А",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ГУД-СИТИ",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"САО\", \"street\": \"3-й Хорошевский проезд\", \"land_plot\": \"владение 3А\", \"building\": null}",
+    "developer_llm_response": "ГУД-СИТИ",
+    "loan_amounts_parsed": [
+      54960230211.0,
+      11387107107.0,
+      2061696000.0,
+      54960230211.0,
+      11387107107.0,
+      2061696000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.00",
+      "conditional_number": "1366"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      }
+    ]
+  }
+}

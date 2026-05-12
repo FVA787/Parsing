@@ -1,0 +1,213 @@
+{
+  "source_file": "0388_Капитал Тауэрс _Capital Towers_00408594_obj19620-pd77-000770.xlsx",
+  "id": 19620,
+  "N_declaration": "77-000770",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 19620,
+    "name": "Многофункциональный высотный жилой комплекс с подземной автостоянкой. Здание корпуса А",
+    "N_declaration": "77-000770",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 19620,
+    "N_declaration": "77-000770",
+    "date_declaration": "2026-03-03",
+    "name": "Многофункциональный высотный жилой комплекс с подземной автостоянкой. Здание корпуса А",
+    "developer": "МЕГАПОЛИС ГРУП",
+    "city": "Москва",
+    "district": "Пресненский",
+    "street": "Краснопресненская набережная",
+    "land_plot": "владение 14",
+    "building": "корпус А",
+    "subject": "Город Москва",
+    "region": "Муниципальный округ Пресненский",
+    "S_total": 67338.1,
+    "S_residential": 27222.6,
+    "S_non_residential": 7507.0,
+    "Price_plan": 15998923182.0,
+    "S_land": 3028.0,
+    "Start_period": "2017-03-27",
+    "Finish_period": "2 квартал 2023 г.",
+    "Date_expert": "2019-03-13",
+    "material_walls": "с монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "295 м",
+    "N_residential_rooms": 215,
+    "N_non_residential_rooms": 28,
+    "parking": 0,
+    "other_rooms": 28,
+    "min_S_flat": 28.1,
+    "other_rooms_19_6_1_4": null,
+    "other_info": "Вся жилая часть, нежилая и подземный паркинг введены в ус-тановленном порядке в эксплуатацию (28.04.2023 Комитетом государственного строительного контроля города Москвы вы-дано разрешение на ввод объекта в эксплуатацию № 77-01-011397-2023).Продолжается строительство 3 этапа блоки 1,2 пе-шеходной галереи; спортивный ресторан; инженерное обеспе-чение 3 этапа; установка ДГУ 1, 2, 3; благоустройство 3 этапа"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, ЦАО, район Пресненский, Краснопресненская наб. вл.14, стр.1, корпус \"А\"",
+    "developer_raw": "МЕГАПОЛИС ГРУП",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Пресненский\", \"street\": \"Краснопресненская набережная\", \"land_plot\": \"владение 14\", \"building\": \"корпус А\"}",
+    "developer_llm_response": "МЕГАПОЛИС ГРУП",
+    "loan_amounts_parsed": [],
+    "min_S_flat_source": {
+      "purpose": "квартира",
+      "total_area": "28.10",
+      "conditional_number": "B18"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2023 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2018 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2019 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2019 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2020 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2018 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2019 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2019 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2020 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2018 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2019 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2019 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2020 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      }
+    ]
+  }
+}

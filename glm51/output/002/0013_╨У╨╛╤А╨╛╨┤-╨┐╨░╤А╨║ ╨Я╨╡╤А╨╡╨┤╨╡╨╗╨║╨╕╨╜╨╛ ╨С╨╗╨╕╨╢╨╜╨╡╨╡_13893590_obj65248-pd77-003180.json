@@ -1,0 +1,166 @@
+{
+  "source_file": "0013_Город-парк Переделкино Ближнее_13893590_obj65248-pd77-003180.xlsx",
+  "id": 65248,
+  "N_declaration": "77-003180",
+  "date_declaration": "2026-03-07",
+  "Declaration_info": {
+    "id": 65248,
+    "name": "Третья очередь строительства жилой застройки. Жилые корпуса 1,2 (Жилой корпус 1)",
+    "N_declaration": "77-003180",
+    "date_declaration": "2026-03-07"
+  },
+  "Current_declaration": {
+    "id": 65248,
+    "N_declaration": "77-003180",
+    "date_declaration": "2026-03-07",
+    "name": "Третья очередь строительства жилой застройки. Жилые корпуса 1,2 (Жилой корпус 1)",
+    "developer": "ПЕРЕДЕЛКИНО БЛИЖНЕЕ",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Бориса Пастернака",
+    "land_plot": "земельный участок 20",
+    "building": "корпус 1",
+    "subject": "Город Москва",
+    "region": "Поселение Внуковское",
+    "S_total": 34386.1,
+    "S_residential": 26756.8,
+    "S_non_residential": 956.8,
+    "Price_plan": 3250000000.0,
+    "S_land": 30458.0,
+    "Start_period": "2022-04-25",
+    "Finish_period": "1 квартал 2028 г.",
+    "Date_expert": "2021-11-03",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Каркас - мо-нолитный ж/б каркас. Наружные стены – монолитный ж/б, газобе-тонные блоки )",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "C",
+    "max_height": "59.8 м",
+    "N_residential_rooms": 445,
+    "N_non_residential_rooms": 174,
+    "parking": 0,
+    "other_rooms": 174,
+    "min_S_flat": 22.1,
+    "other_rooms_19_6_1_4": 20672924000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Вн.тер.г.поселение Внуковское, улица Бориса Пастернака, земель-ный участок 20, корп.1",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПЕРЕДЕЛКИНО БЛИЖНЕЕ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Бориса Пастернака\", \"land_plot\": \"земельный участок 20\", \"building\": \"корпус 1\"}",
+    "developer_llm_response": "ПЕРЕДЕЛКИНО БЛИЖНЕЕ",
+    "loan_amounts_parsed": [
+      10336462000.0,
+      10336462000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "22.10",
+      "conditional_number": "Кв-332"
+    },
+    "Finish_period_selected": {
+      "occurrence": 4,
+      "value": "1 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      }
+    ]
+  }
+}

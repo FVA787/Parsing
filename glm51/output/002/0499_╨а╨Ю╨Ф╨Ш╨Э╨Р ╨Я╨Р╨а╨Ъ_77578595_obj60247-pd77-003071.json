@@ -1,0 +1,115 @@
+{
+  "source_file": "0499_РОДИНА ПАРК_77578595_obj60247-pd77-003071.xlsx",
+  "id": 60247,
+  "N_declaration": "77-003071",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 60247,
+    "name": "Многофункциональный комплекс с жилой застройкой и физкуль-турно-оздоровительным комплексом. 1-й этап. Жилые корпуса 1, 2, 3",
+    "N_declaration": "77-003071",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 60247,
+    "N_declaration": "77-003071",
+    "date_declaration": "2026-03-05",
+    "name": "Многофункциональный комплекс с жилой застройкой и физкуль-турно-оздоровительным комплексом. 1-й этап. Жилые корпуса 1, 2, 3",
+    "developer": "РОДИНА ПАРК",
+    "city": "Москва",
+    "district": "Можайский",
+    "street": "улица Верейская",
+    "land_plot": "владение 12",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Можайский район",
+    "S_total": 36349.7,
+    "S_residential": 21838.5,
+    "S_non_residential": 3814.69,
+    "Price_plan": 24528691412.0,
+    "S_land": 34800.0,
+    "Start_period": "2024-06-10",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2024-12-16",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "75.85 м",
+    "N_residential_rooms": 308,
+    "N_non_residential_rooms": 280,
+    "parking": 155,
+    "other_rooms": 125,
+    "min_S_flat": 41.0,
+    "other_rooms_19_6_1_4": 26851974000.0,
+    "other_info": "Право аренды земельного участка, на котором осуществляется строительство Объекта, находится в залоге у ПАО Сбербанк.\nДвухуровневые квартиры расположены на 2-х и более эта-жах.Помещение УК 2 располагается на 2-х этажах"
+  },
+  "debug": {
+    "address_raw": "Москва, р-он Можайский, ул.Верейская, вл.12",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"РОДИНА ПАРК\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Можайский\", \"street\": \"улица Верейская\", \"land_plot\": \"владение 12\", \"building\": null}",
+    "developer_llm_response": "РОДИНА ПАРК",
+    "loan_amounts_parsed": [
+      26851974000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "41.00",
+      "conditional_number": "75"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

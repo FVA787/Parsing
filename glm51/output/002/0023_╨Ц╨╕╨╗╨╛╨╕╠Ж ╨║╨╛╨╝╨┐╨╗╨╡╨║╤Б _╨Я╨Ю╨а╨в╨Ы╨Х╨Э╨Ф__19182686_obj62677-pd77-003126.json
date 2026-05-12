@@ -1,0 +1,117 @@
+{
+  "source_file": "0023_Жилой комплекс _ПОРТЛЕНД__19182686_obj62677-pd77-003126.xlsx",
+  "id": 62677,
+  "N_declaration": "77-003126",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 62677,
+    "name": "Многоквартирный жилой дом (Корпуса 5, 6, 7, 8) с подземной ав-\nтостоянкой. Этап 2.",
+    "N_declaration": "77-003126",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 62677,
+    "N_declaration": "77-003126",
+    "date_declaration": "2026-03-04",
+    "name": "Многоквартирный жилой дом (Корпуса 5, 6, 7, 8) с подземной ав-\nтостоянкой. Этап 2.",
+    "developer": "РИВЕРСАЙД",
+    "city": "Москва",
+    "district": "Печатники",
+    "street": "улица Южнопортовая",
+    "land_plot": null,
+    "building": "корпус 5,6,7,8",
+    "subject": "Город Москва",
+    "region": "Район Печатники",
+    "S_total": 54437.7,
+    "S_residential": 44118.2,
+    "S_non_residential": 5961.16,
+    "Price_plan": 17280534913.0,
+    "S_land": 15982.0,
+    "Start_period": "2024-10-08",
+    "Finish_period": "1 квартал 2028 г.",
+    "Date_expert": "2024-08-01",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (монолитный же-лезобетон )",
+    "material_covering": "Иной вид материалов перекрытий (монолитный железобетон )",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 778,
+    "N_non_residential_rooms": 325,
+    "parking": 174,
+    "other_rooms": 151,
+    "min_S_flat": 24.3,
+    "other_rooms_19_6_1_4": 17635386021.0,
+    "other_info": "Вместимость подземной автостоянки – 296 м/м.Количество м/м – 174 м/м, в т.ч.манежное хранение – 52 м/м (№1-13; 50-57; 69-\n97; 186-187; 270-296), полумеханизированные – 122 м/м, вмес-тимость с учетом второго яруса – 244 м/м (№14/15-48/49; 58/59-94/95; 98/99-184/185; 188/189-268/269)"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, ЮВАО, Печатники, улица Южнопортовая, корпуса 5,6,7,8. Этап 2",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"РИВЕРСАЙД\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Печатники\", \"street\": \"улица Южнопортовая\", \"land_plot\": null, \"building\": \"корпус 5,6,7,8\"}",
+    "developer_llm_response": "РИВЕРСАЙД",
+    "loan_amounts_parsed": [
+      13026439708.0,
+      300000000.0,
+      4308946313.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "24.30",
+      "conditional_number": "436"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "source_file": "0315_Жилой комплекс _Дом 7 Даниловс_14244108_obj59595-pd77-003059.xlsx",
+  "id": 59595,
+  "N_declaration": "77-003059",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 59595,
+    "name": "Многоквартирный жилой комплекс с помещениями свободного назначения и подземной автостоянкой",
+    "N_declaration": "77-003059",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 59595,
+    "N_declaration": "77-003059",
+    "date_declaration": "2026-03-03",
+    "name": "Многоквартирный жилой комплекс с помещениями свободного назначения и подземной автостоянкой",
+    "developer": "КАЛЛИСТО",
+    "city": "Москва",
+    "district": "Даниловский",
+    "street": "улица Серпуховский Вал",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Даниловский район",
+    "S_total": 25786.4,
+    "S_residential": 12349.4,
+    "S_non_residential": 2223.1,
+    "Price_plan": 8842603541.0,
+    "S_land": 9544.0,
+    "Start_period": "2024-04-22",
+    "Finish_period": "2 квартал 2027 г.",
+    "Date_expert": "2024-06-18",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "60 м",
+    "N_residential_rooms": 207,
+    "N_non_residential_rooms": 178,
+    "parking": 136,
+    "other_rooms": 42,
+    "min_S_flat": 30.8,
+    "other_rooms_19_6_1_4": 8950000000.0,
+    "other_info": "Структура финансирования Проекта:собственные средс-тва-10,4 процентов.Заемные средства-89,6 процентов"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, район Даниловский р-н, ул Серпуховский Вал, д.7",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"КАЛЛИСТО\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Даниловский\", \"street\": \"улица Серпуховский Вал\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "КАЛЛИСТО",
+    "loan_amounts_parsed": [
+      8950000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "30.80",
+      "conditional_number": "3.2.2"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      }
+    ]
+  }
+}

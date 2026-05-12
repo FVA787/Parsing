@@ -1,0 +1,115 @@
+{
+  "source_file": "0380_Жилой район АЛИА_05856466_obj61294-pd77-003091.xlsx",
+  "id": 61294,
+  "N_declaration": "77-003091",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 61294,
+    "name": "Многоквартирные жилые дома со встроенными нежилыми по-мещениями и подземной автостоянкой, Блоки 13А и 13В",
+    "N_declaration": "77-003091",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 61294,
+    "N_declaration": "77-003091",
+    "date_declaration": "2026-03-06",
+    "name": "Многоквартирные жилые дома со встроенными нежилыми по-мещениями и подземной автостоянкой, Блоки 13А и 13В",
+    "developer": "РЕЗИДЕНС",
+    "city": "Москва",
+    "district": "Покровское-Стрешнево",
+    "street": "улица Лётная",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Покровское-Стрешнево",
+    "S_total": 118238.9,
+    "S_residential": 69310.0,
+    "S_non_residential": 10390.5,
+    "Price_plan": 19500809999.0,
+    "S_land": 25093.0,
+    "Start_period": "2024-08-02",
+    "Finish_period": "2 квартал 2028 г.",
+    "Date_expert": "2024-07-15",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 1393,
+    "N_non_residential_rooms": 552,
+    "parking": 456,
+    "other_rooms": 96,
+    "min_S_flat": 20.9,
+    "other_rooms_19_6_1_4": 25100000000.0,
+    "other_info": "Раздел 15.2 проектной декларации содержит указание о высоте потолков жилых помещений для подъездов №4, 5 и 6, исходя из высоты помещения от верхней отметки бетонного перекрытия такого помещения до потолка, т.е.без учета стяжки пирога чис-того пола, которая выполняется собственником жилого по-мещения самостоятельно"
+  },
+  "debug": {
+    "address_raw": "Российская Федерация, г. Москва, вн.тер.г. муниципальный округ Покровское-Стрешнево, ул. Лётная",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК РЕЗИДЕНС",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Покровское-Стрешнево\", \"street\": \"улица Лётная\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "РЕЗИДЕНС",
+    "loan_amounts_parsed": [
+      25100000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "20.90",
+      "conditional_number": "402"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      }
+    ]
+  }
+}

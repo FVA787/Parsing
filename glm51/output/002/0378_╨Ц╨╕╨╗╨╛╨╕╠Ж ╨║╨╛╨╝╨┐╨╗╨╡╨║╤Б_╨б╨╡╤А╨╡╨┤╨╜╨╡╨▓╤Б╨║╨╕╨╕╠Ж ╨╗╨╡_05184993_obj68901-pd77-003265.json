@@ -1,0 +1,116 @@
+{
+  "source_file": "0378_Жилой комплекс_Середневский ле_05184993_obj68901-pd77-003265.xlsx",
+  "id": 68901,
+  "N_declaration": "77-003265",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 68901,
+    "name": "Многоквартирный жилой дом, корпус 2.1 в составе жилой застрой-ки с объектами социальной инфраструктуры",
+    "N_declaration": "77-003265",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 68901,
+    "N_declaration": "77-003265",
+    "date_declaration": "2026-03-04",
+    "name": "Многоквартирный жилой дом, корпус 2.1 в составе жилой застрой-ки с объектами социальной инфраструктуры",
+    "developer": "СЕРЕДНЕВО",
+    "city": "Москва",
+    "district": "НАО",
+    "street": null,
+    "land_plot": "земельный участок 5",
+    "building": "корпус 2.1",
+    "subject": "Город Москва",
+    "region": "Район Филимонковский",
+    "S_total": 72592.8,
+    "S_residential": 45628.8,
+    "S_non_residential": 4625.7,
+    "Price_plan": 7725434974.12,
+    "S_land": 68898.0,
+    "Start_period": "2025-10-30",
+    "Finish_period": "4 квартал 2028 г.",
+    "Date_expert": "2024-07-30",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Монолитный железобетонный каркас и стенами из трехслойных железобетон-ных панелей, монолитный железобетонный каркас и стенами из газобетонных блоков с навесной фасадной системой)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 1009,
+    "N_non_residential_rooms": 342,
+    "parking": 0,
+    "other_rooms": 342,
+    "min_S_flat": 28.4,
+    "other_rooms_19_6_1_4": 8985434974.119999,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, НАО, вн.тер.г. муниципальный округ Филимонковский, квартал 23, земельный участок 5, корпус 2.1",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК СЕРЕДНЕВО\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"НАО\", \"street\": null, \"land_plot\": \"земельный участок 5\", \"building\": \"корпус 2.1\"}",
+    "developer_llm_response": "СЕРЕДНЕВО",
+    "loan_amounts_parsed": [
+      7725434974.12,
+      1260000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.40",
+      "conditional_number": "583"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      }
+    ]
+  }
+}

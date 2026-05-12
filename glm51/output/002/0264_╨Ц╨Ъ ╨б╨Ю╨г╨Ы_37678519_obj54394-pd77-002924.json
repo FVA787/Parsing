@@ -1,0 +1,116 @@
+{
+  "source_file": "0264_ЖК СОУЛ_37678519_obj54394-pd77-002924.xlsx",
+  "id": 54394,
+  "N_declaration": "77-002924",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 54394,
+    "name": "Многоквартирный жилой дом (Корпуса 3, 4, 5, 6) с подземной сто-янкой автомобилей в составе многофункционального жилого ком-плекса (Этап строительства 1.2)",
+    "N_declaration": "77-002924",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 54394,
+    "N_declaration": "77-002924",
+    "date_declaration": "2026-03-05",
+    "name": "Многоквартирный жилой дом (Корпуса 3, 4, 5, 6) с подземной сто-янкой автомобилей в составе многофункционального жилого ком-плекса (Этап строительства 1.2)",
+    "developer": "ЧАСОВАЯ",
+    "city": "Москва",
+    "district": "Аэропорт",
+    "street": "улица Часовая",
+    "land_plot": "земельный участок 28/1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Аэропорт",
+    "S_total": 105856.0,
+    "S_residential": 54712.8,
+    "S_non_residential": 12520.1,
+    "Price_plan": 20320374733.0,
+    "S_land": 57090.0,
+    "Start_period": "2023-09-18",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2023-09-01",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 857,
+    "N_non_residential_rooms": 1039,
+    "parking": 447,
+    "other_rooms": 592,
+    "min_S_flat": 26.4,
+    "other_rooms_19_6_1_4": 20920374733.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, САО, вн.тер.г. муниципальный округ, Аэропорт, улица Часовая, земельный участок 28/1",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ЧАСОВАЯ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Аэропорт\", \"street\": \"улица Часовая\", \"land_plot\": \"земельный участок 28/1\", \"building\": null}",
+    "developer_llm_response": "ЧАСОВАЯ",
+    "loan_amounts_parsed": [
+      20320374733.0,
+      600000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "26.40",
+      "conditional_number": "113"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

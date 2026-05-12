@@ -1,0 +1,115 @@
+{
+  "source_file": "0258_ЖК Полар_48373859_obj53359-pd77-002884.xlsx",
+  "id": 53359,
+  "N_declaration": "77-002884",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 53359,
+    "name": "Многофункциональный жилой комплекс с подземной автостоян-кой. Этап 2. Многоквартирный жилой дом - строения 1.4,1.5,1.6",
+    "N_declaration": "77-002884",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 53359,
+    "N_declaration": "77-002884",
+    "date_declaration": "2026-03-03",
+    "name": "Многофункциональный жилой комплекс с подземной автостоян-кой. Этап 2. Многоквартирный жилой дом - строения 1.4,1.5,1.6",
+    "developer": "ТМП №20",
+    "city": "Москва",
+    "district": "СВАО",
+    "street": "улица Полярная",
+    "land_plot": "земельный участок 39/1",
+    "building": "строение 1.4",
+    "subject": "Город Москва",
+    "region": "Район Северное Медведково",
+    "S_total": 120783.7,
+    "S_residential": 68131.1,
+    "S_non_residential": 7477.77,
+    "Price_plan": 14364987000.0,
+    "S_land": 3361.0,
+    "Start_period": "2023-07-17",
+    "Finish_period": "2 квартал 2027 г.",
+    "Date_expert": "2023-04-28",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (с монолитным железобетонным каркасом и стенами из мелкоштучных каменных материалов)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "200 м",
+    "N_residential_rooms": 1682,
+    "N_non_residential_rooms": 694,
+    "parking": 236,
+    "other_rooms": 458,
+    "min_S_flat": 19.4,
+    "other_rooms_19_6_1_4": 14364987000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, СВАО, Северное Медведково, ул.Полярная, земельный участок 39/1, земельный участок 39/3.Этап 2-строения 1.4, 1.5, 1.6",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТМП №20\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"СВАО\", \"street\": \"улица Полярная\", \"land_plot\": \"земельный участок 39/1\", \"building\": \"строение 1.4\"}",
+    "developer_llm_response": "ТМП №20",
+    "loan_amounts_parsed": [
+      14364987000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "19.40",
+      "conditional_number": "1582"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      }
+    ]
+  }
+}

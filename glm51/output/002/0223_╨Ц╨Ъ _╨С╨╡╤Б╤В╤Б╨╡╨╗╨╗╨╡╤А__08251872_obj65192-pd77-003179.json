@@ -1,0 +1,119 @@
+{
+  "source_file": "0223_ЖК _Бестселлер__08251872_obj65192-pd77-003179.xlsx",
+  "id": 65192,
+  "N_declaration": "77-003179",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 65192,
+    "name": "Застройка жилой территории в границе улиц Басовская - Первая Фрезерная - Перовское шоссе в городе Москве",
+    "N_declaration": "77-003179",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 65192,
+    "N_declaration": "77-003179",
+    "date_declaration": "2026-03-05",
+    "name": "Застройка жилой территории в границе улиц Басовская - Первая Фрезерная - Перовское шоссе в городе Москве",
+    "developer": "БАЗА ПЕРОВСКОЕ",
+    "city": "Москва",
+    "district": "Нижегородский",
+    "street": "шоссе Перовское",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Нижегородский район",
+    "S_total": 34936.0,
+    "S_residential": 19845.0,
+    "S_non_residential": 5230.31,
+    "Price_plan": 5760818000.0,
+    "S_land": 5068.0,
+    "Start_period": "2025-04-02",
+    "Finish_period": "1 квартал 2028 г.",
+    "Date_expert": "2025-02-25",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Монолитные же-лезобетонные стены и пилоны толщиной и кладка из блока цемен-тно-песчаном растворе)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 391,
+    "N_non_residential_rooms": 168,
+    "parking": 110,
+    "other_rooms": 58,
+    "min_S_flat": 28.6,
+    "other_rooms_19_6_1_4": 5932593000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Российская Федерация, г. Москва, вн.тер.г. муниципальный округ Нижегородский, ш. Перовское",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"БАЗА - ПЕРОВ-СКОЕ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Нижегородский\", \"street\": \"шоссе Перовское\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "БАЗА ПЕРОВСКОЕ",
+    "loan_amounts_parsed": [
+      5300818000.0,
+      400000000.0,
+      230000000.0,
+      1050000.0,
+      725000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "28.60",
+      "conditional_number": "17"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "source_file": "0095_Crystal_78366953_obj51725-pd77-002852.xlsx",
+  "id": 51725,
+  "N_declaration": "77-002852",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 51725,
+    "name": "Многоэтажный жилой комплекс с подземной автостоянкой",
+    "N_declaration": "77-002852",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 51725,
+    "N_declaration": "77-002852",
+    "date_declaration": "2026-03-06",
+    "name": "Многоэтажный жилой комплекс с подземной автостоянкой",
+    "developer": "ПСФ Крост",
+    "city": "Москва",
+    "district": "Хорошёвский",
+    "street": "улица Генерала Глаголева",
+    "land_plot": "земельный участок 20",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Хорошёво-Мнёвники",
+    "S_total": 34723.7,
+    "S_residential": 22664.9,
+    "S_non_residential": 2886.5,
+    "Price_plan": 4336237183.81,
+    "S_land": 4928.0,
+    "Start_period": "2023-03-14",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2023-02-10",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Монолитный железобетон)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 366,
+    "N_non_residential_rooms": 206,
+    "parking": 81,
+    "other_rooms": 125,
+    "min_S_flat": 33.7,
+    "other_rooms_19_6_1_4": 4336237183.81,
+    "other_info": "Корректный показатель дебиторской задолженности по состо-янию на 31.12.2024 составляет 7 914 090 тыс.руб"
+  },
+  "debug": {
+    "address_raw": "Москва, СЗАО, г.Москва, Хорошево-Мневники, улица Генерала Глаголева, земельный участок 20",
+    "developer_raw": "Специализированный застройщик \"ПСФ \"Крост\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Хорошёвский\", \"street\": \"улица Генерала Глаголева\", \"land_plot\": \"земельный участок 20\", \"building\": null}",
+    "developer_llm_response": "ПСФ Крост",
+    "loan_amounts_parsed": [
+      4336237183.81
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "33.70",
+      "conditional_number": "9"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

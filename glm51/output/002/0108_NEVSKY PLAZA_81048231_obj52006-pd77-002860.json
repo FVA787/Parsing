@@ -1,0 +1,111 @@
+{
+  "source_file": "0108_NEVSKY PLAZA_81048231_obj52006-pd77-002860.xlsx",
+  "id": 52006,
+  "N_declaration": "77-002860",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 52006,
+    "name": "Комплекс с нежилыми помещениями и подземной автостоянкой",
+    "N_declaration": "77-002860",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 52006,
+    "N_declaration": "77-002860",
+    "date_declaration": "2026-03-06",
+    "name": "Комплекс с нежилыми помещениями и подземной автостоянкой",
+    "developer": "ПОДОЛИНО",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Выборгская",
+    "land_plot": "владение 18",
+    "building": "строение 2",
+    "subject": "Город Москва",
+    "region": "Войковский район",
+    "S_total": 39932.7,
+    "S_residential": 0.0,
+    "S_non_residential": 21129.35,
+    "Price_plan": 4541205910.0,
+    "S_land": 7157.0,
+    "Start_period": "2023-03-17",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2022-10-27",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Монолитный железобетон)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 832,
+    "parking": 190,
+    "other_rooms": 642,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 2195559468.01,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, ул.Выборгская, вл.18, стр.2",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ПОДОЛИНО\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Выборгская\", \"land_plot\": \"владение 18\", \"building\": \"строение 2\"}",
+    "developer_llm_response": "ПОДОЛИНО",
+    "loan_amounts_parsed": [
+      2195559468.01
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

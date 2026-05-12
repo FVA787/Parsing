@@ -1,0 +1,115 @@
+{
+  "source_file": "0434_Левел Войковская_27087883_obj67276-pd77-003233.xlsx",
+  "id": 67276,
+  "N_declaration": "77-003233",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 67276,
+    "name": "Многофункциональный жилой комплекс с подземной автостоян-кой. Этап 1",
+    "N_declaration": "77-003233",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 67276,
+    "N_declaration": "77-003233",
+    "date_declaration": "2026-03-06",
+    "name": "Многофункциональный жилой комплекс с подземной автостоян-кой. Этап 1",
+    "developer": "ТИМИРЯЗЕВСКИЙ ПАРК",
+    "city": "Москва",
+    "district": "САО",
+    "street": "Старопетровский проезд",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Войковский район",
+    "S_total": 54112.6,
+    "S_residential": 33217.9,
+    "S_non_residential": 8445.9,
+    "Price_plan": 17175000000.0,
+    "S_land": 24938.0,
+    "Start_period": "2025-08-21",
+    "Finish_period": "3 квартал 2028 г.",
+    "Date_expert": "2025-08-11",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 539,
+    "N_non_residential_rooms": 408,
+    "parking": 244,
+    "other_rooms": 164,
+    "min_S_flat": 28.4,
+    "other_rooms_19_6_1_4": 30573664026.32,
+    "other_info": "В жилой комплекс входят корпуса 3, 4, 5, подземный паркинг, стилобат"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, САО, Старопетровский проезд",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТИМИРЯЗЕВ-СКИЙ ПАРК\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"САО\", \"street\": \"Старопетровский проезд\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ТИМИРЯЗЕВСКИЙ ПАРК",
+    "loan_amounts_parsed": [
+      30573664026.32
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.40",
+      "conditional_number": "4-63"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      }
+    ]
+  }
+}

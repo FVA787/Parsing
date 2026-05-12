@@ -1,0 +1,115 @@
+{
+  "source_file": "0415_Квартал Домашний_ЖК Квартал До_61610344_obj53581-pd77-002895.xlsx",
+  "id": 53581,
+  "N_declaration": "77-002895",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 53581,
+    "name": "Многоквартирные жилые дома переменной этажности. Третья очередь строительства: 1 этап третьей очереди строительства. Корпус 1 с подземной автостоянкой",
+    "N_declaration": "77-002895",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 53581,
+    "N_declaration": "77-002895",
+    "date_declaration": "2026-03-10",
+    "name": "Многоквартирные жилые дома переменной этажности. Третья очередь строительства: 1 этап третьей очереди строительства. Корпус 1 с подземной автостоянкой",
+    "developer": "САМОЛЕТ-ДОНЕЦКАЯ",
+    "city": null,
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Марьино",
+    "S_total": 37227.89,
+    "S_residential": 22630.13,
+    "S_non_residential": 3796.91,
+    "Price_plan": 2294994000.0,
+    "S_land": 31469.0,
+    "Start_period": "2020-01-13",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2019-10-01",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 488,
+    "N_non_residential_rooms": 233,
+    "parking": 144,
+    "other_rooms": 89,
+    "min_S_flat": 26.48,
+    "other_rooms_19_6_1_4": 18276000000.0,
+    "other_info": "Размер чистой прибыли (убытков) по данным промежуточной или годовой бухгалтерской (финансовой) отчетности на 31.03.2024 г.(на первый квартал 2024 г.) составляет-13 562,00 тыс.руб"
+  },
+  "debug": {
+    "address_raw": "Корпус 1",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"САМОЛЕТ-ДО-НЕЦКАЯ\"",
+    "address_llm_response": "{\"city\": null, \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "САМОЛЕТ-ДОНЕЦКАЯ",
+    "loan_amounts_parsed": [
+      18276000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "26.48",
+      "conditional_number": "5"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

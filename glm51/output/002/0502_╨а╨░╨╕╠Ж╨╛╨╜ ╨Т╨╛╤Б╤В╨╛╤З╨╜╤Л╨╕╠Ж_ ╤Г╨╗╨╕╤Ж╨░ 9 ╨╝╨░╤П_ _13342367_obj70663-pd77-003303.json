@@ -1,0 +1,113 @@
+{
+  "source_file": "0502_Район Восточный_ улица 9 мая_ _13342367_obj70663-pd77-003303.xlsx",
+  "id": 70663,
+  "N_declaration": "77-003303",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 70663,
+    "name": "Жилой дом с инженерными сетями, подземной автостоянкой и бла-гоустройством территории (со сносом жилого дома по адресу: ул. 9 Мая, д. 24)",
+    "N_declaration": "77-003303",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 70663,
+    "N_declaration": "77-003303",
+    "date_declaration": "2026-03-03",
+    "name": "Жилой дом с инженерными сетями, подземной автостоянкой и бла-гоустройством территории (со сносом жилого дома по адресу: ул. 9 Мая, д. 24)",
+    "developer": "МОСКОВСКИЙ ФОНД РЕНОВАЦИИ ЖИЛОЙ ЗАСТРОЙКИ",
+    "city": "Москва",
+    "district": null,
+    "street": "улица 9 Мая",
+    "land_plot": "земельный участок 24",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Восточный",
+    "S_total": 13728.94,
+    "S_residential": 7997.38,
+    "S_non_residential": 984.24,
+    "Price_plan": 978331805.0,
+    "S_land": 3887.0,
+    "Start_period": "2026-02-04",
+    "Finish_period": "3 квартал 2027 г.",
+    "Date_expert": "2025-12-19",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "70.36 м",
+    "N_residential_rooms": 152,
+    "N_non_residential_rooms": 53,
+    "parking": 50,
+    "other_rooms": 3,
+    "min_S_flat": 31.76,
+    "other_rooms_19_6_1_4": null,
+    "other_info": "Пункт 19.1 настоящей декларации для Фонда реновации не применяется ввиду изъятий, установленных статьёй 7.7 За-кона РФ от 15.04.1993 № 4802-1 «О статусе столицы Россий-ской Федерации»"
+  },
+  "debug": {
+    "address_raw": "Улица 9 Мая, земельный участок 24 (9 Мая ул., вл. 24)",
+    "developer_raw": "МОСКОВСКИЙ ФОНД РЕНОВАЦИИ ЖИЛОЙ ЗАСТРОЙКИ",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица 9 Мая\", \"land_plot\": \"земельный участок 24\", \"building\": null}",
+    "developer_llm_response": "МОСКОВСКИЙ ФОНД РЕНОВАЦИИ ЖИЛОЙ ЗАСТРОЙКИ",
+    "loan_amounts_parsed": [],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "31.76",
+      "conditional_number": "3"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      }
+    ]
+  }
+}

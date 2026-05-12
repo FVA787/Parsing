@@ -1,0 +1,115 @@
+{
+  "source_file": "0314_Жилой комплекс _Графика на вод_24362647_obj67723-pd77-003245.xlsx",
+  "id": 67723,
+  "N_declaration": "77-003245",
+  "date_declaration": "2026-03-09",
+  "Declaration_info": {
+    "id": 67723,
+    "name": "Многофункциональный жилой комплекс с многоквартирными жилыми домами, встроенно-пристроенными нежилыми помеще-ниями, многоуровневыми паркингами и зоной благоустройства",
+    "N_declaration": "77-003245",
+    "date_declaration": "2026-03-09"
+  },
+  "Current_declaration": {
+    "id": 67723,
+    "N_declaration": "77-003245",
+    "date_declaration": "2026-03-09",
+    "name": "Многофункциональный жилой комплекс с многоквартирными жилыми домами, встроенно-пристроенными нежилыми помеще-ниями, многоуровневыми паркингами и зоной благоустройства",
+    "developer": "ЗАРЕЧЬЕ",
+    "city": "Москва",
+    "district": "Печатники",
+    "street": "улица Шоссейная",
+    "land_plot": "земельный участок 90/9",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Печатники",
+    "S_total": 64705.3,
+    "S_residential": 35046.35,
+    "S_non_residential": 6689.27,
+    "Price_plan": 9848925841.61,
+    "S_land": 48699.0,
+    "Start_period": "2025-01-20",
+    "Finish_period": "4 квартал 2028 г.",
+    "Date_expert": "2024-12-25",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "98.2 м",
+    "N_residential_rooms": 625,
+    "N_non_residential_rooms": 647,
+    "parking": 179,
+    "other_rooms": 468,
+    "min_S_flat": 29.47,
+    "other_rooms_19_6_1_4": 56058161807.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, ЮВАО, внутригородская территория муниципальный округ Печатники, ул.Шоссейная, з/у 90/9",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ЗАРЕЧЬЕ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Печатники\", \"street\": \"улица Шоссейная\", \"land_plot\": \"земельный участок 90/9\", \"building\": null}",
+    "developer_llm_response": "ЗАРЕЧЬЕ",
+    "loan_amounts_parsed": [
+      56058161807.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "29.47",
+      "conditional_number": "468"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      }
+    ]
+  }
+}

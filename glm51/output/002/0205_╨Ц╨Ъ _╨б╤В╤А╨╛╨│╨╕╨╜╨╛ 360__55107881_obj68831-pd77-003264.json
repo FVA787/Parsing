@@ -1,0 +1,168 @@
+{
+  "source_file": "0205_ЖК _Строгино 360__55107881_obj68831-pd77-003264.xlsx",
+  "id": 68831,
+  "N_declaration": "77-003264",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 68831,
+    "name": "Многоэтажный жилой дом с подземной автостоянкой, Корпус 1.1 (Этап 1)",
+    "N_declaration": "77-003264",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 68831,
+    "N_declaration": "77-003264",
+    "date_declaration": "2026-03-03",
+    "name": "Многоэтажный жилой дом с подземной автостоянкой, Корпус 1.1 (Этап 1)",
+    "developer": "ЛУЧ",
+    "city": "Москва",
+    "district": "СЗАО",
+    "street": "улица Маршала Прошлякова",
+    "land_plot": "земельный участок 12А",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Строгино",
+    "S_total": 16757.2,
+    "S_residential": 8411.6,
+    "S_non_residential": 1791.7,
+    "Price_plan": 4405000000.0,
+    "S_land": 11304.0,
+    "Start_period": "2025-11-14",
+    "Finish_period": "4 квартал 2028 г.",
+    "Date_expert": "2025-11-07",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (с монолитным железобетонным каркасом)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "C",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 154,
+    "N_non_residential_rooms": 71,
+    "parking": 63,
+    "other_rooms": 8,
+    "min_S_flat": 28.1,
+    "other_rooms_19_6_1_4": 10027000000.0,
+    "other_info": "Вместимость подземной автостоянки 73 машино-места: из них подлежат реализации 63 машино-места общей площадью - 877,30 кв.м, и 10 машино-мест № 1-6; 69-72 предназначены для временного хранения автотранспорта и не подлежат реали-зации в рамках Федерального закона от 30.12.2004 № 214-ФЗ."
+  },
+  "debug": {
+    "address_raw": "Г.Москва, СЗАО, Строгино, ул.Маршала Прошлякова земельный участок 12А; проезд № 607 вл.12 к.4; ул.Маршала Воробьева, вл.12, корп.3 (Корпус 1.1 (Этап 1))",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ЛУЧ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"СЗАО\", \"street\": \"улица Маршала Прошлякова\", \"land_plot\": \"земельный участок 12А\", \"building\": null}",
+    "developer_llm_response": "ЛУЧ",
+    "loan_amounts_parsed": [
+      4405000000.0,
+      500000000.0,
+      4622000000.0,
+      500000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.10",
+      "conditional_number": "10"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      }
+    ]
+  }
+}

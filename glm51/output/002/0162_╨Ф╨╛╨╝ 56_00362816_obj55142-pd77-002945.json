@@ -1,0 +1,115 @@
+{
+  "source_file": "0162_Дом 56_00362816_obj55142-pd77-002945.xlsx",
+  "id": 55142,
+  "N_declaration": "77-002945",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 55142,
+    "name": "Жилой комплекс",
+    "N_declaration": "77-002945",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 55142,
+    "N_declaration": "77-002945",
+    "date_declaration": "2026-03-10",
+    "name": "Жилой комплекс",
+    "developer": "ГАЛС-ФРИДРИХА ЭНГЕЛЬСА",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Фридриха Энгельса",
+    "land_plot": "земельный участок 56/1",
+    "building": "строение 1",
+    "subject": "Город Москва",
+    "region": "Басманный район",
+    "S_total": 47446.0,
+    "S_residential": 29443.5,
+    "S_non_residential": 5233.5,
+    "Price_plan": 7100000000.0,
+    "S_land": 3209.0,
+    "Start_period": "2023-10-24",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2023-10-04",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мелкоштучных каменных материалов (кир-пич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "98.15 м",
+    "N_residential_rooms": 510,
+    "N_non_residential_rooms": 305,
+    "parking": 212,
+    "other_rooms": 93,
+    "min_S_flat": 26.7,
+    "other_rooms_19_6_1_4": 12041000000.0,
+    "other_info": "Высота потолков в квартирах указана до выполнения отделки.В квартирах имеются местные конструктивные занижения:плиты (кла-\nдовые)\"-1.001КЛ,-1.002КЛ,-1.003КЛ,-1.004КЛ,-1.005КЛ,-1.006КЛ,-1.007КЛ,-1.008КЛ,-1.009КЛ,-1.010КЛ,-1.011КЛ,-2.001КЛ,-2.002КЛ указаны как «1.001КЛ, 1.002КЛ, 1.003КЛ, 1.004КЛ, 1.005КЛ, 1.006КЛ, 1.007КЛ, 1.008КЛ, 1.009КЛ, 1.010КЛ, 1.011КЛ, 2.001КЛ, 2.002\nтребованием ЕИСЖС к заполнению условного номера.ЖК «Дом 56»-победитель премии ProEstate&Toby Awards 2023 в номинации"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, ул. Фридриха Энгельса, земельный участок 56/1; вл. 58, стр. 1, 2, 3; вл. 60, стр.1, вл. 62,\nстр. 1",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ГАЛС-ФРИДРИХА ЭНГЕЛЬСА\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Фридриха Энгельса\", \"land_plot\": \"земельный участок 56/1\", \"building\": \"строение 1\"}",
+    "developer_llm_response": "ГАЛС-ФРИДРИХА ЭНГЕЛЬСА",
+    "loan_amounts_parsed": [
+      12041000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "26.70",
+      "conditional_number": "11"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недвижимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

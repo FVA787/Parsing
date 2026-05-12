@@ -1,0 +1,166 @@
+{
+  "source_file": "0248_ЖК Новое Внуково_44043446_obj56945-pd77-002998.xlsx",
+  "id": 56945,
+  "N_declaration": "77-002998",
+  "date_declaration": "2026-03-09",
+  "Declaration_info": {
+    "id": 56945,
+    "name": "Комплексная жилая застройка с объектами социальной и инже-нерной инфраструктуры. Пятая очередь строительства: 1-ый этап\n- жилой дом №31; 2-ой этап - жилой дом №32; 3-ий этап - жилой дом №33; 4-ый этап - жилой дом №34; 5-ый этап - жилой дом №35. Этап 1. Жилой дом № 31",
+    "N_declaration": "77-002998",
+    "date_declaration": "2026-03-09"
+  },
+  "Current_declaration": {
+    "id": 56945,
+    "N_declaration": "77-002998",
+    "date_declaration": "2026-03-09",
+    "name": "Комплексная жилая застройка с объектами социальной и инже-нерной инфраструктуры. Пятая очередь строительства: 1-ый этап\n- жилой дом №31; 2-ой этап - жилой дом №32; 3-ий этап - жилой дом №33; 4-ый этап - жилой дом №34; 5-ый этап - жилой дом №35. Этап 1. Жилой дом № 31",
+    "developer": "САНИНО 1",
+    "city": null,
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Поселение Кокошкино",
+    "S_total": 13510.64,
+    "S_residential": 8508.19,
+    "S_non_residential": 1348.52,
+    "Price_plan": 1304809065.0,
+    "S_land": 11944.0,
+    "Start_period": "2023-12-28",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2023-12-21",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "45 м",
+    "N_residential_rooms": 224,
+    "N_non_residential_rooms": 90,
+    "parking": 0,
+    "other_rooms": 90,
+    "min_S_flat": 22.58,
+    "other_rooms_19_6_1_4": 11290790000.0,
+    "other_info": "Данные 13 раздела общие для всех корпусов"
+  },
+  "debug": {
+    "address_raw": "Жилой дом № 31",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"САНИНО 1\"",
+    "address_llm_response": "{\"city\": null, \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "САНИНО 1",
+    "loan_amounts_parsed": [
+      5645395000.0,
+      5645395000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "22.58",
+      "conditional_number": "95"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

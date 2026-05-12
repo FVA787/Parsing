@@ -1,0 +1,113 @@
+{
+  "source_file": "0550_Ул. Большая Черёмушкинская_ з__33564985_obj70590-pd77-003301.xlsx",
+  "id": 70590,
+  "N_declaration": "77-003301",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 70590,
+    "name": "Жилой дом с инженерными сетями и благоустройством терри-тории",
+    "N_declaration": "77-003301",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 70590,
+    "N_declaration": "77-003301",
+    "date_declaration": "2026-03-05",
+    "name": "Жилой дом с инженерными сетями и благоустройством терри-тории",
+    "developer": "МОСКОВСКИЙ ФОНД РЕНОВАЦИИ ЖИЛОЙ ЗАСТРОЙКИ",
+    "city": "Москва",
+    "district": null,
+    "street": "Большая Черемушкинская улица",
+    "land_plot": "земельный участок 26/2",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Академический район",
+    "S_total": 13694.3,
+    "S_residential": 9480.05,
+    "S_non_residential": 673.6,
+    "Price_plan": 2032115495.0,
+    "S_land": 3202.0,
+    "Start_period": "2025-12-12",
+    "Finish_period": "3 квартал 2027 г.",
+    "Date_expert": "2025-07-18",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "69.6 м",
+    "N_residential_rooms": 152,
+    "N_non_residential_rooms": 6,
+    "parking": 0,
+    "other_rooms": 6,
+    "min_S_flat": 45.83,
+    "other_rooms_19_6_1_4": null,
+    "other_info": "Пункт 19.1 настоящей декларации для Фонда реновации не применяется ввиду изъятий, установленных статьёй 7.7 За-кона РФ от 15.04.1993 № 4802-1 «О статусе столицы Россий-ской Федерации»"
+  },
+  "debug": {
+    "address_raw": "Большая Черемушкинская улица, земельный участок 26/2",
+    "developer_raw": "МОСКОВСКИЙ ФОНД РЕНОВАЦИИ ЖИЛОЙ ЗАСТРОЙКИ",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"Большая Черемушкинская улица\", \"land_plot\": \"земельный участок 26/2\", \"building\": null}",
+    "developer_llm_response": "МОСКОВСКИЙ ФОНД РЕНОВАЦИИ ЖИЛОЙ ЗАСТРОЙКИ",
+    "loan_amounts_parsed": [],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "45.83",
+      "conditional_number": "3"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      }
+    ]
+  }
+}

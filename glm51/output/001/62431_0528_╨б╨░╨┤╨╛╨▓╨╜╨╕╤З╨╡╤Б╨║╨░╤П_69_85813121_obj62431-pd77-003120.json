@@ -1,0 +1,1106 @@
+{
+  "source_file": "0528_Садовническая 69_85813121_obj62431-pd77-003120.xlsx",
+  "id": "62431",
+  "N_declaration": "77-003120",
+  "date_declaration": "17.03.2026",
+  "parsed_raw": {
+    "name": {
+      "source_section": "9.2.2",
+      "value": "Жилой комплекс"
+    },
+    "developer": {
+      "source_section": "1.1.2",
+      "value": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК БАЛЧУГ ЭС-ТЕЙТ\""
+    },
+    "address_raw": {
+      "source_section": "9.2.17",
+      "value": "Г.Москва, ЦАО, район Замоскворечье, ул.Садовническая, вл.76/71"
+    },
+    "subject": {
+      "source_section": "9.2.3",
+      "value": "Город Москва"
+    },
+    "region": {
+      "source_section": "9.2.8",
+      "value": "Район Замоскворечье"
+    },
+    "S_total": {
+      "source_section": "9.2.21",
+      "value": "42 921,7 м2"
+    },
+    "S_residential": {
+      "source_section": "9.3.1",
+      "value": "22 665,31 м2"
+    },
+    "S_non_residential": {
+      "source_section": "9.3.2",
+      "value": "5 070,20 м2"
+    },
+    "Price_plan": {
+      "source_section": "18.1.1",
+      "value": "9 336 869 651,77 руб."
+    },
+    "S_land": {
+      "source_section": "12.3.2",
+      "value": "8 391,00 м²"
+    },
+    "Start_period": {
+      "source_section": "11.1.2",
+      "value": "04.09.2024"
+    },
+    "Date_expert": {
+      "source_section": "10.4.2",
+      "value": "Дата выдачи заключения экспертизы проектной документации и (или) экспертизы результатов инженерных изысканий: 19.08.2024"
+    },
+    "material_walls": {
+      "source_section": "9.2.22",
+      "value": "Иной вид материалов наружных стен и каркасов (с монолитным железобетонным каркасом и сертифицированной вентилируемой фасадной системой)"
+    },
+    "material_covering": {
+      "source_section": "9.2.23",
+      "value": "Монолитные железобетонные"
+    },
+    "energy_class": {
+      "source_section": "9.2.24",
+      "value": "A"
+    },
+    "max_height": {
+      "source_section": "13.2.3",
+      "value": "Не установлено градостроительным регламентом"
+    },
+    "N_residential_rooms": {
+      "source_section": "15.1.1",
+      "value": "158"
+    },
+    "N_non_residential_rooms": {
+      "source_section": "15.1.2",
+      "value": "393"
+    },
+    "parking": {
+      "source_section": "15.1.2.1",
+      "value": "234"
+    },
+    "other_rooms": {
+      "source_section": "15.1.2.2",
+      "value": "159"
+    },
+    "other_info": {
+      "source_section": "23.1.1",
+      "value": "Застройщиком заключены договоры о приобретении жилых помещений и машиномест, создаваемых в многоквартирном доме с КП г.Москвы «Управление гражданского строитель-ства» (Приобретатель) для дальнейшей передачи таких по-мещений в собственность г.Москвы. 1. Договор №САД76-71/ ВК/22/225 от 29.06.2022 г. о приобретении 5000 кв.м.жилой пло-щади; 2. Договор №б/н от 12.02.2024 г. о приобретении 839 кв.м.жилой площади; - За период январь 2026 г. рамках одного ДДУ были проданы и квартиры, и машиноместа, в связи с чем в блоке \"Машиноместа\" п. 19.7 количество ДДУ - 0 за январь 2026 г. Внесены изменения от 03.03.2026 в РнС №77-01-021714-2024"
+    },
+    "Finish_period": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      }
+    ],
+    "residential_units_raw": {
+      "source_section": "15.2.1",
+      "value": [
+        {
+          "conditional_number": "1.1.1",
+          "purpose": "Квартира",
+          "floor": "1",
+          "entrance": "1",
+          "total_area": "173.36",
+          "rooms_count": "3",
+          "living_area": "72.48",
+          "ceiling_height": "3.90"
+        },
+        {
+          "conditional_number": "1.1.2",
+          "purpose": "Квартира",
+          "floor": "1",
+          "entrance": "1",
+          "total_area": "61.08",
+          "rooms_count": "1",
+          "living_area": "21.34",
+          "ceiling_height": "3.90"
+        },
+        {
+          "conditional_number": "1.1.3",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "183.32",
+          "rooms_count": "4",
+          "living_area": "106.25",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "1.1.4",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "72.32",
+          "rooms_count": "1",
+          "living_area": "27.97",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "1.1.5",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "71.42",
+          "rooms_count": "1",
+          "living_area": "27.97",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "1.1.6",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "171.89",
+          "rooms_count": "4",
+          "living_area": "111.89",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "1.1.7",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "1",
+          "total_area": "183.48",
+          "rooms_count": "4",
+          "living_area": "106.41",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "1.1.8",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "1",
+          "total_area": "71.67",
+          "rooms_count": "1",
+          "living_area": "27.97",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "1.1.9",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "1",
+          "total_area": "71.42",
+          "rooms_count": "1",
+          "living_area": "27.97",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2010-01-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "1",
+          "total_area": "171.26",
+          "rooms_count": "4",
+          "living_area": "111.89",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2011-01-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "1",
+          "total_area": "183.48",
+          "rooms_count": "4",
+          "living_area": "106.41",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2012-01-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "1",
+          "total_area": "71.67",
+          "rooms_count": "1",
+          "living_area": "27.97",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2013-01-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "1",
+          "total_area": "71.42",
+          "rooms_count": "1",
+          "living_area": "27.97",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2014-01-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "1",
+          "total_area": "171.26",
+          "rooms_count": "4",
+          "living_area": "111.89",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2015-01-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "5",
+          "entrance": "1",
+          "total_area": "201.85",
+          "rooms_count": "5",
+          "living_area": "125.64",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2016-01-01 00:00:00",
+          "purpose": "Квартира на двух и более этажах",
+          "floor": "5",
+          "entrance": "1",
+          "total_area": "324.79",
+          "rooms_count": "5",
+          "living_area": "179.87",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2017-01-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "6",
+          "entrance": "1",
+          "total_area": "208.56",
+          "rooms_count": "4",
+          "living_area": "82.09",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2018-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "2",
+          "total_area": "181.35",
+          "rooms_count": "3",
+          "living_area": "65.76",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2019-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "2",
+          "total_area": "128.62",
+          "rooms_count": "2",
+          "living_area": "47.79",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2020-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "2",
+          "total_area": "72.32",
+          "rooms_count": "1",
+          "living_area": "27.97",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2021-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "2",
+          "total_area": "72.42",
+          "rooms_count": "1",
+          "living_area": "27.97",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2022-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "2",
+          "total_area": "146.64",
+          "rooms_count": "3",
+          "living_area": "57.81",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2023-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "2",
+          "total_area": "180.01",
+          "rooms_count": "3",
+          "living_area": "65.76",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2024-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "2",
+          "total_area": "127.74",
+          "rooms_count": "2",
+          "living_area": "47.79",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2025-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "2",
+          "total_area": "71.69",
+          "rooms_count": "1",
+          "living_area": "27.97",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2026-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "2",
+          "total_area": "71.82",
+          "rooms_count": "1",
+          "living_area": "27.97",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2027-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "2",
+          "total_area": "145.70",
+          "rooms_count": "3",
+          "living_area": "57.81",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2028-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "2",
+          "total_area": "180.01",
+          "rooms_count": "3",
+          "living_area": "65.76",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2029-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "2",
+          "total_area": "127.74",
+          "rooms_count": "2",
+          "living_area": "47.79",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2030-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "2",
+          "total_area": "71.69",
+          "rooms_count": "1",
+          "living_area": "27.97",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2031-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "2",
+          "total_area": "71.82",
+          "rooms_count": "1",
+          "living_area": "27.97",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2032-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "2",
+          "total_area": "145.70",
+          "rooms_count": "3",
+          "living_area": "57.81",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2033-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "5",
+          "entrance": "2",
+          "total_area": "265.16",
+          "rooms_count": "5",
+          "living_area": "124.77",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2034-02-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "5",
+          "entrance": "2",
+          "total_area": "225.51",
+          "rooms_count": "4",
+          "living_area": "86.28",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2035-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "1",
+          "entrance": "3",
+          "total_area": "166.51",
+          "rooms_count": "3",
+          "living_area": "65.71",
+          "ceiling_height": "3.90"
+        },
+        {
+          "conditional_number": "2036-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "1",
+          "entrance": "3",
+          "total_area": "63.23",
+          "rooms_count": "1",
+          "living_area": "22.17",
+          "ceiling_height": "3.90"
+        },
+        {
+          "conditional_number": "2037-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "1",
+          "entrance": "3",
+          "total_area": "108.07",
+          "rooms_count": "2",
+          "living_area": "42.59",
+          "ceiling_height": "3.90"
+        },
+        {
+          "conditional_number": "2038-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "1",
+          "entrance": "3",
+          "total_area": "57.61",
+          "rooms_count": "1",
+          "living_area": "19.44",
+          "ceiling_height": "3.90"
+        },
+        {
+          "conditional_number": "2039-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "3",
+          "total_area": "100.91",
+          "rooms_count": "2",
+          "living_area": "43.62",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2040-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "3",
+          "total_area": "144.05",
+          "rooms_count": "3",
+          "living_area": "66.69",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2041-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "3",
+          "total_area": "73.95",
+          "rooms_count": "1",
+          "living_area": "28.81",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2042-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "3",
+          "total_area": "118.50",
+          "rooms_count": "2",
+          "living_area": "46.91",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2043-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "3",
+          "total_area": "57.06",
+          "rooms_count": "1",
+          "living_area": "18.98",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2044-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "3",
+          "total_area": "100.72",
+          "rooms_count": "2",
+          "living_area": "43.62",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2045-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "3",
+          "total_area": "144.05",
+          "rooms_count": "3",
+          "living_area": "66.69",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2046-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "3",
+          "total_area": "73.50",
+          "rooms_count": "1",
+          "living_area": "28.81",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2047-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "3",
+          "total_area": "118.50",
+          "rooms_count": "2",
+          "living_area": "46.91",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2048-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "3",
+          "total_area": "57.06",
+          "rooms_count": "1",
+          "living_area": "18.98",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2049-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "3",
+          "total_area": "100.72",
+          "rooms_count": "2",
+          "living_area": "43.62",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2050-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "3",
+          "total_area": "144.05",
+          "rooms_count": "3",
+          "living_area": "66.69",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2051-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "3",
+          "total_area": "73.50",
+          "rooms_count": "1",
+          "living_area": "28.81",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2052-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "3",
+          "total_area": "118.50",
+          "rooms_count": "2",
+          "living_area": "46.91",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2053-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "3",
+          "total_area": "57.06",
+          "rooms_count": "1",
+          "living_area": "18.98",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2054-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "5",
+          "entrance": "3",
+          "total_area": "197.92",
+          "rooms_count": "4",
+          "living_area": "83.92",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2055-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "5",
+          "entrance": "3",
+          "total_area": "203.26",
+          "rooms_count": "4",
+          "living_area": "80.70",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2056-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "6",
+          "entrance": "3",
+          "total_area": "172.87",
+          "rooms_count": "4",
+          "living_area": "83.42",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2057-03-01 00:00:00",
+          "purpose": "Квартира",
+          "floor": "6",
+          "entrance": "3",
+          "total_area": "214.55",
+          "rooms_count": "4",
+          "living_area": "81.57",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2.1.1",
+          "purpose": "Квартира",
+          "floor": "1",
+          "entrance": "1",
+          "total_area": "126.21",
+          "rooms_count": "3",
+          "living_area": "51.84",
+          "ceiling_height": "3.90"
+        },
+        {
+          "conditional_number": "2.1.2",
+          "purpose": "Квартира",
+          "floor": "1",
+          "entrance": "1",
+          "total_area": "78.71",
+          "rooms_count": "1",
+          "living_area": "21.78",
+          "ceiling_height": "3.90"
+        },
+        {
+          "conditional_number": "2.1.3",
+          "purpose": "Квартира",
+          "floor": "1",
+          "entrance": "1",
+          "total_area": "103.18",
+          "rooms_count": "2",
+          "living_area": "37.31",
+          "ceiling_height": "3.90"
+        },
+        {
+          "conditional_number": "2.1.4",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "105.63",
+          "rooms_count": "2",
+          "living_area": "39.29",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2.1.5",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "55.65",
+          "rooms_count": "1",
+          "living_area": "20.28",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2.1.6",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "106.67",
+          "rooms_count": "2",
+          "living_area": "40.22",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2.1.7",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "1",
+          "total_area": "133.69",
+          "rooms_count": "3",
+          "living_area": "55.62",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2.1.8",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "1",
+          "total_area": "133.96",
+          "rooms_count": "3",
+          "living_area": "56.11",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2.1.9",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "1",
+          "total_area": "133.69",
+          "rooms_count": "3",
+          "living_area": "55.62",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2010-01-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "1",
+          "total_area": "133.84",
+          "rooms_count": "3",
+          "living_area": "56.11",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2011-01-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "5",
+          "entrance": "1",
+          "total_area": "133.69",
+          "rooms_count": "3",
+          "living_area": "55.62",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2012-01-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "5",
+          "entrance": "1",
+          "total_area": "133.84",
+          "rooms_count": "3",
+          "living_area": "56.11",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2013-01-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "6",
+          "entrance": "1",
+          "total_area": "163.61",
+          "rooms_count": "3",
+          "living_area": "56.03",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2014-01-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "6",
+          "entrance": "1",
+          "total_area": "160.07",
+          "rooms_count": "3",
+          "living_area": "56.52",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2015-02-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "105.95",
+          "rooms_count": "3",
+          "living_area": "49.13",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2016-02-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "56.04",
+          "rooms_count": "1",
+          "living_area": "18.20",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2017-02-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "106.49",
+          "rooms_count": "2",
+          "living_area": "39.61",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2018-02-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "1",
+          "total_area": "134.28",
+          "rooms_count": "4",
+          "living_area": "70.46",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2019-02-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "1",
+          "total_area": "133.50",
+          "rooms_count": "3",
+          "living_area": "54.81",
+          "ceiling_height": "3.15"
+        },
+        {
+          "conditional_number": "2020-02-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "1",
+          "total_area": "134.28",
+          "rooms_count": "4",
+          "living_area": "70.46",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2021-02-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "1",
+          "total_area": "133.50",
+          "rooms_count": "3",
+          "living_area": "54.81",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2022-02-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "5",
+          "entrance": "1",
+          "total_area": "134.28",
+          "rooms_count": "4",
+          "living_area": "70.46",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2023-02-02 00:00:00",
+          "purpose": "Квартира",
+          "floor": "5",
+          "entrance": "1",
+          "total_area": "133.50",
+          "rooms_count": "3",
+          "living_area": "54.81",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "Т1",
+          "purpose": "Квартира на двух и более этажах",
+          "floor": "1",
+          "entrance": "1",
+          "total_area": "305.53",
+          "rooms_count": "5",
+          "living_area": "145.18",
+          "ceiling_height": "6.30"
+        },
+        {
+          "conditional_number": "Т2",
+          "purpose": "Квартира на двух и более этажах",
+          "floor": "1",
+          "entrance": "2",
+          "total_area": "223.16",
+          "rooms_count": "5",
+          "living_area": "119.63",
+          "ceiling_height": "6.30"
+        },
+        {
+          "conditional_number": "Т3",
+          "purpose": "Квартира на двух и более этажах",
+          "floor": "1",
+          "entrance": "3",
+          "total_area": "195.22",
+          "rooms_count": "5",
+          "living_area": "112.13",
+          "ceiling_height": "6.30"
+        },
+        {
+          "conditional_number": "Т4",
+          "purpose": "Квартира на двух и более этажах",
+          "floor": "1",
+          "entrance": "3",
+          "total_area": "263.34",
+          "rooms_count": "5",
+          "living_area": "113.93",
+          "ceiling_height": "6.30"
+        },
+        {
+          "conditional_number": "3.1.1",
+          "purpose": "Квартира",
+          "floor": "1",
+          "entrance": "1",
+          "total_area": "127.58",
+          "rooms_count": "2",
+          "living_area": "43.14",
+          "ceiling_height": "4.05"
+        },
+        {
+          "conditional_number": "3.1.2",
+          "purpose": "Квартира",
+          "floor": "1",
+          "entrance": "1",
+          "total_area": "142.78",
+          "rooms_count": "3",
+          "living_area": "59.81",
+          "ceiling_height": "4.05"
+        },
+        {
+          "conditional_number": "3.1.3",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "157.07",
+          "rooms_count": "3",
+          "living_area": "63.27",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "3.1.4",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "94.82",
+          "rooms_count": "2",
+          "living_area": "34.32",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "3.1.5",
+          "purpose": "Квартира",
+          "floor": "2",
+          "entrance": "1",
+          "total_area": "114.17",
+          "rooms_count": "2",
+          "living_area": "51.57",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "3.1.6",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "1",
+          "total_area": "188.16",
+          "rooms_count": "3",
+          "living_area": "63.27",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "3.1.7",
+          "purpose": "Квартира",
+          "floor": "3",
+          "entrance": "1",
+          "total_area": "208.85",
+          "rooms_count": "5",
+          "living_area": "116.52",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "3.1.8",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "1",
+          "total_area": "156.96",
+          "rooms_count": "2",
+          "living_area": "48.53",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "3.1.9",
+          "purpose": "Квартира",
+          "floor": "4",
+          "entrance": "1",
+          "total_area": "208.63",
+          "rooms_count": "5",
+          "living_area": "116.52",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2010-01-03 00:00:00",
+          "purpose": "Квартира",
+          "floor": "5",
+          "entrance": "1",
+          "total_area": "174.50",
+          "rooms_count": "3",
+          "living_area": "75.12",
+          "ceiling_height": "3.30"
+        },
+        {
+          "conditional_number": "2011-01-03 00:00:00",
+          "purpose": "Квартира",
+          "floor": "5",
+          "entrance": "1",
+          "total_area": "146.12",
+          "rooms_count": "3",
+          "living_area": "72.79",
+          "ceiling_height": "3.30"
+        }
+      ]
+    },
+    "loan_amounts_19_6_1_4_raw": [
+      {
+        "occurrence": 1,
+        "source_section": "19.6.1.4",
+        "value": "22 086 408 471,67 руб."
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "source_file": "0285_Жилой дом_ ул.Амурская_ вл.46 _90465145_obj70368-pd77-003294.xlsx",
+  "id": 70368,
+  "N_declaration": "77-003294",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 70368,
+    "name": "Многоквартирный дом по адресу: г. Москва, внутригородское му-ниципальное образование Гольяново, мкр. 1-2, зона 3.2 (Восточный административный округ)",
+    "N_declaration": "77-003294",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 70368,
+    "N_declaration": "77-003294",
+    "date_declaration": "2026-03-03",
+    "name": "Многоквартирный дом по адресу: г. Москва, внутригородское му-ниципальное образование Гольяново, мкр. 1-2, зона 3.2 (Восточный административный округ)",
+    "developer": "ГОЛЬЯНОВО",
+    "city": "Москва",
+    "district": "Гольяново",
+    "street": "Амурская улица",
+    "land_plot": "земельный участок 46",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Гольяново",
+    "S_total": 12701.5,
+    "S_residential": 8590.4,
+    "S_non_residential": 354.7,
+    "Price_plan": 1431998285.02,
+    "S_land": 3865.0,
+    "Start_period": "2026-01-13",
+    "Finish_period": "4 квартал 2027 г.",
+    "Date_expert": "2025-09-04",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Каркас - мо-нолитный железобетон, стены из навесных трёхслойных ж/б па-нелей и блоков с навесной фасадной системой, стены первых эта-жей из блоков с навесной фасадной системой)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "65 м",
+    "N_residential_rooms": 135,
+    "N_non_residential_rooms": 4,
+    "parking": 0,
+    "other_rooms": 4,
+    "min_S_flat": 47.2,
+    "other_rooms_19_6_1_4": 4214940327.9700003,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, ВАО, внутригородская территория муниципальный ок-руг Гольяново, Амурская улица, земельный участок 46, зона 3.2",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ГОЛЬЯНОВО\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Гольяново\", \"street\": \"Амурская улица\", \"land_plot\": \"земельный участок 46\", \"building\": null}",
+    "developer_llm_response": "ГОЛЬЯНОВО",
+    "loan_amounts_parsed": [
+      1214940327.97,
+      3000000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "47.20",
+      "conditional_number": "2"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      }
+    ]
+  }
+}

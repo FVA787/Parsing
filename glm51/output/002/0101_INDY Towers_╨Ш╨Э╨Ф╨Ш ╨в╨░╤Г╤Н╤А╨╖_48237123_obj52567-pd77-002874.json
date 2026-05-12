@@ -1,0 +1,115 @@
+{
+  "source_file": "0101_INDY Towers_ИНДИ Тауэрз_48237123_obj52567-pd77-002874.xlsx",
+  "id": 52567,
+  "N_declaration": "77-002874",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 52567,
+    "name": "Многофункциональный жилой комплекс с детским образователь-ным учреждением и подземной автостоянкой. Этап 1",
+    "N_declaration": "77-002874",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 52567,
+    "N_declaration": "77-002874",
+    "date_declaration": "2026-03-06",
+    "name": "Многофункциональный жилой комплекс с детским образователь-ным учреждением и подземной автостоянкой. Этап 1",
+    "developer": "НОВОПЕСЧАНАЯ",
+    "city": "Москва",
+    "district": "Хорошёвский",
+    "street": "улица Куусинена",
+    "land_plot": "владение 21",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Хорошёвский район",
+    "S_total": 74360.8,
+    "S_residential": 42590.9,
+    "S_non_residential": 9936.8,
+    "Price_plan": 19869251815.0,
+    "S_land": 22462.0,
+    "Start_period": "2023-06-05",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2023-04-27",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "200 м",
+    "N_residential_rooms": 959,
+    "N_non_residential_rooms": 770,
+    "parking": 473,
+    "other_rooms": 297,
+    "min_S_flat": 19.9,
+    "other_rooms_19_6_1_4": 9802512583.4,
+    "other_info": "Во исполнение Предостережения направляется финансовый результат на отчетную дату:31.03.2024, кредиторская задол-женность:218 069 000 руб.дебиторская задолженность:5 722 973\n000 руб.чистая прибыль:64 000 руб"
+  },
+  "debug": {
+    "address_raw": "Москва, САО, г. Москва, Хорошевский, ул. Куусинена, вл. 21, 21А",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"НОВОПЕСЧА-НАЯ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Хорошёвский\", \"street\": \"улица Куусинена\", \"land_plot\": \"владение 21\", \"building\": null}",
+    "developer_llm_response": "НОВОПЕСЧАНАЯ",
+    "loan_amounts_parsed": [
+      9802512583.4
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "19.90",
+      "conditional_number": "20"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

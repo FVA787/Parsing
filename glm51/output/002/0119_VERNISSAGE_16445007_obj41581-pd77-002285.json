@@ -1,0 +1,111 @@
+{
+  "source_file": "0119_VERNISSAGE_16445007_obj41581-pd77-002285.xlsx",
+  "id": 41581,
+  "N_declaration": "77-002285",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 41581,
+    "name": "Многофункциональный комплекс апартаментов с подземной пар-ковкой и коммерческими помещениями",
+    "N_declaration": "77-002285",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 41581,
+    "N_declaration": "77-002285",
+    "date_declaration": "2026-03-06",
+    "name": "Многофункциональный комплекс апартаментов с подземной пар-ковкой и коммерческими помещениями",
+    "developer": "ЩИПОК",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Щипок",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Замоскворечье",
+    "S_total": 3557.89,
+    "S_residential": 0.0,
+    "S_non_residential": 2525.57,
+    "Price_plan": 968250000.0,
+    "S_land": 568.0,
+    "Start_period": "2021-06-11",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2024-08-26",
+    "material_walls": "с монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "30 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 49,
+    "parking": 22,
+    "other_rooms": 27,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 871102418.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Улица Щипок, д.26",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ЩИПОК\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Щипок\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ЩИПОК",
+    "loan_amounts_parsed": [
+      871102418.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2022 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2022 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

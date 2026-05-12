@@ -1,0 +1,113 @@
+{
+  "source_file": "0279_Жилой дом г.Москва Дмитровское_50791481_obj54732-pd77-002934.xlsx",
+  "id": 54732,
+  "N_declaration": "77-002934",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 54732,
+    "name": "Жилой дом с инженерными сетями и благоустройством терри-тории",
+    "N_declaration": "77-002934",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 54732,
+    "N_declaration": "77-002934",
+    "date_declaration": "2026-03-05",
+    "name": "Жилой дом с инженерными сетями и благоустройством терри-тории",
+    "developer": "МОСКОВСКИЙ ФОНД РЕНОВАЦИИ ЖИЛОЙ ЗАСТРОЙКИ",
+    "city": "Москва",
+    "district": null,
+    "street": "Дмитровское шоссе",
+    "land_plot": "земельный участок 89",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Бескудниковский район",
+    "S_total": 104212.9,
+    "S_residential": 56218.9,
+    "S_non_residential": 4284.07,
+    "Price_plan": 13063892489.87,
+    "S_land": 17351.0,
+    "Start_period": "2023-05-25",
+    "Finish_period": "2 квартал 2027 г.",
+    "Date_expert": "2023-01-18",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Цоколь, стены 1-го этажа – многослойные наружные стены с лицевым слоем из ке-рамического кирпича. Наружные стены со 2-го этажа и выше – на-весные трехслойные наружные стеновые панели заводского изго-товления, облицованные керамическим кирпичом. Каркас объек-та: монолитный железобетон)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "143.66 м",
+    "N_residential_rooms": 913,
+    "N_non_residential_rooms": 175,
+    "parking": 160,
+    "other_rooms": 15,
+    "min_S_flat": 41.8,
+    "other_rooms_19_6_1_4": null,
+    "other_info": "Пункт 19.1 настоящей декларации для Фонда реновации не применяется ввиду изъятий, установленных статьёй 7.7 За-кона РФ от 15.04.1993 № 4802-1 «О статусе столицы Россий-ской Федерации»"
+  },
+  "debug": {
+    "address_raw": "Дмитровское шоссе, земельный участок 89",
+    "developer_raw": "МОСКОВСКИЙ ФОНД РЕНОВАЦИИ ЖИЛОЙ ЗАСТРОЙКИ",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"Дмитровское шоссе\", \"land_plot\": \"земельный участок 89\", \"building\": null}",
+    "developer_llm_response": "МОСКОВСКИЙ ФОНД РЕНОВАЦИИ ЖИЛОЙ ЗАСТРОЙКИ",
+    "loan_amounts_parsed": [],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "41.80",
+      "conditional_number": "696"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      }
+    ]
+  }
+}

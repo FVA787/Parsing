@@ -1,0 +1,111 @@
+{
+  "source_file": "0133_БЦ Опус_66673728_obj52725-pd77-002876.xlsx",
+  "id": 52725,
+  "N_declaration": "77-002876",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 52725,
+    "name": "Жилая и офисная застройка. Бизнес-центр. Этап 2",
+    "N_declaration": "77-002876",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 52725,
+    "N_declaration": "77-002876",
+    "date_declaration": "2026-03-10",
+    "name": "Жилая и офисная застройка. Бизнес-центр. Этап 2",
+    "developer": "ОПУС",
+    "city": "Москва",
+    "district": "ЮАО",
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Даниловский район",
+    "S_total": 34492.61,
+    "S_residential": 0.0,
+    "S_non_residential": 25866.2,
+    "Price_plan": 9025448449.85,
+    "S_land": 26761.0,
+    "Start_period": "2022-09-15",
+    "Finish_period": "1 квартал 2026 г.",
+    "Date_expert": "2022-07-08",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (С монолитным железобетонным каркасом и стенами из мелкоштучных каменных материалов (кирпич, керамические камни, блоки и др.), венти-лируемой фасадной системой.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "48.91 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 207,
+    "parking": 76,
+    "other_rooms": 131,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 10666638814.98,
+    "other_info": "Финансовый результат за 2 квартал 2025 года согласно Бух-галтерской отчетности: Размер чистой прибыли(убытков): (24 102 тыс.руб.), размер кредиторской задолженности: 1 533 322\nтыс.руб. ,размер дебиторской задолженности: 17 705 440 тыс.руб. Финансовый результат за 3 квартал 2025 года сог-ласно Бухгалтерской отчетности: Размер чистой при-были(убытков): (23 092 тыс.руб.), размер кредиторской задол-женности: 1 984 842 тыс.руб. размер дебиторской задолженнос-\nти: 19 048 230 тыс.руб."
+  },
+  "debug": {
+    "address_raw": "ЮАО",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ОПУС\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"ЮАО\", \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ОПУС",
+    "loan_amounts_parsed": [
+      10666638814.98
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      }
+    ]
+  }
+}

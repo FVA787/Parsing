@@ -1,0 +1,111 @@
+{
+  "source_file": "0097_EvoPark Измайлово_68446979_obj58201-pd77-003030.xlsx",
+  "id": 58201,
+  "N_declaration": "77-003030",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 58201,
+    "name": "Гостиница",
+    "N_declaration": "77-003030",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 58201,
+    "N_declaration": "77-003030",
+    "date_declaration": "2026-03-05",
+    "name": "Гостиница",
+    "developer": "АК БАРС НЕДВИЖИМОСТЬ",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Электродная",
+    "land_plot": "земельный участок 2а",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Перово",
+    "S_total": 19918.74,
+    "S_residential": 0.0,
+    "S_non_residential": 14271.17,
+    "Price_plan": 1679907990.09,
+    "S_land": 6055.0,
+    "Start_period": "2023-12-29",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2025-05-30",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "60 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 403,
+    "parking": 49,
+    "other_rooms": 354,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 2634331674.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Москва, ул. Электродная, земельный участок 2а",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"АК БАРС НЕД-ВИЖИМОСТЬ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Электродная\", \"land_plot\": \"земельный участок 2а\", \"building\": null}",
+    "developer_llm_response": "АК БАРС НЕДВИЖИМОСТЬ",
+    "loan_amounts_parsed": [
+      2634331674.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

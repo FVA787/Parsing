@@ -1,0 +1,115 @@
+{
+  "source_file": "0470_Новая_11_61850081_obj69275-pd77-003276.xlsx",
+  "id": 69275,
+  "N_declaration": "77-003276",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 69275,
+    "name": "Многоквартирный жилой дом с подземной автостоянкой",
+    "N_declaration": "77-003276",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 69275,
+    "N_declaration": "77-003276",
+    "date_declaration": "2026-03-04",
+    "name": "Многоквартирный жилой дом с подземной автостоянкой",
+    "developer": "ГОСУДАРСТВЕННЫЙ НАУЧНЫЙ ЦЕНТР ЛЕСОПРОМЫШЛЕННОГО КОМПЛЕКСА",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Новая Дорога",
+    "land_plot": "земельный участок 11Б/1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Басманный район",
+    "S_total": 13292.05,
+    "S_residential": 7954.28,
+    "S_non_residential": 1409.66,
+    "Price_plan": 4827514106.0,
+    "S_land": 4903.0,
+    "Start_period": "2025-11-28",
+    "Finish_period": "2 квартал 2029 г.",
+    "Date_expert": "2025-11-22",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Монолитный железобетон)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 139,
+    "N_non_residential_rooms": 69,
+    "parking": 48,
+    "other_rooms": 21,
+    "min_S_flat": 28.13,
+    "other_rooms_19_6_1_4": 4369160870.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Ул. Новая Дорога Земельный участок 11Б/1",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ГОСУДАРСТВЕН-НЫЙ НАУЧНЫЙ ЦЕНТР ЛЕСОПРОМЫШЛЕННОГО КОМ-ПЛЕКСА\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Новая Дорога\", \"land_plot\": \"земельный участок 11Б/1\", \"building\": null}",
+    "developer_llm_response": "ГОСУДАРСТВЕННЫЙ НАУЧНЫЙ ЦЕНТР ЛЕСОПРОМЫШЛЕННОГО КОМПЛЕКСА",
+    "loan_amounts_parsed": [
+      4369160870.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.13",
+      "conditional_number": "7"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2029 г."
+      }
+    ]
+  }
+}

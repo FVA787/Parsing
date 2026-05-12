@@ -1,0 +1,115 @@
+{
+  "source_file": "0389_Квартал _Издание__71778962_obj58312-pd77-003036.xlsx",
+  "id": 58312,
+  "N_declaration": "77-003036",
+  "date_declaration": "2026-03-09",
+  "Declaration_info": {
+    "id": 58312,
+    "name": "Комплекс жилых домов переменной этажности со встроенно-при-строенными помещениями общественного назначения и под-земной автостоянкой,",
+    "N_declaration": "77-003036",
+    "date_declaration": "2026-03-09"
+  },
+  "Current_declaration": {
+    "id": 58312,
+    "N_declaration": "77-003036",
+    "date_declaration": "2026-03-09",
+    "name": "Комплекс жилых домов переменной этажности со встроенно-при-строенными помещениями общественного назначения и под-земной автостоянкой,",
+    "developer": "БРУСНИКА",
+    "city": "Москва",
+    "district": "Нижегородский",
+    "street": "шоссе Перовское",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Нижегородский район",
+    "S_total": 79269.72,
+    "S_residential": 43741.6,
+    "S_non_residential": 10942.95,
+    "Price_plan": 16655626000.0,
+    "S_land": 18513.0,
+    "Start_period": "2024-03-01",
+    "Finish_period": "3 квартал 2027 г.",
+    "Date_expert": "2023-12-19",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "175 м",
+    "N_residential_rooms": 760,
+    "N_non_residential_rooms": 484,
+    "parking": 291,
+    "other_rooms": 193,
+    "min_S_flat": 16.7,
+    "other_rooms_19_6_1_4": 16655626000.0,
+    "other_info": "В результате раздела земельного участка с к/н 77:040002001:8601 образован новый земельный участок с к/н 77:04:0002001:9729"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, ЮВАО, Нижегородский р-н, шоссе Перовское",
+    "developer_raw": "БРУСНИКА . СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Нижегородский\", \"street\": \"шоссе Перовское\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "БРУСНИКА",
+    "loan_amounts_parsed": [
+      16655626000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "16.70",
+      "conditional_number": "3.22.8"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      }
+    ]
+  }
+}

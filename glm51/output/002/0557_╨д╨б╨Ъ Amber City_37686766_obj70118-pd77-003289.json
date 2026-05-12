@@ -1,0 +1,223 @@
+{
+  "source_file": "0557_ФСК Amber City_37686766_obj70118-pd77-003289.xlsx",
+  "id": 70118,
+  "N_declaration": "77-003289",
+  "date_declaration": "2026-03-09",
+  "Declaration_info": {
+    "id": 70118,
+    "name": "Многофункциональный жилой комплекс \"Амбер Сити\" с под-земной автостоянкой (2-я очередь строительства, корпуса К1, К2, К3). 2-й этап (Корпус К2 с пристройкой, часть общей подземной автостоянки)",
+    "N_declaration": "77-003289",
+    "date_declaration": "2026-03-09"
+  },
+  "Current_declaration": {
+    "id": 70118,
+    "N_declaration": "77-003289",
+    "date_declaration": "2026-03-09",
+    "name": "Многофункциональный жилой комплекс \"Амбер Сити\" с под-земной автостоянкой (2-я очередь строительства, корпуса К1, К2, К3). 2-й этап (Корпус К2 с пристройкой, часть общей подземной автостоянки)",
+    "developer": "ГУД-СИТИ",
+    "city": "Москва",
+    "district": "Хорошёвский",
+    "street": "3-й Хорошёвский проезд",
+    "land_plot": "владение 3А",
+    "building": "корпус 2",
+    "subject": "Город Москва",
+    "region": "Хорошёвский район",
+    "S_total": 36477.7,
+    "S_residential": 31146.1,
+    "S_non_residential": 1370.1,
+    "Price_plan": 8043501508.0,
+    "S_land": 8308.0,
+    "Start_period": "2025-03-21",
+    "Finish_period": "3 квартал 2031 г.",
+    "Date_expert": "2024-12-27",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 478,
+    "N_non_residential_rooms": 109,
+    "parking": 30,
+    "other_rooms": 79,
+    "min_S_flat": 28.8,
+    "other_rooms_19_6_1_4": 205227099954.0,
+    "other_info": "1. Площади п.9.3.1 – учитывают летние помещения с понижа-ющим коэф. для летних помещений 2. Удаление мусора предус-матривается 2 раза в день (утром и вечером). Мусор жильцами выносится в специальное помещение мусорокамеры распо-ложенное на первом этаже рядом с встроенной рампой у кор-пуса К3 ( количество 20 штук)."
+  },
+  "debug": {
+    "address_raw": "Г.Москва, 3-й Хорошёвский проезд, вл.3А, к.2",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ГУД-СИТИ",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Хорошёвский\", \"street\": \"3-й Хорошёвский проезд\", \"land_plot\": \"владение 3А\", \"building\": \"корпус 2\"}",
+    "developer_llm_response": "ГУД-СИТИ",
+    "loan_amounts_parsed": [
+      54960230211.0,
+      11387107107.0,
+      2061696000.0,
+      54960230211.0,
+      11387107107.0,
+      2061696000.0,
+      54960230211.0,
+      11387107107.0,
+      2061696000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.80",
+      "conditional_number": "945"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2031 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2029 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2029 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2029 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2030 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2030 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2029 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2029 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2029 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2030 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2030 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2031 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2031 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2031 г."
+      }
+    ]
+  }
+}

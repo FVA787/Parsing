@@ -1,0 +1,116 @@
+{
+  "source_file": "0313_Жилой комплекс _Волжский парк__87065689_obj61312-pd77-003094.xlsx",
+  "id": 61312,
+  "N_declaration": "77-003094",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 61312,
+    "name": "Жилые дома Корпуса 6.1, 6.2. Этап 2. Корпус 6.2.",
+    "N_declaration": "77-003094",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 61312,
+    "N_declaration": "77-003094",
+    "date_declaration": "2026-03-04",
+    "name": "Жилые дома Корпуса 6.1, 6.2. Этап 2. Корпус 6.2.",
+    "developer": "Волжский парк",
+    "city": "Москва",
+    "district": "Текстильщики",
+    "street": "1-й Грайвороновский проезд",
+    "land_plot": "владение 3",
+    "building": "корпус 6.2",
+    "subject": "Город Москва",
+    "region": "Район Текстильщики",
+    "S_total": 31829.1,
+    "S_residential": 20479.7,
+    "S_non_residential": 2007.2,
+    "Price_plan": 4730568665.0,
+    "S_land": 16691.0,
+    "Start_period": "2023-07-27",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2023-07-20",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (с монолитным железобетонным каркасом и стенами из крупных каменных бло-ков и панелей)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "75 м",
+    "N_residential_rooms": 524,
+    "N_non_residential_rooms": 117,
+    "parking": 0,
+    "other_rooms": 117,
+    "min_S_flat": 20.0,
+    "other_rooms_19_6_1_4": 5230568665.0,
+    "other_info": "Раздел 13\"О планируемых элементах благоустройства терри-тории и предельных параметрах разрешенного строитель-ства\"все благоустройство по проектной документации отно-сится к корпусу 6.1"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, ЮВАО, Текстильщики, 1-й Грайвороновский проезд, вл.3. Этап 2, корпус 6.2",
+    "developer_raw": "\"Специализированный застройщик \"Волжский парк\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Текстильщики\", \"street\": \"1-й Грайвороновский проезд\", \"land_plot\": \"владение 3\", \"building\": \"корпус 6.2\"}",
+    "developer_llm_response": "Волжский парк",
+    "loan_amounts_parsed": [
+      4730568665.0,
+      500000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "20.00",
+      "conditional_number": "346"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

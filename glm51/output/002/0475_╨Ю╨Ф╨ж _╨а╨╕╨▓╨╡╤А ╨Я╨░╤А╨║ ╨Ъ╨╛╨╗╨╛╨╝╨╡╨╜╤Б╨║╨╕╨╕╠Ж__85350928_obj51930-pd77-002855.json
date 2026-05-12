@@ -1,0 +1,111 @@
+{
+  "source_file": "0475_ОДЦ _Ривер Парк Коломенский__85350928_obj51930-pd77-002855.xlsx",
+  "id": 51930,
+  "N_declaration": "77-002855",
+  "date_declaration": "2026-03-13",
+  "Declaration_info": {
+    "id": 51930,
+    "name": "Офисно-деловой центр",
+    "N_declaration": "77-002855",
+    "date_declaration": "2026-03-13"
+  },
+  "Current_declaration": {
+    "id": 51930,
+    "N_declaration": "77-002855",
+    "date_declaration": "2026-03-13",
+    "name": "Офисно-деловой центр",
+    "developer": "МССЗ",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Речников",
+    "land_plot": "земельный участок 7/7",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Нагатинский Затон",
+    "S_total": 29200.0,
+    "S_residential": 0.0,
+    "S_non_residential": 23237.4,
+    "Price_plan": 4700970571.0,
+    "S_land": 11417.0,
+    "Start_period": "2023-05-02",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2022-12-23",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "50 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 484,
+    "parking": 50,
+    "other_rooms": 434,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 12490000000.0,
+    "other_info": "По состоянию на 31.12.2024 г.(за IV квартал 2024 г.) в финансо-вом результате текущего года чистая прибыль составила 5 022 776 тыс.руб.Размер кредиторской задолженности на 31.12.2024 г.-1 544 108 тыс.руб.Размер дебиторской задолженности на 31.12.2024 г.-4 274 451 тыс.руб"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, внутригородское муниципальное образование Нагатин-ский затон, ул. Речников, земельный участок 7/7",
+    "developer_raw": "Специализированный застройщик\"МССЗ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Речников\", \"land_plot\": \"земельный участок 7/7\", \"building\": null}",
+    "developer_llm_response": "МССЗ",
+    "loan_amounts_parsed": [
+      12490000000.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

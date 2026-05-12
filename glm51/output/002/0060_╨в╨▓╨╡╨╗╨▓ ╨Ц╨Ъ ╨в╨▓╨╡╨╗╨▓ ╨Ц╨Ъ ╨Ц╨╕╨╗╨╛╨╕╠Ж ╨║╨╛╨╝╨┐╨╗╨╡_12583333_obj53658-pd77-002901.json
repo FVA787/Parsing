@@ -1,0 +1,116 @@
+{
+  "source_file": "0060_Твелв ЖК Твелв ЖК Жилой компле_12583333_obj53658-pd77-002901.xlsx",
+  "id": 53658,
+  "N_declaration": "77-002901",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 53658,
+    "name": "Многофункциональный жилой комплекс",
+    "N_declaration": "77-002901",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 53658,
+    "N_declaration": "77-002901",
+    "date_declaration": "2026-03-05",
+    "name": "Многофункциональный жилой комплекс",
+    "developer": "ТЕКТАНАГОРНАЯ",
+    "city": "Москва",
+    "district": "Нагорный",
+    "street": "проезд Электролитный",
+    "land_plot": "владение 12Б",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Нагорный район",
+    "S_total": 82914.6,
+    "S_residential": 54797.6,
+    "S_non_residential": 9931.8,
+    "Price_plan": 17581232805.0,
+    "S_land": 19966.0,
+    "Start_period": "2023-08-10",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2023-04-14",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 934,
+    "N_non_residential_rooms": 847,
+    "parking": 372,
+    "other_rooms": 475,
+    "min_S_flat": 27.8,
+    "other_rooms_19_6_1_4": 17581232805.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, ЮАО, Нагорный р-н, проезд Электролитный, Владение 12Б",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТЕКТА-НАГОР-НАЯ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Нагорный\", \"street\": \"проезд Электролитный\", \"land_plot\": \"владение 12Б\", \"building\": null}",
+    "developer_llm_response": "ТЕКТАНАГОРНАЯ",
+    "loan_amounts_parsed": [
+      16662027670.0,
+      919205135.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "27.80",
+      "conditional_number": "399"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

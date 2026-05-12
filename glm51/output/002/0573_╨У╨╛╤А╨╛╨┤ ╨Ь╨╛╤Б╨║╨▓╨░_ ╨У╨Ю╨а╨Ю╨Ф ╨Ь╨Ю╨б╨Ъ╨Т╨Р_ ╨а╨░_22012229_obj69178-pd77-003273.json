@@ -1,0 +1,115 @@
+{
+  "source_file": "0573_Город Москва_ ГОРОД МОСКВА_ Ра_22012229_obj69178-pd77-003273.xlsx",
+  "id": 69178,
+  "N_declaration": "77-003273",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 69178,
+    "name": "Жилой дом с подземной автостоянкой",
+    "N_declaration": "77-003273",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 69178,
+    "N_declaration": "77-003273",
+    "date_declaration": "2026-03-05",
+    "name": "Жилой дом с подземной автостоянкой",
+    "developer": "СЕНС.КИРОВСКИЙ",
+    "city": null,
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Арбат",
+    "S_total": 17064.7,
+    "S_residential": 6197.8,
+    "S_non_residential": null,
+    "Price_plan": 16447600000.0,
+    "S_land": 2944.0,
+    "Start_period": "2025-09-11",
+    "Finish_period": "3 квартал 2029 г.",
+    "Date_expert": "2024-09-05",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "41.1 м",
+    "N_residential_rooms": 22,
+    "N_non_residential_rooms": 43,
+    "parking": 43,
+    "other_rooms": 0,
+    "min_S_flat": 107.3,
+    "other_rooms_19_6_1_4": 16447600000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Расположенный на земельном участке с кадастровым номером 77:01:0001045:3701",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"СЕНС.КИСЛОВ-СКИЙ\"",
+    "address_llm_response": "{\"city\": null, \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "СЕНС.КИРОВСКИЙ",
+    "loan_amounts_parsed": [
+      16447600000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "107.30",
+      "conditional_number": "303"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2029 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2029 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "source_file": "0034_Жилой комплекс _Мангазея на Ре_37812402_obj59144-pd77-003045.xlsx",
+  "id": 59144,
+  "N_declaration": "77-003045",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 59144,
+    "name": "Многофункциональный жилой комплекс \"Мангазея на Речном\" (Лот 8)",
+    "N_declaration": "77-003045",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 59144,
+    "N_declaration": "77-003045",
+    "date_declaration": "2026-03-06",
+    "name": "Многофункциональный жилой комплекс \"Мангазея на Речном\" (Лот 8)",
+    "developer": "МД ПРОЕКТ",
+    "city": "Москва",
+    "district": "САО",
+    "street": "Ленинградское шоссе",
+    "land_plot": "земельный участок 57/4/1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Левобережный",
+    "S_total": 57497.0,
+    "S_residential": 31710.6,
+    "S_non_residential": 4198.0,
+    "Price_plan": 4463760000.0,
+    "S_land": 8877.0,
+    "Start_period": "2024-04-08",
+    "Finish_period": "3 квартал 2027 г.",
+    "Date_expert": "2024-03-29",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Монолитный железобетон, газобетонные блоки)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "79 м",
+    "N_residential_rooms": 592,
+    "N_non_residential_rooms": 313,
+    "parking": 231,
+    "other_rooms": 82,
+    "min_S_flat": 25.7,
+    "other_rooms_19_6_1_4": 238640302447.6,
+    "other_info": "1.Условный номер объектов долевого строительства и номера подъездов присвоены застройщиком; 2.Информационно:ми-нимальное количество-2 этажа (в том числе 1 надземный и 1 подземный этаж), максимальное количество этажей-26 этажей (в том числе количество надземных этажей-23 + цокольный и 2 подземных этажа)"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, САО, внутригородское муниципальное образованиеЛе-вобережное, Ленинградское шоссе, земельный участок 57/4/1",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"МД ПРОЕКТ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"САО\", \"street\": \"Ленинградское шоссе\", \"land_plot\": \"земельный участок 57/4/1\", \"building\": null}",
+    "developer_llm_response": "МД ПРОЕКТ",
+    "loan_amounts_parsed": [
+      119335302447.6,
+      119305000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "25.70",
+      "conditional_number": "119"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      }
+    ]
+  }
+}

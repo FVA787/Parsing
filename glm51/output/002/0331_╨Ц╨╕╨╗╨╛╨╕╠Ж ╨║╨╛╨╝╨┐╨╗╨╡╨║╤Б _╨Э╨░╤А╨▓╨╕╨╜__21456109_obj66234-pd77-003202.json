@@ -1,0 +1,115 @@
+{
+  "source_file": "0331_Жилой комплекс _Нарвин__21456109_obj66234-pd77-003202.xlsx",
+  "id": 66234,
+  "N_declaration": "77-003202",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 66234,
+    "name": "Многоэтажный жилой дом с подземной автостоянкой",
+    "N_declaration": "77-003202",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 66234,
+    "N_declaration": "77-003202",
+    "date_declaration": "2026-03-03",
+    "name": "Многоэтажный жилой дом с подземной автостоянкой",
+    "developer": "ТРАТТА-ЦЕНТР",
+    "city": "Москва",
+    "district": "Головинский",
+    "street": "бульвар Кронштадтский",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Головинский район",
+    "S_total": 76127.0,
+    "S_residential": 50937.0,
+    "S_non_residential": 4530.1,
+    "Price_plan": 15717680000.0,
+    "S_land": 15949.0,
+    "Start_period": "2024-11-27",
+    "Finish_period": "4 квартал 2028 г.",
+    "Date_expert": "2024-08-01",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Алюмокомпо-зитные панели, 2 слоя минераловатного утеплителя, монолитный железобетон)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "150 м",
+    "N_residential_rooms": 1174,
+    "N_non_residential_rooms": 280,
+    "parking": 162,
+    "other_rooms": 118,
+    "min_S_flat": 18.4,
+    "other_rooms_19_6_1_4": 15717680000.0,
+    "other_info": "Вместимость подземной автостоянки – 268 м/м.Количество м/м – 162 м/м, в т.ч.манежное хранение – 56 м/м (№21-29; 38-39; 46:69-78; 85-90; 99-108; 135-149; 174; 267-268), полумеханизиро-\nванные – 106 м/м, вместимость с учетом второго яруса – 212 м/ м (№1/2-19/20; 30/31-36/37; 40/41-44/45; 47/48-67/68; 79/80-83/84; 91/92-97/98; 109/110-133/134; 150/151-172/173; 175/176-265/266)"
+  },
+  "debug": {
+    "address_raw": "САО, г. Москва, Головинский, б-р Кронштадтский",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТРАТТА-ЦЕНТР\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Головинский\", \"street\": \"бульвар Кронштадтский\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ТРАТТА-ЦЕНТР",
+    "loan_amounts_parsed": [
+      15717680000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "18.40",
+      "conditional_number": "677"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      }
+    ]
+  }
+}

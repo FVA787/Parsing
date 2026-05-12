@@ -1,0 +1,186 @@
+{
+  "source_file": "0099_Friday Villas_06589937_obj54898-pd77-002938.xlsx",
+  "id": "54898",
+  "N_declaration": "77-002938",
+  "date_declaration": "21.02.2025",
+  "parsed_raw": {
+    "name": {
+      "source_section": "9.2.2",
+      "value": "Реконструкция жилого дома по адресу: г. Москва, Пятницкая ул. д. 37, стр.2"
+    },
+    "developer": {
+      "source_section": "1.1.2",
+      "value": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ХАЙТЭК ПЯТ-НИЦКАЯ 37С2\""
+    },
+    "address_raw": {
+      "source_section": "9.2.17",
+      "value": "Уточнение адреса:"
+    },
+    "subject": {
+      "source_section": "9.2.3",
+      "value": "г Москва"
+    },
+    "region": {
+      "source_section": "9.2.8",
+      "value": "Район в населенном пункте:"
+    },
+    "S_total": {
+      "source_section": "9.2.21",
+      "value": "795,48 м2"
+    },
+    "S_residential": {
+      "source_section": "9.3.1",
+      "value": "602,00 м2"
+    },
+    "S_non_residential": {
+      "source_section": "9.3.2",
+      "value": "122,00 м2"
+    },
+    "Price_plan": {
+      "source_section": "18.1.1",
+      "value": "632 300 000,00 руб."
+    },
+    "S_land": {
+      "source_section": "12.3.2",
+      "value": "260,00 м²"
+    },
+    "Start_period": {
+      "source_section": "11.1.2",
+      "value": "01.09.2023"
+    },
+    "Date_expert": {
+      "source_section": "10.4.2",
+      "value": "Дата выдачи заключения экспертизы проектной документации и (или) экспертизы результатов инженерных изысканий: 18.04.2023"
+    },
+    "material_walls": {
+      "source_section": "9.2.22",
+      "value": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)"
+    },
+    "material_covering": {
+      "source_section": "9.2.23",
+      "value": "Монолитные железобетонные"
+    },
+    "energy_class": {
+      "source_section": "9.2.24",
+      "value": "A"
+    },
+    "max_height": {
+      "source_section": "13.2.3",
+      "value": "18 м"
+    },
+    "N_residential_rooms": {
+      "source_section": "15.1.1",
+      "value": "3"
+    },
+    "N_non_residential_rooms": {
+      "source_section": "15.1.2",
+      "value": "0"
+    },
+    "parking": {
+      "source_section": "15.1.2.1",
+      "value": "0"
+    },
+    "other_rooms": {
+      "source_section": "15.1.2.2",
+      "value": "0"
+    },
+    "other_info": {
+      "source_section": "23.1.1",
+      "value": "Иная информация о проекте:"
+    },
+    "Finish_period": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      }
+    ],
+    "residential_units_raw": {
+      "source_section": "15.2.1",
+      "value": [
+        {
+          "conditional_number": "А1",
+          "purpose": "Квартира на двух и более этажах",
+          "floor": "1",
+          "entrance": "1",
+          "total_area": "209.00",
+          "rooms_count": "6",
+          "living_area": "209.00",
+          "ceiling_height": "3.50"
+        },
+        {
+          "conditional_number": "А2",
+          "purpose": "Квартира на двух и более этажах",
+          "floor": "1",
+          "entrance": "2",
+          "total_area": "207.00",
+          "rooms_count": "6",
+          "living_area": "207.00",
+          "ceiling_height": "3.50"
+        },
+        {
+          "conditional_number": "А3",
+          "purpose": "Квартира на двух и более этажах",
+          "floor": "1",
+          "entrance": "3",
+          "total_area": "186.00",
+          "rooms_count": "5",
+          "living_area": "186.00",
+          "ceiling_height": "3.50"
+        }
+      ]
+    },
+    "loan_amounts_19_6_1_4_raw": [
+      {
+        "occurrence": 1,
+        "source_section": "19.6.1.4",
+        "value": "716 402 000,00 руб."
+      }
+    ]
+  }
+}

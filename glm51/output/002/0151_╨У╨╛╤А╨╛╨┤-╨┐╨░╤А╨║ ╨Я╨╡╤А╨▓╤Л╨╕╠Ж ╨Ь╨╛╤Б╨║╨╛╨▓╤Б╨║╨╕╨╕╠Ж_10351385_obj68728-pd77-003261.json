@@ -1,0 +1,111 @@
+{
+  "source_file": "0151_Город-парк Первый Московский_10351385_obj68728-pd77-003261.xlsx",
+  "id": 68728,
+  "N_declaration": "77-003261",
+  "date_declaration": "2026-03-07",
+  "Declaration_info": {
+    "id": 68728,
+    "name": "Жилая застройка на земельных участках тепличного комбината\n№1 в г. Московский. Первый микрорайон. Квартал 3. Надземная многоэтажная автостоянка №2",
+    "N_declaration": "77-003261",
+    "date_declaration": "2026-03-07"
+  },
+  "Current_declaration": {
+    "id": 68728,
+    "N_declaration": "77-003261",
+    "date_declaration": "2026-03-07",
+    "name": "Жилая застройка на земельных участках тепличного комбината\n№1 в г. Московский. Первый микрорайон. Квартал 3. Надземная многоэтажная автостоянка №2",
+    "developer": "ПЕРВЫЙ МОСКОВСКИЙ",
+    "city": "Москва",
+    "district": "НАО",
+    "street": "улица Никитина",
+    "land_plot": "земельный участок 3",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Филимонковский",
+    "S_total": 9372.0,
+    "S_residential": 0.0,
+    "S_non_residential": 5510.7,
+    "Price_plan": 621000000.0,
+    "S_land": 51265.0,
+    "Start_period": "2025-04-07",
+    "Finish_period": "3 квартал 2027 г.",
+    "Date_expert": "2021-07-07",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Наружные сте-ны - монолитный ж/б, газобетонные блоки. Каркас - монолитный ж/б каркас. Парапеты в местах хранения автомобилей – металли-ческие ограждения.)",
+    "material_covering": "монолитные железобетонные",
+    "energy_class": "Не нормируется",
+    "max_height": "25.3 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 292,
+    "parking": 291,
+    "other_rooms": 1,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 718381000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, НАО, вн.тер.г.муниципальный округ Филимонковский, г.Московский, ул.Никитина, з/у 3",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПЕРВЫЙ МОС-КОВСКИЙ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"НАО\", \"street\": \"улица Никитина\", \"land_plot\": \"земельный участок 3\", \"building\": null}",
+    "developer_llm_response": "ПЕРВЫЙ МОСКОВСКИЙ",
+    "loan_amounts_parsed": [
+      718381000.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      }
+    ]
+  }
+}

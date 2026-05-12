@@ -1,0 +1,115 @@
+{
+  "source_file": "0163_Дом Malevich_13340713_obj46510-pd77-002543.xlsx",
+  "id": 46510,
+  "N_declaration": "77-002543",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 46510,
+    "name": "Реконструкция здания \"Спортивно-оздоровительного центра с ак-вазоной «Отрадное» со встроенными торговыми помещениями и автостоянкой, с надстройкой экспериментального жилого дома\"",
+    "N_declaration": "77-002543",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 46510,
+    "N_declaration": "77-002543",
+    "date_declaration": "2026-03-06",
+    "name": "Реконструкция здания \"Спортивно-оздоровительного центра с ак-вазоной «Отрадное» со встроенными торговыми помещениями и автостоянкой, с надстройкой экспериментального жилого дома\"",
+    "developer": "АКВАПАРК ОТРАДНОЕ",
+    "city": "Москва",
+    "district": "Отрадное",
+    "street": "улица Отрадная",
+    "land_plot": "владение 8А",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Муниципальный округ Отрадное",
+    "S_total": 64774.0,
+    "S_residential": 28570.9,
+    "S_non_residential": 15195.0,
+    "Price_plan": 6273347026.59,
+    "S_land": 8944.0,
+    "Start_period": "2022-05-23",
+    "Finish_period": "1 квартал 2026 г.",
+    "Date_expert": "2022-03-18",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Монолитный железобетон)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 589,
+    "N_non_residential_rooms": 530,
+    "parking": 110,
+    "other_rooms": 420,
+    "min_S_flat": 29.6,
+    "other_rooms_19_6_1_4": 6713384822.02,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Москва, СВАО, Отрадное, ул.Отрадная, вл.8А",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"АКВАПАРК \"ОТ-РАДНОЕ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Отрадное\", \"street\": \"улица Отрадная\", \"land_plot\": \"владение 8А\", \"building\": null}",
+    "developer_llm_response": "АКВАПАРК ОТРАДНОЕ",
+    "loan_amounts_parsed": [
+      6713384822.02
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "29.60",
+      "conditional_number": "166"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2022 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2024 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      }
+    ]
+  }
+}

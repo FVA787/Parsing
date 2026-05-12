@@ -1,0 +1,116 @@
+{
+  "source_file": "0283_Жилой дом_ Амурская ул._ вл.26_66986585_obj69317-pd77-003277.xlsx",
+  "id": 69317,
+  "N_declaration": "77-003277",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 69317,
+    "name": "Многоквартирный дом",
+    "N_declaration": "77-003277",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 69317,
+    "N_declaration": "77-003277",
+    "date_declaration": "2026-03-03",
+    "name": "Многоквартирный дом",
+    "developer": "ГОЛЬЯНОВО",
+    "city": "Москва",
+    "district": "Гольяново",
+    "street": "улица Амурская",
+    "land_plot": "земельный участок 26",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Гольяново",
+    "S_total": 47917.1,
+    "S_residential": 32034.4,
+    "S_non_residential": 2235.8,
+    "Price_plan": 4439832773.68,
+    "S_land": 7075.0,
+    "Start_period": "2025-11-14",
+    "Finish_period": "4 квартал 2027 г.",
+    "Date_expert": "2025-09-03",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (с монолитным железобетонным каркасом и стенами из навесных трехслойных фасадных панелей)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "100 м",
+    "N_residential_rooms": 538,
+    "N_non_residential_rooms": 19,
+    "parking": 0,
+    "other_rooms": 19,
+    "min_S_flat": 42.6,
+    "other_rooms_19_6_1_4": 7097550228.93,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Москва, ВАО, внутригородская территория муниципальный округ Гольяново, улица Амурская, земельный участок 26, зона 2.1",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ГОЛЬЯНОВО\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Гольяново\", \"street\": \"улица Амурская\", \"land_plot\": \"земельный участок 26\", \"building\": null}",
+    "developer_llm_response": "ГОЛЬЯНОВО",
+    "loan_amounts_parsed": [
+      3000000000.0,
+      4097550228.93
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "42.60",
+      "conditional_number": "255"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      }
+    ]
+  }
+}

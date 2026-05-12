@@ -1,0 +1,111 @@
+{
+  "source_file": "0156_ДИУС_20004416_obj57838-pd77-003017.xlsx",
+  "id": 57838,
+  "N_declaration": "77-003017",
+  "date_declaration": "2026-03-11",
+  "Declaration_info": {
+    "id": 57838,
+    "name": "Многофункциональный комплекс и Торговый центр",
+    "N_declaration": "77-003017",
+    "date_declaration": "2026-03-11"
+  },
+  "Current_declaration": {
+    "id": 57838,
+    "N_declaration": "77-003017",
+    "date_declaration": "2026-03-11",
+    "name": "Многофункциональный комплекс и Торговый центр",
+    "developer": "ФАРМЭЛЛИНРУС",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Академика Ильюшина",
+    "land_plot": null,
+    "building": "строение 1-4",
+    "subject": "Город Москва",
+    "region": "Район Аэропорт",
+    "S_total": 65025.96,
+    "S_residential": 0.0,
+    "S_non_residential": 38013.42,
+    "Price_plan": 8317480000.0,
+    "S_land": 10000.0,
+    "Start_period": "2021-12-29",
+    "Finish_period": "4 квартал 2027 г.",
+    "Date_expert": "2023-11-10",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "75 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 770,
+    "parking": 319,
+    "other_rooms": 451,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 5994813836.0,
+    "other_info": "Проектная документация, которая была предметом положи-тельного заключения экспертизы № 77-2-1-3-2651-17 от 31.07.2017 г.№ № 77-2-1-3-034693-2019 от 09.12.2019 г. не утвер-\nждена Застройщиком. В отношении видов сети инженерно-тех-нического обеспечения: электроснабжение проводятся мероп-риятия по продлению технических условий. Проектная до-кументация, которая была предметом положительного заклю-чения экспертизы № 77-2-1-2-006597-2-26 от 20.02.2026 г. не ут-верждена застройщиком ."
+  },
+  "debug": {
+    "address_raw": "Улица Академика Ильюшина, д.21, стр.1-4",
+    "developer_raw": "\"Специализированный застройщик \"ФАРМЭЛЛИНРУС\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Академика Ильюшина\", \"land_plot\": null, \"building\": \"строение 1-4\"}",
+    "developer_llm_response": "ФАРМЭЛЛИНРУС",
+    "loan_amounts_parsed": [
+      5994813836.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      }
+    ]
+  }
+}

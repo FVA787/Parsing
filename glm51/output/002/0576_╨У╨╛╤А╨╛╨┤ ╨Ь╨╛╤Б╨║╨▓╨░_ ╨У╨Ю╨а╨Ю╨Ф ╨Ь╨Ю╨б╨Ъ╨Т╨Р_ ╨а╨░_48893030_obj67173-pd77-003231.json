@@ -1,0 +1,115 @@
+{
+  "source_file": "0576_Город Москва_ ГОРОД МОСКВА_ Ра_48893030_obj67173-pd77-003231.xlsx",
+  "id": 67173,
+  "N_declaration": "77-003231",
+  "date_declaration": "2025-12-08",
+  "Declaration_info": {
+    "id": 67173,
+    "name": "Многоквартирный дом",
+    "N_declaration": "77-003231",
+    "date_declaration": "2025-12-08"
+  },
+  "Current_declaration": {
+    "id": 67173,
+    "N_declaration": "77-003231",
+    "date_declaration": "2025-12-08",
+    "name": "Многоквартирный дом",
+    "developer": "УПРАВЛЕНИЕ РЕ-НОВАЦИОННОЙ ЗАСТРОЙКИ-4",
+    "city": "Москва",
+    "district": "Новогиреево",
+    "street": "проспект Свободный",
+    "land_plot": "земельный участок 12",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Новогиреево",
+    "S_total": 40261.31,
+    "S_residential": 28654.32,
+    "S_non_residential": 1166.65,
+    "Price_plan": 5247654000.0,
+    "S_land": 6128.0,
+    "Start_period": "2025-07-14",
+    "Finish_period": "2 квартал 2027 г.",
+    "Date_expert": "2025-06-09",
+    "material_walls": "Со сборно-монолитным железобетонным каркасом и стенами из крупных каменных блоков и панелей",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 470,
+    "N_non_residential_rooms": 6,
+    "parking": 0,
+    "other_rooms": 6,
+    "min_S_flat": 44.64,
+    "other_rooms_19_6_1_4": 3422954458.51,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Многоквартирный дом по адресу:г.Москва, внутригородское му-ниципальное образование Новогиреево, проспект Свободный, зе-мельный участок 12(Свободный пр-т, вл.12) (Восточный админис-тративный округ)",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК УПРАВЛЕНИЕ РЕ-НОВАЦИОННОЙ ЗАСТРОЙКИ-4",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Новогиреево\", \"street\": \"проспект Свободный\", \"land_plot\": \"земельный участок 12\", \"building\": null}",
+    "developer_llm_response": "УПРАВЛЕНИЕ РЕ-НОВАЦИОННОЙ ЗАСТРОЙКИ-4",
+    "loan_amounts_parsed": [
+      3422954458.51
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "44.64",
+      "conditional_number": "209"
+    },
+    "Finish_period_selected": {
+      "occurrence": 4,
+      "value": "2 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      }
+    ]
+  }
+}

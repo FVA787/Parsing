@@ -1,0 +1,112 @@
+{
+  "source_file": "0501_РУНОВСКИЙ 14_61044016_obj47688-pd77-002715.xlsx",
+  "id": 47688,
+  "N_declaration": "77-002715",
+  "date_declaration": "2026-02-05",
+  "Declaration_info": {
+    "id": 47688,
+    "name": "Административное здание с подземным паркингом",
+    "N_declaration": "77-002715",
+    "date_declaration": "2026-02-05"
+  },
+  "Current_declaration": {
+    "id": 47688,
+    "N_declaration": "77-002715",
+    "date_declaration": "2026-02-05",
+    "name": "Административное здание с подземным паркингом",
+    "developer": "РУНОВСКИЙ",
+    "city": "Москва",
+    "district": null,
+    "street": "Руновский переулок",
+    "land_plot": "владение 14",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Замоскворечье",
+    "S_total": 3436.38,
+    "S_residential": 0.0,
+    "S_non_residential": 2526.4,
+    "Price_plan": 1016318767.0,
+    "S_land": 1007.0,
+    "Start_period": "2022-07-29",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2022-06-21",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "15 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 53,
+    "parking": 13,
+    "other_rooms": 40,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 1330471665.0,
+    "other_info": "Стоимость проекта 1 149 265 832 руб.Собственные средства-192\n947 065 рублей или 16.8% от стоимости Проекта формируются за счет собственных средств, в т.ч.права аренды земельного участка-136 650 725 рублей.Заемные средства-956 318 767 руб-лей или 83,2% от стоимости Проекта формируются за счет средств Кредитора.Право аренды земельного участка находит-ся в залоге у Кредитора на основании Договора ипотеки\n№400B009GO-И1 от 23.09.2022 г"
+  },
+  "debug": {
+    "address_raw": "Руновский переулок, вл.14",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"РУНОВСКИЙ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"Руновский переулок\", \"land_plot\": \"владение 14\", \"building\": null}",
+    "developer_llm_response": "РУНОВСКИЙ",
+    "loan_amounts_parsed": [
+      1260471665.0,
+      70000000.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

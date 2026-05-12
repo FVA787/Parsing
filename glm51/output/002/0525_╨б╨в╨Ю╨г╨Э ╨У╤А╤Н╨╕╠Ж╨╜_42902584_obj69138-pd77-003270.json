@@ -1,0 +1,115 @@
+{
+  "source_file": "0525_СТОУН Грэйн_42902584_obj69138-pd77-003270.xlsx",
+  "id": 69138,
+  "N_declaration": "77-003270",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 69138,
+    "name": "Жилой комплекс",
+    "N_declaration": "77-003270",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 69138,
+    "N_declaration": "77-003270",
+    "date_declaration": "2026-03-05",
+    "name": "Жилой комплекс",
+    "developer": "КОМПАНИЯ 2К",
+    "city": "Москва",
+    "district": null,
+    "street": "шоссе Старокалужское",
+    "land_plot": "земельный участок 64",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Обручевский район",
+    "S_total": 77627.0,
+    "S_residential": 41373.7,
+    "S_non_residential": 6114.6,
+    "Price_plan": 19426705000.0,
+    "S_land": 12656.0,
+    "Start_period": "2025-11-26",
+    "Finish_period": "3 квартал 2029 г.",
+    "Date_expert": "2025-11-19",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "163.7 м",
+    "N_residential_rooms": 618,
+    "N_non_residential_rooms": 462,
+    "parking": 231,
+    "other_rooms": 231,
+    "min_S_flat": 31.2,
+    "other_rooms_19_6_1_4": 16630438000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Шоссе Старокалужское, земельный участок 64",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"КОМПАНИЯ 2К\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"шоссе Старокалужское\", \"land_plot\": \"земельный участок 64\", \"building\": null}",
+    "developer_llm_response": "КОМПАНИЯ 2К",
+    "loan_amounts_parsed": [
+      16630438000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "31.20",
+      "conditional_number": "А-282"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2029 г."
+      }
+    ]
+  }
+}

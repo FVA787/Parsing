@@ -1,0 +1,117 @@
+{
+  "source_file": "0307_Жилой комплекс _1-й Измайловск_10551331_obj56212-pd77-002972.xlsx",
+  "id": 56212,
+  "N_declaration": "77-002972",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 56212,
+    "name": "Жилой дом с подземным паркингом. Этап 1",
+    "N_declaration": "77-002972",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 56212,
+    "N_declaration": "77-002972",
+    "date_declaration": "2026-03-06",
+    "name": "Жилой дом с подземным паркингом. Этап 1",
+    "developer": "СЕВЕРО-ЗАПАД СТОЛИЦЫ",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Монтажная",
+    "land_plot": "владение 8/24",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Гольяново",
+    "S_total": 43578.6,
+    "S_residential": 32109.9,
+    "S_non_residential": 4854.5,
+    "Price_plan": 6236356618.02,
+    "S_land": 21280.0,
+    "Start_period": "2023-12-08",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2023-11-17",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (с монолитным железобетонным каркасом и стенами из трехслойных железобетон-ных панелей)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "100 м",
+    "N_residential_rooms": 726,
+    "N_non_residential_rooms": 267,
+    "parking": 175,
+    "other_rooms": 92,
+    "min_S_flat": 21.2,
+    "other_rooms_19_6_1_4": 25977000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, ул. Монтажная вл. 8/24",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"СЕВЕРО-ЗАПАД СТОЛИЦЫ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Монтажная\", \"land_plot\": \"владение 8/24\", \"building\": null}",
+    "developer_llm_response": "СЕВЕРО-ЗАПАД СТОЛИЦЫ",
+    "loan_amounts_parsed": [
+      2000000000.0,
+      100000000.0,
+      23877000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "21.20",
+      "conditional_number": "540"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "source_file": "0489_Первый на Красном_57263289_obj50200-pd77-002812.xlsx",
+  "id": 50200,
+  "N_declaration": "77-002812",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 50200,
+    "name": "Многофункциональный жилищно-общественный комплекс с под-земной автостоянкой",
+    "N_declaration": "77-002812",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 50200,
+    "N_declaration": "77-002812",
+    "date_declaration": "2026-03-06",
+    "name": "Многофункциональный жилищно-общественный комплекс с под-земной автостоянкой",
+    "developer": "БОЛОТНАЯ, 9",
+    "city": "Москва",
+    "district": null,
+    "street": "Берсеневская набережная",
+    "land_plot": "владение 6",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Якиманка",
+    "S_total": 12717.37,
+    "S_residential": 3568.91,
+    "S_non_residential": 2766.16,
+    "Price_plan": 6054124728.59,
+    "S_land": 4251.0,
+    "Start_period": "2022-12-07",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2022-06-29",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "23.1 м",
+    "N_residential_rooms": 21,
+    "N_non_residential_rooms": 72,
+    "parking": 69,
+    "other_rooms": 3,
+    "min_S_flat": 70.48,
+    "other_rooms_19_6_1_4": 7055491360.0,
+    "other_info": "ТУ на теплоснабжение № 10-11/18-731 от 26.09.2018г.ПАО\"МО-ЭК\" - заключено мировое соглашение по делу №А40-26750/2023, Помещение БКТ2 расположено на 1 и 2 этажах:на 1 этаже-94,27 кв.м.на 2 этаже-720,28 кв.м"
+  },
+  "debug": {
+    "address_raw": "Берсеневская набережная владение 6",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"БОЛОТНАЯ, 9\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"Берсеневская набережная\", \"land_plot\": \"владение 6\", \"building\": null}",
+    "developer_llm_response": "БОЛОТНАЯ, 9",
+    "loan_amounts_parsed": [
+      7055491360.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "70.48",
+      "conditional_number": "2"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

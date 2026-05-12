@@ -1,0 +1,115 @@
+{
+  "source_file": "0549_Узоры_01218363_obj66802-pd77-003219.xlsx",
+  "id": 66802,
+  "N_declaration": "77-003219",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 66802,
+    "name": "Многофункциональный жилой комплекс с подземной автостоян-кой",
+    "N_declaration": "77-003219",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 66802,
+    "N_declaration": "77-003219",
+    "date_declaration": "2026-03-04",
+    "name": "Многофункциональный жилой комплекс с подземной автостоян-кой",
+    "developer": "ВРАЖСКИЙ",
+    "city": "Москва",
+    "district": "Хамовники",
+    "street": "2-й Вражский переулок",
+    "land_plot": "владение 8",
+    "building": "строение 2",
+    "subject": "Город Москва",
+    "region": "Район Хамовники",
+    "S_total": 23552.8,
+    "S_residential": 12170.6,
+    "S_non_residential": 2882.8,
+    "Price_plan": 12500000000.0,
+    "S_land": 3592.0,
+    "Start_period": "2024-12-06",
+    "Finish_period": "4 квартал 2028 г.",
+    "Date_expert": "2024-08-30",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Монолитный каркас с монолитными стенами, заполненными штучными ма-териалами)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "40 м",
+    "N_residential_rooms": 73,
+    "N_non_residential_rooms": 100,
+    "parking": 84,
+    "other_rooms": 16,
+    "min_S_flat": 80.8,
+    "other_rooms_19_6_1_4": 19878000000.0,
+    "other_info": "Помещения, указанные в разделе 15.3.1.и 16.1 Проектной дек-ларации, с указанием этажа расположения-\"0\"считать распо-ложенными в цокольном этаже здания"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, Центральный административный округ, район Хамов-ники, 2-й Вражский переулок, вл.8, стр.2",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ВРАЖСКИЙ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Хамовники\", \"street\": \"2-й Вражский переулок\", \"land_plot\": \"владение 8\", \"building\": \"строение 2\"}",
+    "developer_llm_response": "ВРАЖСКИЙ",
+    "loan_amounts_parsed": [
+      19878000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "80.80",
+      "conditional_number": "18"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      }
+    ]
+  }
+}

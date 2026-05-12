@@ -1,0 +1,170 @@
+{
+  "source_file": "0306_Жилой комплекс _1-й Измайловск_44884558_obj63646-pd77-003145.xlsx",
+  "id": 63646,
+  "N_declaration": "77-003145",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 63646,
+    "name": "Жилой дом с подземным паркингом. Этап строительства 2. Сек-ции: 5, 6, 7, 8, 9",
+    "N_declaration": "77-003145",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 63646,
+    "N_declaration": "77-003145",
+    "date_declaration": "2026-03-06",
+    "name": "Жилой дом с подземным паркингом. Этап строительства 2. Сек-ции: 5, 6, 7, 8, 9",
+    "developer": "СЕВЕРО-ЗАПАД СТОЛИЦЫ",
+    "city": "Москва",
+    "district": "Гольяново",
+    "street": "улица Монтажная",
+    "land_plot": "владение 8",
+    "building": "24",
+    "subject": "Город Москва",
+    "region": "Район Гольяново",
+    "S_total": 54545.48,
+    "S_residential": 45002.6,
+    "S_non_residential": 5745.0,
+    "Price_plan": 10018635974.0,
+    "S_land": 21280.0,
+    "Start_period": "2024-09-23",
+    "Finish_period": "3 квартал 2030 г.",
+    "Date_expert": "2024-08-26",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (с монолитным железобетонным каркасом и стенами из трехслойных железобетон-ных панелей)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "99.93 м",
+    "N_residential_rooms": 1137,
+    "N_non_residential_rooms": 379,
+    "parking": 211,
+    "other_rooms": 168,
+    "min_S_flat": 18.6,
+    "other_rooms_19_6_1_4": 55954000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Москва, ВАО, Гольяново, ул. Монтажная влд.8/24",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"СЕВЕРО-ЗАПАД СТОЛИЦЫ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Гольяново\", \"street\": \"улица Монтажная\", \"land_plot\": \"владение 8\", \"building\": \"24\"}",
+    "developer_llm_response": "СЕВЕРО-ЗАПАД СТОЛИЦЫ",
+    "loan_amounts_parsed": [
+      4000000000.0,
+      100000000.0,
+      23877000000.0,
+      4000000000.0,
+      100000000.0,
+      23877000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "18.60",
+      "conditional_number": "163"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2030 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2030 г."
+      }
+    ]
+  }
+}

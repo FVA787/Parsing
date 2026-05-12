@@ -1,0 +1,111 @@
+{
+  "source_file": "0485_Офисное пространство НУН_53617526_obj64748-pd77-003170.xlsx",
+  "id": 64748,
+  "N_declaration": "77-003170",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 64748,
+    "name": "Общественно-деловой центр",
+    "N_declaration": "77-003170",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 64748,
+    "N_declaration": "77-003170",
+    "date_declaration": "2026-03-03",
+    "name": "Общественно-деловой центр",
+    "developer": "ОКСКАЯ, 9",
+    "city": "Москва",
+    "district": "Рязанский",
+    "street": "улица Окская",
+    "land_plot": "владение 9",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Рязанский район",
+    "S_total": 16471.0,
+    "S_residential": 0.0,
+    "S_non_residential": 12931.2,
+    "Price_plan": 1912499375.21,
+    "S_land": 3794.0,
+    "Start_period": "2025-02-11",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2021-05-24",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Газобетонные блоки D600 B3.5 F100 REI 240 (ГОСТ 31360-2007))",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "44.83 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 154,
+    "parking": 58,
+    "other_rooms": 96,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 2455000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, район Рязанский р-н, ул Окская, вл.9",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ОКСКАЯ, 9\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Рязанский\", \"street\": \"улица Окская\", \"land_plot\": \"владение 9\", \"building\": null}",
+    "developer_llm_response": "ОКСКАЯ, 9",
+    "loan_amounts_parsed": [
+      2455000000.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

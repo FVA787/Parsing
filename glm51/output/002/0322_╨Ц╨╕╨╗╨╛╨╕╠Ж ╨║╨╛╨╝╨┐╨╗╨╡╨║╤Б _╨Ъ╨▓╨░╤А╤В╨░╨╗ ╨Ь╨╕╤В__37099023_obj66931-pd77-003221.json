@@ -1,0 +1,115 @@
+{
+  "source_file": "0322_Жилой комплекс _Квартал Мит__37099023_obj66931-pd77-003221.xlsx",
+  "id": 66931,
+  "N_declaration": "77-003221",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 66931,
+    "name": "Многофункциональная жилая застройка, 2-я очередь, Этап 1(стро-ения 3.1, 3.2, 3.3, 3.4, 3.5, 3.6)",
+    "N_declaration": "77-003221",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 66931,
+    "N_declaration": "77-003221",
+    "date_declaration": "2026-03-03",
+    "name": "Многофункциональная жилая застройка, 2-я очередь, Этап 1(стро-ения 3.1, 3.2, 3.3, 3.4, 3.5, 3.6)",
+    "developer": "ПФК",
+    "city": "Москва",
+    "district": "Митино",
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Митино",
+    "S_total": 154301.8,
+    "S_residential": 88328.74,
+    "S_non_residential": 12782.52,
+    "Price_plan": 18845238062.0,
+    "S_land": 40347.0,
+    "Start_period": "2025-05-30",
+    "Finish_period": "2 квартал 2029 г.",
+    "Date_expert": "2025-05-23",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Наружные сте-ны типовых этажей облицовка бетонной плиткой, алюминиевыми кассетами в составе сертифицированной фасадной системы с воз-душным зазором и утеплителем и в составе трехслойной стеновой панели заводского исполнения. Ограждение балконов металличес-кое. Откосы и отливы оцинкованная сталь.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 1881,
+    "N_non_residential_rooms": 1256,
+    "parking": 489,
+    "other_rooms": 767,
+    "min_S_flat": 28.0,
+    "other_rooms_19_6_1_4": 18845238062.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, Митино, вблизи с.Рождествено, 2-я очередь, Этап 1 (строения 3.1,3.2,3.3,3.4,3.5,3.6)",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: АКЦИОНЕРНОЕ ОБЩЕСТВО СПЕЦИАЛИЗИРОВАННЫЙ ЗАС-ТРОЙЩИК \"ПФК\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Митино\", \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ПФК",
+    "loan_amounts_parsed": [
+      18845238062.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.00",
+      "conditional_number": "823"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2029 г."
+      }
+    ]
+  }
+}

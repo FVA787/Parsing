@@ -1,0 +1,115 @@
+{
+  "source_file": "0275_Жилой Комплекс_Мичуринский пар_21793075_obj69549-pd77-003282.xlsx",
+  "id": 69549,
+  "N_declaration": "77-003282",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 69549,
+    "name": "Многоэтажная жилая застройка с объектами социальной ин-фраструктуры: этап 3 - жилой дом, корп. 4.1, 4.6 с подземным пар-кингом",
+    "N_declaration": "77-003282",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 69549,
+    "N_declaration": "77-003282",
+    "date_declaration": "2026-03-04",
+    "name": "Многоэтажная жилая застройка с объектами социальной ин-фраструктуры: этап 3 - жилой дом, корп. 4.1, 4.6 с подземным пар-кингом",
+    "developer": "ОЗЁРНАЯ 44",
+    "city": "Москва",
+    "district": "Очаково-Матвеевское",
+    "street": "улица Никулинская",
+    "land_plot": "земельный участок 33А/Б",
+    "building": "корпус 4.1, 4.6",
+    "subject": "Город Москва",
+    "region": "Район Очаково-Матвеевское",
+    "S_total": 45214.95,
+    "S_residential": 31129.7,
+    "S_non_residential": 3153.91,
+    "Price_plan": 11100000000.0,
+    "S_land": 27839.0,
+    "Start_period": "2025-02-17",
+    "Finish_period": "3 квартал 2028 г.",
+    "Date_expert": "2024-07-19",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (монолитный же-лезобетон, сборные трехслойные ненесущие панели, ненесущая кладка из газобетонных блоков с вентилируемым фасадом)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 721,
+    "N_non_residential_rooms": 181,
+    "parking": 111,
+    "other_rooms": 70,
+    "min_S_flat": 20.1,
+    "other_rooms_19_6_1_4": 5340000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, ЗАО, Очаково-Матвеевское, ул. Никулинская, земель-ный участок 33А/Б, корпус 4.1, 4.6",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ОЗЁРНАЯ 44\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Очаково-Матвеевское\", \"street\": \"улица Никулинская\", \"land_plot\": \"земельный участок 33А/Б\", \"building\": \"корпус 4.1, 4.6\"}",
+    "developer_llm_response": "ОЗЁРНАЯ 44",
+    "loan_amounts_parsed": [
+      5340000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "20.10",
+      "conditional_number": "450"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      }
+    ]
+  }
+}

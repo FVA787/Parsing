@@ -1,0 +1,116 @@
+{
+  "source_file": "0561_ФСК Sydney City_96765632_obj46127-pd77-002502.xlsx",
+  "id": 46127,
+  "N_declaration": "77-002502",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 46127,
+    "name": "Жилой комплекс № 5",
+    "N_declaration": "77-002502",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 46127,
+    "N_declaration": "77-002502",
+    "date_declaration": "2026-03-10",
+    "name": "Жилой комплекс № 5",
+    "developer": "ЛИДЕР СТРОИТЕЛЬНОЙ ОТРАСЛИ",
+    "city": "Москва",
+    "district": "Хорошево-Мневники",
+    "street": "улица Шеногина",
+    "land_plot": "земельный участок 2/8",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Хорошёво-Мнёвники",
+    "S_total": 72631.9,
+    "S_residential": 50272.0,
+    "S_non_residential": 10122.6,
+    "Price_plan": 19336573230.0,
+    "S_land": 7329.0,
+    "Start_period": "2022-04-22",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2022-04-06",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "158.48 м",
+    "N_residential_rooms": 680,
+    "N_non_residential_rooms": 607,
+    "parking": 414,
+    "other_rooms": 193,
+    "min_S_flat": 36.4,
+    "other_rooms_19_6_1_4": 16389115800.0,
+    "other_info": "1.Достоверный финансовый результат, а именно чистая при-быль по состоянию на 31.12.2022 является – (4401,71)"
+  },
+  "debug": {
+    "address_raw": "Город Москва, улица Шеногина, земельный участок 2/8 (СЗАО, Хорошево-Мневники)",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ЛИДЕР СТРО-ИТЕЛЬНОЙ ОТРАСЛИ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Хорошево-Мневники\", \"street\": \"улица Шеногина\", \"land_plot\": \"земельный участок 2/8\", \"building\": null}",
+    "developer_llm_response": "ЛИДЕР СТРОИТЕЛЬНОЙ ОТРАСЛИ",
+    "loan_amounts_parsed": [
+      13725320000.0,
+      2663795800.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "36.40",
+      "conditional_number": "111"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2022 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2023 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "source_file": "0089_1-й Саларьевский_91725397_obj60896-pd77-003084.xlsx",
+  "id": 60896,
+  "N_declaration": "77-003084",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 60896,
+    "name": "«Многоквартирный жилой дом №1 со встроенно-пристроенными помещениями нежилого назначения по адресу: г. Москва, поселе-ние Московский, квартал 70, земельный участок 78»",
+    "N_declaration": "77-003084",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 60896,
+    "N_declaration": "77-003084",
+    "date_declaration": "2026-03-10",
+    "name": "«Многоквартирный жилой дом №1 со встроенно-пристроенными помещениями нежилого назначения по адресу: г. Москва, поселе-ние Московский, квартал 70, земельный участок 78»",
+    "developer": "ЮГО-ЗАПАД СТОЛИЦЫ",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": "земельный участок 78",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Поселение Московский",
+    "S_total": 39533.4,
+    "S_residential": 31257.3,
+    "S_non_residential": 2456.8,
+    "Price_plan": 7400130200.0,
+    "S_land": 56848.0,
+    "Start_period": "2024-07-12",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2023-12-01",
+    "material_walls": "Со сборным железобетонным каркасом и стенами из крупных ка-менных блоков и панелей",
+    "material_covering": "Сборные железобетонные",
+    "energy_class": "B",
+    "max_height": "80 м",
+    "N_residential_rooms": 715,
+    "N_non_residential_rooms": 204,
+    "parking": 0,
+    "other_rooms": 204,
+    "min_S_flat": 27.1,
+    "other_rooms_19_6_1_4": 36866120100.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, поселение Московский, квартал 70, земельный участок 78",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ЮГО-ЗАПАД СТОЛИЦЫ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": \"земельный участок 78\", \"building\": null}",
+    "developer_llm_response": "ЮГО-ЗАПАД СТОЛИЦЫ",
+    "loan_amounts_parsed": [
+      36866120100.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "27.10",
+      "conditional_number": "35"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

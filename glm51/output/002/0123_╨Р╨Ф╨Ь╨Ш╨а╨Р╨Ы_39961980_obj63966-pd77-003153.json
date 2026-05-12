@@ -1,0 +1,115 @@
+{
+  "source_file": "0123_АДМИРАЛ_39961980_obj63966-pd77-003153.xlsx",
+  "id": 63966,
+  "N_declaration": "77-003153",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 63966,
+    "name": "Жилой комплекс, ВГК-1",
+    "N_declaration": "77-003153",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 63966,
+    "N_declaration": "77-003153",
+    "date_declaration": "2026-03-10",
+    "name": "Жилой комплекс, ВГК-1",
+    "developer": "ГАЛС-ШОССЕЙНАЯ",
+    "city": "Москва",
+    "district": "Печатники",
+    "street": "улица Шоссейная",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Печатники",
+    "S_total": 135552.5,
+    "S_residential": 75638.3,
+    "S_non_residential": 14843.7,
+    "Price_plan": 22320000000.0,
+    "S_land": 26907.0,
+    "Start_period": "2024-12-19",
+    "Finish_period": "3 квартал 2028 г.",
+    "Date_expert": "2024-12-16",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Монолитная сте-на/армированная кладка из ячеистобетонных блоков D600)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 1489,
+    "N_non_residential_rooms": 1083,
+    "parking": 535,
+    "other_rooms": 548,
+    "min_S_flat": 28.1,
+    "other_rooms_19_6_1_4": 29710000000.0,
+    "other_info": "Коммерческие помещения 6КП, 13КП, 15КП, 23КП, 25КП, 32КП расположены на 1 и 2 этажах.Все коммерческие помеще-ния имеют переменную высоту от 4,25 м до 4,9 м"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, вн.тер.г. муниципальный округ Печатники, ул. Шоссей-ная",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ГАЛС-ШОССЕЙ-НАЯ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Печатники\", \"street\": \"улица Шоссейная\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ГАЛС-ШОССЕЙНАЯ",
+    "loan_amounts_parsed": [
+      29710000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.10",
+      "conditional_number": "913"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      }
+    ]
+  }
+}

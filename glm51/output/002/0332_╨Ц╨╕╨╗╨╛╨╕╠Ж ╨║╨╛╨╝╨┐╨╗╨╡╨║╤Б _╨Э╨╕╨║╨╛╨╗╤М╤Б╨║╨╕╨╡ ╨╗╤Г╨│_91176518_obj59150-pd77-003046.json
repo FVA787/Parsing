@@ -1,0 +1,116 @@
+{
+  "source_file": "0332_Жилой комплекс _Никольские луг_91176518_obj59150-pd77-003046.xlsx",
+  "id": 59150,
+  "N_declaration": "77-003046",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 59150,
+    "name": "Многоэтажный жилой дом с подземной автостоянкой, комплекс 4 (корп.4)",
+    "N_declaration": "77-003046",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 59150,
+    "N_declaration": "77-003046",
+    "date_declaration": "2026-03-04",
+    "name": "Многоэтажный жилой дом с подземной автостоянкой, комплекс 4 (корп.4)",
+    "developer": "ТЕРИБЕРСКИЙ БЕРЕГ",
+    "city": "Москва",
+    "district": "Южное Бутово",
+    "street": "Варшавское шоссе",
+    "land_plot": null,
+    "building": "корпус 4",
+    "subject": "Город Москва",
+    "region": "Район Южное Бутово",
+    "S_total": 49734.5,
+    "S_residential": 27063.3,
+    "S_non_residential": 5525.38,
+    "Price_plan": 4550000000.0,
+    "S_land": 66970.0,
+    "Start_period": "2024-04-19",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2024-04-16",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Каркасная сис-тема с ограждающими трехслойными навесными панелями)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 665,
+    "N_non_residential_rooms": 397,
+    "parking": 132,
+    "other_rooms": 265,
+    "min_S_flat": 18.4,
+    "other_rooms_19_6_1_4": 7729900000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Москва, ЮЗАО, Южное Бутово, Варшавское шоссе, 1-й планиро-вочный комплекс промзоны\"Бутово\", корпус 4",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТЕРИБЕРСКИЙ БЕРЕГ\"",
+    "address_llm_response": "{\n  \"city\": \"Москва\",\n  \"district\": \"Южное Бутово\",\n  \"street\": \"Варшавское шоссе\",\n  \"land_plot\": null,\n  \"building\": \"корпус 4\"\n}",
+    "developer_llm_response": "ТЕРИБЕРСКИЙ БЕРЕГ",
+    "loan_amounts_parsed": [
+      4550000000.0,
+      3179900000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "18.40",
+      "conditional_number": "121"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

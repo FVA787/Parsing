@@ -1,0 +1,116 @@
+{
+  "source_file": "0325_Жилой комплекс _Матвеевский па_22733116_obj63603-pd77-003143.xlsx",
+  "id": 63603,
+  "N_declaration": "77-003143",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 63603,
+    "name": "Жилой дом с подземной автостоянкой и встроенно-пристроенны-ми помещениями. Квартал 4. Корпуса 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7,\n4.8. Этап 2",
+    "N_declaration": "77-003143",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 63603,
+    "N_declaration": "77-003143",
+    "date_declaration": "2026-03-04",
+    "name": "Жилой дом с подземной автостоянкой и встроенно-пристроенны-ми помещениями. Квартал 4. Корпуса 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7,\n4.8. Этап 2",
+    "developer": "ЦЕНТРПОЛИС",
+    "city": "Москва",
+    "district": "Очаково-Матвеевское",
+    "street": "шоссе Очаковское",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Очаково-Матвеевское",
+    "S_total": 38111.0,
+    "S_residential": 22329.1,
+    "S_non_residential": 2779.7,
+    "Price_plan": 6090450391.52,
+    "S_land": 21082.0,
+    "Start_period": "2024-11-28",
+    "Finish_period": "2 квартал 2028 г.",
+    "Date_expert": "2024-07-23",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Монолитный железобетон )",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "140 м",
+    "N_residential_rooms": 486,
+    "N_non_residential_rooms": 354,
+    "parking": 0,
+    "other_rooms": 354,
+    "min_S_flat": 18.2,
+    "other_rooms_19_6_1_4": 8340450391.52,
+    "other_info": "Пункт 13.1.3 по проектной документации относится к 1 этапу (корпуса 4.1,4.2,4.3,4.7,4.8)"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, ЗАО, Очаково-Матвеевское, ш. Очаковское. Этап 2",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ЦЕНТРПОЛИС\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Очаково-Матвеевское\", \"street\": \"шоссе Очаковское\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ЦЕНТРПОЛИС",
+    "loan_amounts_parsed": [
+      6090450391.52,
+      2250000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "18.20",
+      "conditional_number": "47"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      }
+    ]
+  }
+}

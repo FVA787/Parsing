@@ -1,0 +1,112 @@
+{
+  "source_file": "0362_Жилой комплекс_Большая Академи_55962816_obj53897-pd77-002912.xlsx",
+  "id": 53897,
+  "N_declaration": "77-002912",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 53897,
+    "name": "Гостиница, состоящая из корпусов 3.5 и 3.6, с общественным и по-мещениями и подземной автостоянкой. Этап 2",
+    "N_declaration": "77-002912",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 53897,
+    "N_declaration": "77-002912",
+    "date_declaration": "2026-03-04",
+    "name": "Гостиница, состоящая из корпусов 3.5 и 3.6, с общественным и по-мещениями и подземной автостоянкой. Этап 2",
+    "developer": "ЛИХОБОРЫ",
+    "city": "Москва",
+    "district": "Тимирязевский",
+    "street": "проезд Нижнелихоборский 3-ий",
+    "land_plot": null,
+    "building": "корпус 3.5,3.6",
+    "subject": "Город Москва",
+    "region": "Тимирязевский район",
+    "S_total": 27319.8,
+    "S_residential": 0.0,
+    "S_non_residential": 20094.9,
+    "Price_plan": 4381603785.42,
+    "S_land": 23846.0,
+    "Start_period": "2023-08-18",
+    "Finish_period": "1 квартал 2026 г.",
+    "Date_expert": "2023-05-20",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (навесная па-нель, газоблок)",
+    "material_covering": "Иной вид материалов перекрытий (железобетон)",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 653,
+    "parking": 84,
+    "other_rooms": 569,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 5431603785.42,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, САО, район Тимирязевский, проезд Нижнелихоборский 3-ий, корп. 3.5,3.6 (этап 2)",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ЛИХОБОРЫ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Тимирязевский\", \"street\": \"проезд Нижнелихоборский 3-ий\", \"land_plot\": null, \"building\": \"корпус 3.5,3.6\"}",
+    "developer_llm_response": "ЛИХОБОРЫ",
+    "loan_amounts_parsed": [
+      4381603785.42,
+      1050000000.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      }
+    ]
+  }
+}

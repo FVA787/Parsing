@@ -1,0 +1,113 @@
+{
+  "source_file": "0122__Авторская коллекция резиденци_63156496_obj70610-pd77-003302.xlsx",
+  "id": 70610,
+  "N_declaration": "77-003302",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 70610,
+    "name": "Жилой комплекс со встроенно-пристроенными коммерческими помещениями и подземным паркингом «Авторская коллекция ре-зиденций «Муза»",
+    "N_declaration": "77-003302",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 70610,
+    "N_declaration": "77-003302",
+    "date_declaration": "2026-03-10",
+    "name": "Жилой комплекс со встроенно-пристроенными коммерческими помещениями и подземным паркингом «Авторская коллекция ре-зиденций «Муза»",
+    "developer": "ГОРОД",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Красноармейская",
+    "land_plot": "владение 11",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Аэропорт",
+    "S_total": 46940.9,
+    "S_residential": 24927.1,
+    "S_non_residential": 4925.1,
+    "Price_plan": 11159987953.0,
+    "S_land": 11173.0,
+    "Start_period": "2026-02-10",
+    "Finish_period": "2 квартал 2029 г.",
+    "Date_expert": "2025-12-30",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 309,
+    "N_non_residential_rooms": 238,
+    "parking": 149,
+    "other_rooms": 89,
+    "min_S_flat": 38.2,
+    "other_rooms_19_6_1_4": null,
+    "other_info": "1. Условный номер объектов долевого строительства и номера подъездов присвоены застройщиком; 2.Информационно:ми-нимальное количество- 8 этажа (в том числе 6 надземный и 2 подземный этаж), максимальное количество этажей- 21 этажей (в том числе количество надземных этажей-20 и 1 подземный этаж)"
+  },
+  "debug": {
+    "address_raw": "Красноармейская ул.вл.11",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ГОРОД\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Красноармейская\", \"land_plot\": \"владение 11\", \"building\": null}",
+    "developer_llm_response": "ГОРОД",
+    "loan_amounts_parsed": [],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "38.20",
+      "conditional_number": "10"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2029 г."
+      }
+    ]
+  }
+}

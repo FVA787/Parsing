@@ -1,0 +1,161 @@
+{
+  "source_file": "0363_Жилой комплекс_Бунинские луга__49360874_obj43524-pd77-002349.xlsx",
+  "id": 43524,
+  "N_declaration": "77-002349",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 43524,
+    "name": "Наземная автостоянка открытого типа корп.1.18.1 (этап 1)",
+    "N_declaration": "77-002349",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 43524,
+    "N_declaration": "77-002349",
+    "date_declaration": "2026-03-04",
+    "name": "Наземная автостоянка открытого типа корп.1.18.1 (этап 1)",
+    "developer": "ПИК",
+    "city": "Москва",
+    "district": "НАО",
+    "street": null,
+    "land_plot": "земельный участок 3/3",
+    "building": "корпус 1.18.1",
+    "subject": "Город Москва",
+    "region": "Поселение Сосенское",
+    "S_total": 17571.9,
+    "S_residential": 0.0,
+    "S_non_residential": 8559.5,
+    "Price_plan": 400000000.0,
+    "S_land": 20231.0,
+    "Start_period": "2019-04-02",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2018-12-28",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (стальной кар-кас)",
+    "material_covering": "Иной вид материалов перекрытий (железобетонные плиты)",
+    "energy_class": "Не нормируется",
+    "max_height": "30 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 646,
+    "parking": 646,
+    "other_rooms": 0,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 1840000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Москва, НАО, Сосенское, дер.Столбово, з/у 3/3. 1 этап, корпус 1.18.1",
+    "developer_raw": "\"ПИК-СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"НАО\", \"street\": null, \"land_plot\": \"земельный участок 3/3\", \"building\": \"корпус 1.18.1\"}",
+    "developer_llm_response": "ПИК",
+    "loan_amounts_parsed": [
+      1840000000.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2021 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2022 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2022 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2022 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2022 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

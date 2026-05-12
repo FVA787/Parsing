@@ -1,0 +1,115 @@
+{
+  "source_file": "0210_ЖК _Троицкий__20972010_obj65505-pd77-003189.xlsx",
+  "id": 65505,
+  "N_declaration": "77-003189",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 65505,
+    "name": "Многоквартирный жилой дом со встроенными помещениями поз.\n6. Первый этап строительства.",
+    "N_declaration": "77-003189",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 65505,
+    "N_declaration": "77-003189",
+    "date_declaration": "2026-03-04",
+    "name": "Многоквартирный жилой дом со встроенными помещениями поз.\n6. Первый этап строительства.",
+    "developer": "ТРОИЦКАЯ ЖИЛИЩНО-СТРОИТЕЛЬНАЯ КОМПАНИЯ",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Академика Франка",
+    "land_plot": null,
+    "building": "корпус 6",
+    "subject": "Город Москва",
+    "region": "Поселение Троицк",
+    "S_total": 23226.0,
+    "S_residential": 15094.2,
+    "S_non_residential": 2404.8,
+    "Price_plan": 2600658230.0,
+    "S_land": 10733.0,
+    "Start_period": "2024-08-22",
+    "Finish_period": "3 квартал 2027 г.",
+    "Date_expert": "2024-08-16",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "42 м",
+    "N_residential_rooms": 286,
+    "N_non_residential_rooms": 7,
+    "parking": 0,
+    "other_rooms": 7,
+    "min_S_flat": 31.2,
+    "other_rooms_19_6_1_4": 2839945000.0,
+    "other_info": "Объекты долевого строительства-нежилые помещения для коммерческого использования расположены на двух этажах (1 эт.и-1 эт.)"
+  },
+  "debug": {
+    "address_raw": "Улица Академика Франка, корпус 6",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ТРОИЦКАЯ ЖИ-ЛИЩНО-СТРОИТЕЛЬНАЯ КОМПАНИЯ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Академика Франка\", \"land_plot\": null, \"building\": \"корпус 6\"}",
+    "developer_llm_response": "ТРОИЦКАЯ ЖИЛИЩНО-СТРОИТЕЛЬНАЯ КОМПАНИЯ",
+    "loan_amounts_parsed": [
+      2839945000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "31.20",
+      "conditional_number": "2"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "source_file": "0115_Springs Спрингс_67179585_obj62103-pd77-003114.xlsx",
+  "id": 62103,
+  "N_declaration": "77-003114",
+  "date_declaration": "2026-03-12",
+  "Declaration_info": {
+    "id": 62103,
+    "name": "Многоквартирный жилой дом со встроенно-пристроенными по-мещениями нежилого назначения и подземной автостоянкой",
+    "N_declaration": "77-003114",
+    "date_declaration": "2026-03-12"
+  },
+  "Current_declaration": {
+    "id": 62103,
+    "N_declaration": "77-003114",
+    "date_declaration": "2026-03-12",
+    "name": "Многоквартирный жилой дом со встроенно-пристроенными по-мещениями нежилого назначения и подземной автостоянкой",
+    "developer": "СПРИНГС",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Малая Филёвская",
+    "land_plot": "владение 46",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Фили-Давыдково",
+    "S_total": 39852.1,
+    "S_residential": 20775.8,
+    "S_non_residential": 5063.0,
+    "Price_plan": 13042612349.0,
+    "S_land": 5116.0,
+    "Start_period": "2024-08-13",
+    "Finish_period": "3 квартал 2027 г.",
+    "Date_expert": "2024-06-24",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 149,
+    "N_non_residential_rooms": 344,
+    "parking": 179,
+    "other_rooms": 165,
+    "min_S_flat": 64.3,
+    "other_rooms_19_6_1_4": 13782000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Земельный участок по адресу Москва, Ул. М.Филевская, вл.46",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК СПРИНГС",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Малая Филёвская\", \"land_plot\": \"владение 46\", \"building\": null}",
+    "developer_llm_response": "СПРИНГС",
+    "loan_amounts_parsed": [
+      13782000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "64.30",
+      "conditional_number": "46"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "source_file": "0327_Жилой комплекс _Митинский лес__11794034_obj68929-pd77-003267.xlsx",
+  "id": 68929,
+  "N_declaration": "77-003267",
+  "date_declaration": "2026-03-03",
+  "Declaration_info": {
+    "id": 68929,
+    "name": "Многофункциональная жилая застройка. 4 этап - корпус №14",
+    "N_declaration": "77-003267",
+    "date_declaration": "2026-03-03"
+  },
+  "Current_declaration": {
+    "id": 68929,
+    "N_declaration": "77-003267",
+    "date_declaration": "2026-03-03",
+    "name": "Многофункциональная жилая застройка. 4 этап - корпус №14",
+    "developer": "ПФК",
+    "city": "Москва",
+    "district": "СЗАО",
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Митино",
+    "S_total": 71118.4,
+    "S_residential": 46003.1,
+    "S_non_residential": 3272.1,
+    "Price_plan": 11462089000.0,
+    "S_land": 48464.0,
+    "Start_period": "2016-11-03",
+    "Finish_period": "4 квартал 2028 г.",
+    "Date_expert": "2016-03-31",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Монолитный каркас. Трехслойная стеновая панель заводского исполнения.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "82.5 м",
+    "N_residential_rooms": 1115,
+    "N_non_residential_rooms": 176,
+    "parking": 0,
+    "other_rooms": 176,
+    "min_S_flat": 19.7,
+    "other_rooms_19_6_1_4": 11462089000.0,
+    "other_info": "П.10.3.1 (6) Предыдущее название организации Общество с ог-раниченной ответственностью «КРЕС»"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, СЗАО, Митино, вблизи с.Рождествено, 4 этап-корпус\n№14",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: АКЦИОНЕРНОЕ ОБЩЕСТВО СПЕЦИАЛИЗИРОВАННЫЙ ЗАС-ТРОЙЩИК \"ПФК\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"СЗАО\", \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ПФК",
+    "loan_amounts_parsed": [
+      11462089000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "19.70",
+      "conditional_number": "955"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      }
+    ]
+  }
+}

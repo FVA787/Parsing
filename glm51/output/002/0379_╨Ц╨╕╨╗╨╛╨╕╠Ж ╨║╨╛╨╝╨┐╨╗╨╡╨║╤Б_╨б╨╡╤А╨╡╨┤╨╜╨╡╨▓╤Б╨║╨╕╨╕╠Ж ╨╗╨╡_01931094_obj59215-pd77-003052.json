@@ -1,0 +1,116 @@
+{
+  "source_file": "0379_Жилой комплекс_Середневский ле_01931094_obj59215-pd77-003052.xlsx",
+  "id": 59215,
+  "N_declaration": "77-003052",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 59215,
+    "name": "Многоквартирный жилой дом, корпус 4.3 в составе жилой застрой-ки с объектами социальной инфраструктуры",
+    "N_declaration": "77-003052",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 59215,
+    "N_declaration": "77-003052",
+    "date_declaration": "2026-03-04",
+    "name": "Многоквартирный жилой дом, корпус 4.3 в составе жилой застрой-ки с объектами социальной инфраструктуры",
+    "developer": "СЕРЕДНЕВО",
+    "city": "Москва",
+    "district": "НАО",
+    "street": null,
+    "land_plot": null,
+    "building": "корпус 4.3",
+    "subject": "Город Москва",
+    "region": "Поселение Филимонковское",
+    "S_total": 38034.3,
+    "S_residential": 21874.2,
+    "S_non_residential": 3681.5,
+    "Price_plan": 3568273688.87,
+    "S_land": 14689.0,
+    "Start_period": "2024-02-06",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2023-11-28",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Навесные 3-х слойные энергоэффективные панели по монолитному железо-бетонному каркасу)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "31 м",
+    "N_residential_rooms": 557,
+    "N_non_residential_rooms": 326,
+    "parking": 0,
+    "other_rooms": 326,
+    "min_S_flat": 19.5,
+    "other_rooms_19_6_1_4": 4828273688.87,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, НАО, поселение Филимонковское, ОАО \"Марьинская птицефабрика\", корпус 4.3",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК СЕРЕДНЕВО\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"НАО\", \"street\": null, \"land_plot\": null, \"building\": \"корпус 4.3\"}",
+    "developer_llm_response": "СЕРЕДНЕВО",
+    "loan_amounts_parsed": [
+      3568273688.87,
+      1260000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "19.50",
+      "conditional_number": "106"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

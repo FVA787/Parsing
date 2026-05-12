@@ -1,0 +1,115 @@
+{
+  "source_file": "0109_NEXUS by Akvilon_НЕКСУС от Акв_32755608_obj68781-pd77-003262.xlsx",
+  "id": 68781,
+  "N_declaration": "77-003262",
+  "date_declaration": "2026-03-11",
+  "Declaration_info": {
+    "id": 68781,
+    "name": "Многофункциональный комплекс",
+    "N_declaration": "77-003262",
+    "date_declaration": "2026-03-11"
+  },
+  "Current_declaration": {
+    "id": 68781,
+    "N_declaration": "77-003262",
+    "date_declaration": "2026-03-11",
+    "name": "Многофункциональный комплекс",
+    "developer": "ТИТУЛ",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Ярцевская",
+    "land_plot": "участок 21/1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Кунцево",
+    "S_total": 96487.1,
+    "S_residential": 31496.2,
+    "S_non_residential": 31067.91,
+    "Price_plan": 14547003568.72,
+    "S_land": 11743.0,
+    "Start_period": "2025-11-06",
+    "Finish_period": "3 квартал 2029 г.",
+    "Date_expert": "2025-10-10",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "161.2 м",
+    "N_residential_rooms": 639,
+    "N_non_residential_rooms": 598,
+    "parking": 216,
+    "other_rooms": 382,
+    "min_S_flat": 28.6,
+    "other_rooms_19_6_1_4": 14520000000.0,
+    "other_info": "В соответствии с п.5.1. ч.1. ст.21.Федерального закона от 30.12.2004 N 214-ФЗ и в связи с тем, что форма проектной дек-ларации не предусматривает раздел, позволяющий указать сведения о том, что в проектной документации многоквартир-ного дома предусмотрена одна из характеристик, являющаяся в соответствии с Градостроительным кодексом Российской Фе-дерации основанием для их отнесения к уникальным объек-там: Многоквартирный дом, создаваемый в соответствии с настоящей проектной декларацией, является уникальным объектом в соответствии с п.1.ч.2 ст. 48.1 Градостроительного кодекса Российской Федерации. Высота многоквартирного до-ма составляет 150 метров."
+  },
+  "debug": {
+    "address_raw": "Улица Ярцевская, участок 21/1",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТИТУЛ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Ярцевская\", \"land_plot\": \"участок 21/1\", \"building\": null}",
+    "developer_llm_response": "ТИТУЛ",
+    "loan_amounts_parsed": [
+      14520000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.60",
+      "conditional_number": "11"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2029 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2029 г."
+      }
+    ]
+  }
+}

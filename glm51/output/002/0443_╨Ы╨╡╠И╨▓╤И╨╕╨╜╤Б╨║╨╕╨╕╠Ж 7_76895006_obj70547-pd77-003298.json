@@ -1,0 +1,115 @@
+{
+  "source_file": "0443_Лёвшинский 7_76895006_obj70547-pd77-003298.xlsx",
+  "id": 70547,
+  "N_declaration": "77-003298",
+  "date_declaration": "2026-03-17",
+  "Declaration_info": {
+    "id": 70547,
+    "name": "Жилой комплекс с подземной автостоянкой",
+    "N_declaration": "77-003298",
+    "date_declaration": "2026-03-17"
+  },
+  "Current_declaration": {
+    "id": 70547,
+    "N_declaration": "77-003298",
+    "date_declaration": "2026-03-17",
+    "name": "Жилой комплекс с подземной автостоянкой",
+    "developer": "МАЛЫЙ ЛЕВИНСКИЙ 7",
+    "city": "Москва",
+    "district": "Хамовники",
+    "street": "Малый Левшинский переулок",
+    "land_plot": "владение 7",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Хамовники",
+    "S_total": 10352.9,
+    "S_residential": 4994.92,
+    "S_non_residential": 1218.85,
+    "Price_plan": 9972438568.0,
+    "S_land": 4157.0,
+    "Start_period": "2017-09-15",
+    "Finish_period": "1 квартал 2029 г.",
+    "Date_expert": "2017-06-06",
+    "material_walls": "Со сборно-монолитным железобетонным каркасом и стенами из крупных каменных блоков и панелей со сборно-монолитным же-лезобетонным каркасом и стенами из мелкоштучных каменных материалов (кирпич, керамические камни, блоки и другие)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "29 м",
+    "N_residential_rooms": 35,
+    "N_non_residential_rooms": 72,
+    "parking": 72,
+    "other_rooms": 0,
+    "min_S_flat": 63.34,
+    "other_rooms_19_6_1_4": 9972000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Город Москва, ЦАО, район Хамовники, Малый Левшинский пере-улок, владение 7",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК МАЛЫЙ ЛЕВ-ШИНСКИЙ 7\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Хамовники\", \"street\": \"Малый Левшинский переулок\", \"land_plot\": \"владение 7\", \"building\": null}",
+    "developer_llm_response": "МАЛЫЙ ЛЕВИНСКИЙ 7",
+    "loan_amounts_parsed": [
+      9972000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "63.34",
+      "conditional_number": "А-2.3"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2029 г."
+      }
+    ]
+  }
+}

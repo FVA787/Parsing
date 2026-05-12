@@ -1,0 +1,115 @@
+{
+  "source_file": "0457_Молжаниново_ ЖК Молжаниново_62437703_obj54541-pd77-002929.xlsx",
+  "id": 54541,
+  "N_declaration": "77-002929",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 54541,
+    "name": "Многофункциональная комплексная застройка, 1 очередь, корпус\n№ 5",
+    "N_declaration": "77-002929",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 54541,
+    "N_declaration": "77-002929",
+    "date_declaration": "2026-03-10",
+    "name": "Многофункциональная комплексная застройка, 1 очередь, корпус\n№ 5",
+    "developer": "Самолет-Молжаниново",
+    "city": null,
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Молжаниновский район",
+    "S_total": 57130.68,
+    "S_residential": 37084.82,
+    "S_non_residential": 2285.83,
+    "Price_plan": 3765205686.19,
+    "S_land": 67710.0,
+    "Start_period": "2023-09-22",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2023-09-06",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "52.21 м",
+    "N_residential_rooms": 865,
+    "N_non_residential_rooms": 331,
+    "parking": 0,
+    "other_rooms": 331,
+    "min_S_flat": 20.21,
+    "other_rooms_19_6_1_4": 20670000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "КСХП \"Химки\"",
+    "developer_raw": "\"Специализированный Застройщик \"Самолет-Молжаниново\"",
+    "address_llm_response": "{\"city\": null, \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "Самолет-Молжаниново",
+    "loan_amounts_parsed": [
+      20670000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "20.21",
+      "conditional_number": "745"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

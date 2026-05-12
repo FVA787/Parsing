@@ -1,0 +1,115 @@
+{
+  "source_file": "0155_Гранд Фили_71890646_obj69199-pd77-003275.xlsx",
+  "id": 69199,
+  "N_declaration": "77-003275",
+  "date_declaration": "2026-03-13",
+  "Declaration_info": {
+    "id": 69199,
+    "name": "Многофункциональный жилой комплекс",
+    "N_declaration": "77-003275",
+    "date_declaration": "2026-03-13"
+  },
+  "Current_declaration": {
+    "id": 69199,
+    "N_declaration": "77-003275",
+    "date_declaration": "2026-03-13",
+    "name": "Многофункциональный жилой комплекс",
+    "developer": "ГРАНАРД",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Большая Филевская",
+    "land_plot": "земельный участок 2Б",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Филёвский Парк",
+    "S_total": 35081.02,
+    "S_residential": 17944.34,
+    "S_non_residential": 3239.36,
+    "Price_plan": 7336721000.0,
+    "S_land": 8149.0,
+    "Start_period": "2025-11-24",
+    "Finish_period": "2 квартал 2029 г.",
+    "Date_expert": "2025-10-28",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 244,
+    "N_non_residential_rooms": 228,
+    "parking": 152,
+    "other_rooms": 76,
+    "min_S_flat": 38.73,
+    "other_rooms_19_6_1_4": 10118848000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Ул. Большая Филевская, земельный участок 2Б",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ГРАНАРД",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Большая Филевская\", \"land_plot\": \"земельный участок 2Б\", \"building\": null}",
+    "developer_llm_response": "ГРАНАРД",
+    "loan_amounts_parsed": [
+      10118848000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "38.73",
+      "conditional_number": "5"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2029 г."
+      }
+    ]
+  }
+}

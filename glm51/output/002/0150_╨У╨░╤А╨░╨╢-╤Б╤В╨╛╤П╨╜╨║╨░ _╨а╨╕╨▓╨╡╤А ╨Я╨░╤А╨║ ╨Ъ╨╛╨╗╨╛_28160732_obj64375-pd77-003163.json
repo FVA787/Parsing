@@ -1,0 +1,111 @@
+{
+  "source_file": "0150_Гараж-стоянка _Ривер Парк Коло_28160732_obj64375-pd77-003163.xlsx",
+  "id": 64375,
+  "N_declaration": "77-003163",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 64375,
+    "name": "Городской квартал «Ривер Парк». Фаза 2, Наземный гараж-стоян-ка",
+    "N_declaration": "77-003163",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 64375,
+    "N_declaration": "77-003163",
+    "date_declaration": "2026-03-05",
+    "name": "Городской квартал «Ривер Парк». Фаза 2, Наземный гараж-стоян-ка",
+    "developer": "МССЗ",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": "земельный участок 7/2",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Нагатинский Затон",
+    "S_total": 11896.8,
+    "S_residential": 0.0,
+    "S_non_residential": 6059.6,
+    "Price_plan": 941336585.0,
+    "S_land": 6221.0,
+    "Start_period": "2025-01-28",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2025-11-11",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (из каркасно-об-шивных стеновых панелей с каркасом из стальных тонкостенных холодногнутых оцинкованных профилей с внешней обшивкой ар-мированными цементно-минеральными плитами АКВАПАНЕЛЬ с последующим устройством декоративно-отделочного слоя и внутренней обшивкой профлистом.)",
+    "material_covering": "Сборно-монолитные железобетонные по металлическим балкам",
+    "energy_class": "Не нормируется",
+    "max_height": "18.1 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 400,
+    "parking": 400,
+    "other_rooms": 0,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 12490000000.0,
+    "other_info": "По состоянию на 31.12.2024 г.(за IV квартал 2024 г.) в финансо-вом результате текущего года чистая прибыль составила 5 022 776 тыс.руб.Размер кредиторской задолженности на 31.12.2024 г.-1 544 108 тыс.руб.Размер дебиторской задолженности на 31.12.2024 г.-4 274 451 тыс.руб"
+  },
+  "debug": {
+    "address_raw": "Земельный участок 7/2",
+    "developer_raw": "Специализированный застройщик\"МССЗ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": \"земельный участок 7/2\", \"building\": null}",
+    "developer_llm_response": "МССЗ",
+    "loan_amounts_parsed": [
+      12490000000.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

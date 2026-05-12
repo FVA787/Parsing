@@ -1,0 +1,115 @@
+{
+  "source_file": "0252_ЖК Ольховый Квартал_25580128_obj53541-pd77-002892.xlsx",
+  "id": 53541,
+  "N_declaration": "77-002892",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 53541,
+    "name": "Комплексная жилая застройка в составе: 2 жилых дома. Корпус 1",
+    "N_declaration": "77-002892",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 53541,
+    "N_declaration": "77-002892",
+    "date_declaration": "2026-03-10",
+    "name": "Комплексная жилая застройка в составе: 2 жилых дома. Корпус 1",
+    "developer": "МИЦ-3",
+    "city": null,
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Коммунарка",
+    "S_total": 16005.2,
+    "S_residential": 13112.0,
+    "S_non_residential": 573.7,
+    "Price_plan": 3223007878.0,
+    "S_land": 7500.0,
+    "Start_period": "2023-07-20",
+    "Finish_period": "3 квартал 2028 г.",
+    "Date_expert": "2023-07-14",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "55 м",
+    "N_residential_rooms": 393,
+    "N_non_residential_rooms": 107,
+    "parking": 0,
+    "other_rooms": 107,
+    "min_S_flat": 13.5,
+    "other_rooms_19_6_1_4": 6690000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Корпус 1",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"МИЦ-3\"",
+    "address_llm_response": "{\"city\": null, \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "МИЦ-3",
+    "loan_amounts_parsed": [
+      6690000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "13.50",
+      "conditional_number": "203"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      }
+    ]
+  }
+}

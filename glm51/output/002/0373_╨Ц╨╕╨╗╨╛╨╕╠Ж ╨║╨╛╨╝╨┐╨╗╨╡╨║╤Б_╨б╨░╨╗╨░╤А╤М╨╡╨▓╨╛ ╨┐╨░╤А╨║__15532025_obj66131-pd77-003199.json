@@ -1,0 +1,116 @@
+{
+  "source_file": "0373_Жилой комплекс_Саларьево парк__15532025_obj66131-pd77-003199.xlsx",
+  "id": 66131,
+  "N_declaration": "77-003199",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 66131,
+    "name": "Многоэтажный жилой дом, корпус 73 с подземной стоянкой авто-мобилей, с инженерными сетями, в составе Жилой застройки с объектами социальной инфраструктуры",
+    "N_declaration": "77-003199",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 66131,
+    "N_declaration": "77-003199",
+    "date_declaration": "2026-03-04",
+    "name": "Многоэтажный жилой дом, корпус 73 с подземной стоянкой авто-мобилей, с инженерными сетями, в составе Жилой застройки с объектами социальной инфраструктуры",
+    "developer": "ТИРОН",
+    "city": "Москва",
+    "district": "НАО",
+    "street": "улица Саларьевская",
+    "land_plot": null,
+    "building": "корпус 73",
+    "subject": "Город Москва",
+    "region": "Район Коммунарка",
+    "S_total": 19799.9,
+    "S_residential": 11242.1,
+    "S_non_residential": 1506.8,
+    "Price_plan": 2850000000.0,
+    "S_land": 5301.0,
+    "Start_period": "2025-05-29",
+    "Finish_period": "2 квартал 2028 г.",
+    "Date_expert": "2025-05-22",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Материал на-ружных стен - монолитный железобетонный, навесной вентилиру-емый фасад с облицовкой из панелей. Каркас - монолитный же-лезобетонный.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 225,
+    "N_non_residential_rooms": 82,
+    "parking": 61,
+    "other_rooms": 21,
+    "min_S_flat": 31.3,
+    "other_rooms_19_6_1_4": 5902000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, НАО, вн.тер.г. поселение Московский, ул. Саларьев-ская, корпус 73",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТИРОН\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"НАО\", \"street\": \"улица Саларьевская\", \"land_plot\": null, \"building\": \"корпус 73\"}",
+    "developer_llm_response": "ТИРОН",
+    "loan_amounts_parsed": [
+      2850000000.0,
+      3052000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "31.30",
+      "conditional_number": "4"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      }
+    ]
+  }
+}

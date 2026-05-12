@@ -1,0 +1,166 @@
+{
+  "source_file": "0420_Квартал Марьино_14547957_obj50975-pd77-002832.xlsx",
+  "id": 50975,
+  "N_declaration": "77-002832",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 50975,
+    "name": "Комплексная жилая застройка с объектами инфраструктуры. Пер-вая очередь строительства: 1-ый этап - жилой дом № 1",
+    "N_declaration": "77-002832",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 50975,
+    "N_declaration": "77-002832",
+    "date_declaration": "2026-03-04",
+    "name": "Комплексная жилая застройка с объектами инфраструктуры. Пер-вая очередь строительства: 1-ый этап - жилой дом № 1",
+    "developer": "САМОЛЕТ-МАРЬИНО 1",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": "вблизи деревни Марьино",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Поселение Филимонковское",
+    "S_total": 48805.82,
+    "S_residential": 29736.98,
+    "S_non_residential": 4546.4,
+    "Price_plan": 3624530751.87,
+    "S_land": 27806.0,
+    "Start_period": "2023-02-22",
+    "Finish_period": "1 квартал 2026 г.",
+    "Date_expert": "2023-02-16",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "85 м",
+    "N_residential_rooms": 699,
+    "N_non_residential_rooms": 379,
+    "parking": 0,
+    "other_rooms": 379,
+    "min_S_flat": 22.07,
+    "other_rooms_19_6_1_4": 62219400000.0,
+    "other_info": "Целевой кредит (п.19.6) предоставлен на стр-во, в том числе жилых домов 1, 2"
+  },
+  "debug": {
+    "address_raw": "Пос. Филимонковское, ОАО «Марьинская птицефабрика» (вблизи д. Марьино)",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"САМОЛЕТ-МАРЬИНО 1\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": \"вблизи деревни Марьино\", \"building\": null}",
+    "developer_llm_response": "САМОЛЕТ-МАРЬИНО 1",
+    "loan_amounts_parsed": [
+      31109700000.0,
+      31109700000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "22.07",
+      "conditional_number": "180"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      }
+    ]
+  }
+}

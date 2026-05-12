@@ -1,0 +1,115 @@
+{
+  "source_file": "0381_Жилой район АЛИА_38270043_obj51218-pd77-002840.xlsx",
+  "id": 51218,
+  "N_declaration": "77-002840",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 51218,
+    "name": "Многоквартирные жилые дома со встроенными нежилыми по-мещениями и подземной автостоянкой, Блок 10-F",
+    "N_declaration": "77-002840",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 51218,
+    "N_declaration": "77-002840",
+    "date_declaration": "2026-03-06",
+    "name": "Многоквартирные жилые дома со встроенными нежилыми по-мещениями и подземной автостоянкой, Блок 10-F",
+    "developer": "РЕЗИДЕНС",
+    "city": "Москва",
+    "district": "Покровское-Стрешнево",
+    "street": "улица Аэроклубная",
+    "land_plot": "земельный участок 8А",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Покровское-Стрешнево",
+    "S_total": 54797.8,
+    "S_residential": 31996.2,
+    "S_non_residential": 4799.7,
+    "Price_plan": 6164924014.39,
+    "S_land": 14198.0,
+    "Start_period": "2023-04-03",
+    "Finish_period": "1 квартал 2026 г.",
+    "Date_expert": "2022-10-28",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "99.5 м",
+    "N_residential_rooms": 582,
+    "N_non_residential_rooms": 299,
+    "parking": 213,
+    "other_rooms": 86,
+    "min_S_flat": 23.3,
+    "other_rooms_19_6_1_4": 9100000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Российская Федерация, город Москва, внутригородская терри-тория (внутригородское муниципальное образование) города фе-дерального значения муниципальный округ Покровское-Стрешне-во, улица Аэроклубная, земельный участок 8А",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК РЕЗИДЕНС",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Покровское-Стрешнево\", \"street\": \"улица Аэроклубная\", \"land_plot\": \"земельный участок 8А\", \"building\": null}",
+    "developer_llm_response": "РЕЗИДЕНС",
+    "loan_amounts_parsed": [
+      9100000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "23.30",
+      "conditional_number": "9"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      }
+    ]
+  }
+}

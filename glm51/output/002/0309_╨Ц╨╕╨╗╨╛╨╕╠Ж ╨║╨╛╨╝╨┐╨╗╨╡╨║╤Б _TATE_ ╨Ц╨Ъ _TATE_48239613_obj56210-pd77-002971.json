@@ -1,0 +1,115 @@
+{
+  "source_file": "0309_Жилой комплекс _TATE_ ЖК _TATE_48239613_obj56210-pd77-002971.xlsx",
+  "id": 56210,
+  "N_declaration": "77-002971",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 56210,
+    "name": "Многофункциональный жилой комплекс",
+    "N_declaration": "77-002971",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 56210,
+    "N_declaration": "77-002971",
+    "date_declaration": "2026-03-04",
+    "name": "Многофункциональный жилой комплекс",
+    "developer": "Ч-ДЕВЕЛОПМЕНТ",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": "земельный участок 2/1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Марьина Роща",
+    "S_total": 98205.0,
+    "S_residential": 56605.0,
+    "S_non_residential": 13701.21,
+    "Price_plan": 9260000000.0,
+    "S_land": 15137.0,
+    "Start_period": "2023-11-22",
+    "Finish_period": "2 квартал 2027 г.",
+    "Date_expert": "2023-08-18",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мелкоштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "185.5 м",
+    "N_residential_rooms": 1104,
+    "N_non_residential_rooms": 572,
+    "parking": 517,
+    "other_rooms": 55,
+    "min_S_flat": 28.75,
+    "other_rooms_19_6_1_4": 19590767544.0,
+    "other_info": "Уникальный объект (высота 185.5 м); в составе 545 м/м имеется 28 м/ м временного и гостевого хранения; финансовый результат на 30.06.2024-чистая прибыль минус 405 641 тыс.руб, кредиторская за-долженность 91 909 тыс.руб, дебеторская задолженность 872 632 тыс.руб; финансовый результат на 31.12.2024-чистая прибыль минус 852 211тыс.руб, кредиторская задолженность 125 087 тыс.руб, дебетор-\nская задолженность 1 233 908 тыс.руб, финансовый результат на 31.03.2025-чистая прибыль минус 261 532 тыс.руб, кредиторская за-долженность 143 604 тыс.руб, дебеторская задолженность 1 348 901 тыс.руб"
+  },
+  "debug": {
+    "address_raw": "Земельный участок 2/1",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"Ч-ДЕВЕЛОПМЕНТ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": \"земельный участок 2/1\", \"building\": null}",
+    "developer_llm_response": "Ч-ДЕВЕЛОПМЕНТ",
+    "loan_amounts_parsed": [
+      19590767544.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "28.75",
+      "conditional_number": "4"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недвижимос-ти"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      }
+    ]
+  }
+}

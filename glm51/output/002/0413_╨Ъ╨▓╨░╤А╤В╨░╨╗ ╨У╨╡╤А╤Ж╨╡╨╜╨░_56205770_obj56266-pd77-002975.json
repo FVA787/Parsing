@@ -1,0 +1,115 @@
+{
+  "source_file": "0413_Квартал Герцена_56205770_obj56266-pd77-002975.xlsx",
+  "id": 56266,
+  "N_declaration": "77-002975",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 56266,
+    "name": "Высотный общественно-жилой градостроительный комплекс с подземным гаражом. Этап 1. Жилой дом №1",
+    "N_declaration": "77-002975",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 56266,
+    "N_declaration": "77-002975",
+    "date_declaration": "2026-03-10",
+    "name": "Высотный общественно-жилой градостроительный комплекс с подземным гаражом. Этап 1. Жилой дом №1",
+    "developer": "КВАРТАЛ ГЕРЦЕНА",
+    "city": "Москва",
+    "district": null,
+    "street": "25-26 км МКАД",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Бирюлёво Восточное",
+    "S_total": 57837.77,
+    "S_residential": 32325.94,
+    "S_non_residential": 9437.88,
+    "Price_plan": 7704318000.0,
+    "S_land": 272967.0,
+    "Start_period": "2023-12-08",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2025-11-18",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 744,
+    "N_non_residential_rooms": 511,
+    "parking": 333,
+    "other_rooms": 178,
+    "min_S_flat": 22.34,
+    "other_rooms_19_6_1_4": 25201345000.0,
+    "other_info": "Ком.помещение №20 расположено и на-1, и на 1 этажах.Ком.по-мещение №16 расположено и на 1,2,3 этажах.Ком.помещение\n№22 расположено и на 1,2 этажах.Сведения о финансовом ре-зультате за 4 квартал 2024:кредиторская задолженность 5 355\n721 000 рублей, дебиторская задолженность 8 502 435 000 руб-\nлей, чистая прибыль:-297 237 000 рублей"
+  },
+  "debug": {
+    "address_raw": "25-26 км МКАД, Жилой дом №1",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"КВАРТАЛ ГЕРЦЕНА. СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙ-ЩИК\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"25-26 км МКАД\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "КВАРТАЛ ГЕРЦЕНА",
+    "loan_amounts_parsed": [
+      25201345000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "22.34",
+      "conditional_number": "4"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

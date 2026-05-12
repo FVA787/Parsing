@@ -1,0 +1,111 @@
+{
+  "source_file": "0161_Деловой центр TALLER __Таллер__93586311_obj43701-pd77-002352.xlsx",
+  "id": 43701,
+  "N_declaration": "77-002352",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 43701,
+    "name": "Офисно-деловой центр",
+    "N_declaration": "77-002352",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 43701,
+    "N_declaration": "77-002352",
+    "date_declaration": "2026-03-10",
+    "name": "Офисно-деловой центр",
+    "developer": "ТАЛЛЕР",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Жуков проезд",
+    "land_plot": "владение 8",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Даниловский район",
+    "S_total": 46134.86,
+    "S_residential": 0.0,
+    "S_non_residential": 40692.42,
+    "Price_plan": 9173135454.0,
+    "S_land": 9702.0,
+    "Start_period": "2021-11-12",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2022-04-05",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "50 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 327,
+    "parking": 88,
+    "other_rooms": 239,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 9113441942.0,
+    "other_info": "Финансовый результат , размеры чистой прибыли, кредитор-ской и дебиторской задолженности на 4 квартал 2023 года про-шу считать верным:чистая прибыль 564 тыс.руб, кредитор-ская задолженность 81 809 тыс.руб, дебиторская задол-женность 1 578 714 тыс.руб.На 2 кв.2024:ЧП-44 тыс.руб, КЗ-112\n890 тыс.р, ДЗ-1 612 480 тыс.руб. В раздел 19.7 внесено мотомес-то как нежилое помещение в количестве 1 шт. площадью 3,31 м2 в окт.2023г."
+  },
+  "debug": {
+    "address_raw": "Город Москва, ул. Жуков проезд, владение 8",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТАЛЛЕР\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Жуков проезд\", \"land_plot\": \"владение 8\", \"building\": null}",
+    "developer_llm_response": "ТАЛЛЕР",
+    "loan_amounts_parsed": [
+      9113441942.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2022 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2022 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

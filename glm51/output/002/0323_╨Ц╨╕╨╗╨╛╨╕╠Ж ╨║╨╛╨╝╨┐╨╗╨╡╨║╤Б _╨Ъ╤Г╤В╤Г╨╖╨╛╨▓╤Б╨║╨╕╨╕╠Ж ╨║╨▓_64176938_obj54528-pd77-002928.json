@@ -1,0 +1,116 @@
+{
+  "source_file": "0323_Жилой комплекс _Кутузовский кв_64176938_obj54528-pd77-002928.xlsx",
+  "id": 54528,
+  "N_declaration": "77-002928",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 54528,
+    "name": "Многоквартирный жилой дом - корпуса 2, 3 с подземной автосто-янкой (ЭТАП 1)",
+    "N_declaration": "77-002928",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 54528,
+    "N_declaration": "77-002928",
+    "date_declaration": "2026-03-04",
+    "name": "Многоквартирный жилой дом - корпуса 2, 3 с подземной автосто-янкой (ЭТАП 1)",
+    "developer": "МОНЕТЧИК",
+    "city": "Москва",
+    "district": "Кунцево",
+    "street": "улица Ивана Франко",
+    "land_plot": "земельный участок 22/1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Кунцево",
+    "S_total": 42272.57,
+    "S_residential": 24566.6,
+    "S_non_residential": 2030.45,
+    "Price_plan": 5450000000.0,
+    "S_land": 18432.0,
+    "Start_period": "2023-09-27",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2023-09-13",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (монолитный же-лезобетонный каркас, стены из крупных каменных блоков, навес-ной вентилируемый фасад)",
+    "material_covering": "Иной вид материалов перекрытий (монолитные железобетонные перекрытия)",
+    "energy_class": "A++",
+    "max_height": "100 м",
+    "N_residential_rooms": 564,
+    "N_non_residential_rooms": 194,
+    "parking": 71,
+    "other_rooms": 123,
+    "min_S_flat": 19.9,
+    "other_rooms_19_6_1_4": 5950000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, ЗАО, Кунцево, ул. Ивана Франко, земельный участок 22/1.Корпуса 2,3 (ЭТАП 1)",
+    "developer_raw": "Специализированный застройщик \"МОНЕТЧИК\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Кунцево\", \"street\": \"улица Ивана Франко\", \"land_plot\": \"земельный участок 22/1\", \"building\": null}",
+    "developer_llm_response": "МОНЕТЧИК",
+    "loan_amounts_parsed": [
+      5450000000.0,
+      500000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "19.90",
+      "conditional_number": "229"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "source_file": "0324_Жилой комплекс _Лосиноостровск_06694701_obj66132-pd77-003200.xlsx",
+  "id": 66132,
+  "N_declaration": "77-003200",
+  "date_declaration": "2026-03-04",
+  "Declaration_info": {
+    "id": 66132,
+    "name": "Общественно-жилая застройка с объектами социальной ин-фраструктуры. 2-я очередь строительства. Корпус 2.3",
+    "N_declaration": "77-003200",
+    "date_declaration": "2026-03-04"
+  },
+  "Current_declaration": {
+    "id": 66132,
+    "N_declaration": "77-003200",
+    "date_declaration": "2026-03-04",
+    "name": "Общественно-жилая застройка с объектами социальной ин-фраструктуры. 2-я очередь строительства. Корпус 2.3",
+    "developer": "ПЕРСПЕКТИВНЫЕ ИНВЕСТИЦИИ",
+    "city": "Москва",
+    "district": null,
+    "street": "Открытое шоссе",
+    "land_plot": "земельный участок 20/10",
+    "building": "корпус 2.3",
+    "subject": "Город Москва",
+    "region": "Район Метрогородок",
+    "S_total": 17823.1,
+    "S_residential": 11112.0,
+    "S_non_residential": 911.8,
+    "Price_plan": 5046580680.52,
+    "S_land": 15869.0,
+    "Start_period": "2025-05-15",
+    "Finish_period": "1 квартал 2028 г.",
+    "Date_expert": "2025-05-06",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Навесные па-нели)",
+    "material_covering": "Иной вид материалов перекрытий (железобетон )",
+    "energy_class": "A",
+    "max_height": "100 м",
+    "N_residential_rooms": 235,
+    "N_non_residential_rooms": 46,
+    "parking": 0,
+    "other_rooms": 46,
+    "min_S_flat": 28.1,
+    "other_rooms_19_6_1_4": 9546580680.52,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, Открытое шоссе, земельный участок 18, земельный участок 20/10, корпус 2.3",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ПЕРСПЕК-ТИВНЫЕ ИНВЕСТИЦИИ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"Открытое шоссе\", \"land_plot\": \"земельный участок 20/10\", \"building\": \"корпус 2.3\"}",
+    "developer_llm_response": "ПЕРСПЕКТИВНЫЕ ИНВЕСТИЦИИ",
+    "loan_amounts_parsed": [
+      5046580680.52,
+      4500000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.10",
+      "conditional_number": "108"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      }
+    ]
+  }
+}

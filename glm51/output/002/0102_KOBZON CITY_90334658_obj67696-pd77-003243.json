@@ -1,0 +1,111 @@
+{
+  "source_file": "0102_KOBZON CITY_90334658_obj67696-pd77-003243.xlsx",
+  "id": 67696,
+  "N_declaration": "77-003243",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 67696,
+    "name": "Многофункциональный общественно-деловой комплекс с под-земным паркингом",
+    "N_declaration": "77-003243",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 67696,
+    "N_declaration": "77-003243",
+    "date_declaration": "2026-03-10",
+    "name": "Многофункциональный общественно-деловой комплекс с под-земным паркингом",
+    "developer": "ОКТЯБРЬ В САО",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Бауманская",
+    "land_plot": "владение 11",
+    "building": "строение 6",
+    "subject": "Город Москва",
+    "region": "Басманный район",
+    "S_total": 22513.0,
+    "S_residential": null,
+    "S_non_residential": 15090.3,
+    "Price_plan": 5248540000.0,
+    "S_land": 529.0,
+    "Start_period": "2025-04-30",
+    "Finish_period": "2 квартал 2028 г.",
+    "Date_expert": "2025-02-22",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (Каркас: железо-бетонные конструкции, наружные стены - металл и стекло)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 115,
+    "parking": 0,
+    "other_rooms": 115,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 5862882836.0,
+    "other_info": "Площадь подземного паркинга объекта-2570 кв.м.Реализация нежилых помещений, входящих в состав Объекта производит-ся Застройщиком индивидуальным предпринимателям и юри-дическим лицам по договорам купли-продажи будущей недви-жимости в соответствии с Гражданским кодексом Российской Федерации и Федеральным законом от 25.02.1999 № 39-ФЗ «Об инвестиционной деятельности в Российской Федерации, осу-ществляемой в форме капитальных вложений»"
+  },
+  "debug": {
+    "address_raw": "Ул. Бауманская, вл. 11, стр. 6, стр. 6А, стр. 7",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ОКТЯБРЬ В САО",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Бауманская\", \"land_plot\": \"владение 11\", \"building\": \"строение 6\"}",
+    "developer_llm_response": "ОКТЯБРЬ В САО",
+    "loan_amounts_parsed": [
+      5862882836.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      }
+    ]
+  }
+}

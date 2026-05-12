@@ -1,0 +1,115 @@
+{
+  "source_file": "0003_Зиккурат Преображенский_11851727_obj67146-pd77-003230.xlsx",
+  "id": 67146,
+  "N_declaration": "77-003230",
+  "date_declaration": "2026-03-16",
+  "Declaration_info": {
+    "id": 67146,
+    "name": "Жилой дом со встроенными помещениями общественного назна-чения и подземной автостоянкой",
+    "N_declaration": "77-003230",
+    "date_declaration": "2026-03-16"
+  },
+  "Current_declaration": {
+    "id": 67146,
+    "N_declaration": "77-003230",
+    "date_declaration": "2026-03-16",
+    "name": "Жилой дом со встроенными помещениями общественного назна-чения и подземной автостоянкой",
+    "developer": "БОЛЬШАЯ ЧЕРКИЗОВСКАЯ ПЛЮС",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Большая Черкизовская",
+    "land_plot": "владение 4",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Преображенское",
+    "S_total": 8604.9,
+    "S_residential": 4828.2,
+    "S_non_residential": 1038.0,
+    "Price_plan": 1588551000.0,
+    "S_land": 3009.0,
+    "Start_period": "2025-08-04",
+    "Finish_period": "3 квартал 2028 г.",
+    "Date_expert": "2025-07-21",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "55 м",
+    "N_residential_rooms": 88,
+    "N_non_residential_rooms": 52,
+    "parking": 28,
+    "other_rooms": 24,
+    "min_S_flat": 29.3,
+    "other_rooms_19_6_1_4": 1890000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Большая Черкизовская ул.вл.4",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК БОЛЬШАЯ ЧЕР-КИЗОВСКАЯ ПЛЮС\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Большая Черкизовская\", \"land_plot\": \"владение 4\", \"building\": null}",
+    "developer_llm_response": "БОЛЬШАЯ ЧЕРКИЗОВСКАЯ ПЛЮС",
+    "loan_amounts_parsed": [
+      1890000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "29.30",
+      "conditional_number": "32"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      }
+    ]
+  }
+}

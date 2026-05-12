@@ -1,0 +1,166 @@
+{
+  "source_file": "0417_Квартал Западный_46983532_obj50270-pd77-002817.xlsx",
+  "id": 50270,
+  "N_declaration": "77-002817",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 50270,
+    "name": "Комплексная жилая застройка с объектами социальной и инже-нерной инфраструктуры по адресу: г. Москва, Новомосковский ад-министративный округ, поселение Марушинское, вблизи д. Боль-шое Свинорье. 1 очередь строительства: 1.1 этап – Жилой дом №1 (корпуса № 1, 2)",
+    "N_declaration": "77-002817",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 50270,
+    "N_declaration": "77-002817",
+    "date_declaration": "2026-03-10",
+    "name": "Комплексная жилая застройка с объектами социальной и инже-нерной инфраструктуры по адресу: г. Москва, Новомосковский ад-министративный округ, поселение Марушинское, вблизи д. Боль-шое Свинорье. 1 очередь строительства: 1.1 этап – Жилой дом №1 (корпуса № 1, 2)",
+    "developer": "САМОЛЕТ-КВАРТАЛ ЗАПАДНЫЙ",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": "корпус 1,2",
+    "subject": "Город Москва",
+    "region": "Район Внуково",
+    "S_total": 18948.74,
+    "S_residential": 10596.32,
+    "S_non_residential": 1810.94,
+    "Price_plan": 1169855296.0,
+    "S_land": 22186.0,
+    "Start_period": "2023-01-27",
+    "Finish_period": "1 квартал 2026 г.",
+    "Date_expert": "2024-06-04",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "35 м",
+    "N_residential_rooms": 242,
+    "N_non_residential_rooms": 205,
+    "parking": 0,
+    "other_rooms": 205,
+    "min_S_flat": 18.73,
+    "other_rooms_19_6_1_4": 38870000000.0,
+    "other_info": "Разд 14.1-Холодное водоснабжение, бытовое или общесплавное водоотведение, ливневое водоотведение-получены справки о выполнении ТУ и акты тех.присоединения"
+  },
+  "debug": {
+    "address_raw": "Вблизи дер. Большое Свинорье, корп. 1,2, д. 1",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"САМОЛЕТ-КВАРТАЛ ЗАПАДНЫЙ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": null, \"building\": \"корпус 1,2\"}",
+    "developer_llm_response": "САМОЛЕТ-КВАРТАЛ ЗАПАДНЫЙ",
+    "loan_amounts_parsed": [
+      19435000000.0,
+      19435000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "18.73",
+      "conditional_number": "1"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "source_file": "0026_Левел Павелецкая Сити_39516983_obj61714-pd77-003105.xlsx",
+  "id": 61714,
+  "N_declaration": "77-003105",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 61714,
+    "name": "Многофункциональный жилой комплекс с подземной автостоян-кой. Этап 4",
+    "N_declaration": "77-003105",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 61714,
+    "N_declaration": "77-003105",
+    "date_declaration": "2026-03-10",
+    "name": "Многофункциональный жилой комплекс с подземной автостоян-кой. Этап 4",
+    "developer": "ДУБИНИНСКАЯ 59",
+    "city": "Москва",
+    "district": "Даниловское",
+    "street": "улица Дубининская",
+    "land_plot": "земельный участок 69/1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Даниловский район",
+    "S_total": 55648.8,
+    "S_residential": 40788.6,
+    "S_non_residential": 4066.7,
+    "Price_plan": 2458187773.0,
+    "S_land": 17330.0,
+    "Start_period": "2024-08-27",
+    "Finish_period": "4 квартал 2027 г.",
+    "Date_expert": "2024-07-31",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 761,
+    "N_non_residential_rooms": 228,
+    "parking": 175,
+    "other_rooms": 53,
+    "min_S_flat": 22.9,
+    "other_rooms_19_6_1_4": 12900000000.0,
+    "other_info": "Многофункциональный жилой комплекс относится к уникаль-ным объектам.Пояснения к п.10.7.проектной декларации:на момент подписания первой проектной декларации генераль-ный подрядчик не выбран"
+  },
+  "debug": {
+    "address_raw": "Москва, ЮАО, г. Москва, внутригородское муниципальное обра-зование Даниловское, ул. Дубининская, земельный участок 69/1",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ДУБИНИНСКАЯ 59\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Даниловское\", \"street\": \"улица Дубининская\", \"land_plot\": \"земельный участок 69/1\", \"building\": null}",
+    "developer_llm_response": "ДУБИНИНСКАЯ 59",
+    "loan_amounts_parsed": [
+      12900000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "22.90",
+      "conditional_number": "7 (Корпус\n13)"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "source_file": "0246_ЖК НОВА_91390209_obj55387-pd77-002953.xlsx",
+  "id": 55387,
+  "N_declaration": "77-002953",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 55387,
+    "name": "Высотные градостроительные комплексы ВГК-1 и ВГК-2 со встро-енно-пристроенными нежилыми помещениями и подземными га-ражами для постоянного хранения автомобилей. Этап 1. Высот-ный градостроительный комплекс ВГК-1 со встроенно-пристроен-ными нежилыми помещениями и подземным гаражом для посто-янного хранения автомобилей",
+    "N_declaration": "77-002953",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 55387,
+    "N_declaration": "77-002953",
+    "date_declaration": "2026-03-10",
+    "name": "Высотные градостроительные комплексы ВГК-1 и ВГК-2 со встро-енно-пристроенными нежилыми помещениями и подземными га-ражами для постоянного хранения автомобилей. Этап 1. Высот-ный градостроительный комплекс ВГК-1 со встроенно-пристроен-ными нежилыми помещениями и подземным гаражом для посто-янного хранения автомобилей",
+    "developer": "СЕТУНЬ АЛГ",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Раменки",
+    "S_total": 247644.55,
+    "S_residential": 119464.07,
+    "S_non_residential": 42302.52,
+    "Price_plan": 33153860000.0,
+    "S_land": 31135.0,
+    "Start_period": "2023-09-27",
+    "Finish_period": "4 квартал 2027 г.",
+    "Date_expert": "2023-09-12",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "148.25 м",
+    "N_residential_rooms": 1890,
+    "N_non_residential_rooms": 2470,
+    "parking": 1605,
+    "other_rooms": 865,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 45068984000.0,
+    "other_info": "Общее количество лифтов как в разделе 16.2"
+  },
+  "debug": {
+    "address_raw": "МЖД Киевское 5-й километр, ВГК-1",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"СЕТУНЬ АЛГ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "СЕТУНЬ АЛГ",
+    "loan_amounts_parsed": [
+      45068984000.0
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "source_file": "0316_Жилой комплекс _Зелёный парк__53531096_obj70846-pd77-003308.xlsx",
+  "id": 70846,
+  "N_declaration": "77-003308",
+  "date_declaration": "2026-03-12",
+  "Declaration_info": {
+    "id": 70846,
+    "name": "Многоквартирные жилые дома (корпуса 5.1, 5.5, 5.6) со встроенно-пристроенными нежилыми помещениями",
+    "N_declaration": "77-003308",
+    "date_declaration": "2026-03-12"
+  },
+  "Current_declaration": {
+    "id": 70846,
+    "N_declaration": "77-003308",
+    "date_declaration": "2026-03-12",
+    "name": "Многоквартирные жилые дома (корпуса 5.1, 5.5, 5.6) со встроенно-пристроенными нежилыми помещениями",
+    "developer": "ЗЕЛЕНОГРАДСКИЙ",
+    "city": "Москва",
+    "district": "ЗелАО",
+    "street": null,
+    "land_plot": null,
+    "building": "корпус 5.1, 5.5, 5.6",
+    "subject": "г Москва",
+    "region": "Район в населенном пункте:",
+    "S_total": 41101.5,
+    "S_residential": 24902.2,
+    "S_non_residential": 2644.4,
+    "Price_plan": 5668293257.89,
+    "S_land": 367399.0,
+    "Start_period": "2025-07-18",
+    "Finish_period": "4 квартал 2028 г.",
+    "Date_expert": "2025-07-09",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (В уровне 1-го этажа применяется система вентилируемого фасада, отделочный слой - бетонная плитка. Жилая часть корпусов выполнена из трех-слойных панелей заводского изготовления, облицованных бетон-ной плиткой в заводских условиях.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "90 м",
+    "N_residential_rooms": 547,
+    "N_non_residential_rooms": 177,
+    "parking": 0,
+    "other_rooms": 177,
+    "min_S_flat": 28.2,
+    "other_rooms_19_6_1_4": 9149533257.89,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, ЗелАО, г. Зеленоград, Промзона ЦИЭ, корпуса 5.1, 5.5, 5.6",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ЗЕЛЕНОГРАД-СКИЙ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"ЗелАО\", \"street\": null, \"land_plot\": null, \"building\": \"корпус 5.1, 5.5, 5.6\"}",
+    "developer_llm_response": "ЗЕЛЕНОГРАДСКИЙ",
+    "loan_amounts_parsed": [
+      3481240000.0,
+      5668293257.89
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.20",
+      "conditional_number": "6"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      }
+    ]
+  }
+}

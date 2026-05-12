@@ -1,0 +1,115 @@
+{
+  "source_file": "0202_ЖК _Первый Нагатинский__38020018_obj46163-pd77-002507.xlsx",
+  "id": 46163,
+  "N_declaration": "77-002507",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 46163,
+    "name": "1 очередь многофункционального комплекса общественно-жилого назначения",
+    "N_declaration": "77-002507",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 46163,
+    "N_declaration": "77-002507",
+    "date_declaration": "2026-03-06",
+    "name": "1 очередь многофункционального комплекса общественно-жилого назначения",
+    "developer": "АЛЬФА",
+    "city": "Москва",
+    "district": null,
+    "street": "улица Нагатинская",
+    "land_plot": "владение 1",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Нагатино-Садовники",
+    "S_total": 77072.46,
+    "S_residential": 47862.88,
+    "S_non_residential": 5624.54,
+    "Price_plan": 16407220500.0,
+    "S_land": 10870.0,
+    "Start_period": "2022-05-17",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2024-04-09",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мелкоштуч-ных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "100 м",
+    "N_residential_rooms": 859,
+    "N_non_residential_rooms": 520,
+    "parking": 263,
+    "other_rooms": 257,
+    "min_S_flat": 18.49,
+    "other_rooms_19_6_1_4": 16407220500.0,
+    "other_info": "Земельный участок, на котором осуществляется строительство Жилого дома и объектов инженерной инфраструктуры Жилого дома (к.н.77:05:0004001:2440) находится в залоге у Публичного акционерного общества\"Сбербанк России\" ИНН 7707083893; На 31.12.2023г размер чистой прибыли-2 672 тыс.руб.размер кредиторской задолженности 1 937 923,00 тыс.руб.размер де-\nбиторской задолженности 4 019 032,00 тыс.руб"
+  },
+  "debug": {
+    "address_raw": "Ул.Нагатинская, вл.1",
+    "developer_raw": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"АЛЬФА\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"улица Нагатинская\", \"land_plot\": \"владение 1\", \"building\": null}",
+    "developer_llm_response": "АЛЬФА",
+    "loan_amounts_parsed": [
+      16407220500.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "18.49",
+      "conditional_number": "8 (3)"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2023 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

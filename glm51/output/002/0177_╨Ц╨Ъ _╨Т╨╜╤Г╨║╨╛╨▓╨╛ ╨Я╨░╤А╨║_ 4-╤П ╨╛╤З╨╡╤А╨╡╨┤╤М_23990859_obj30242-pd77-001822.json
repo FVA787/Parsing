@@ -1,0 +1,113 @@
+{
+  "source_file": "0177_ЖК _Внуково Парк_ 4-я очередь_23990859_obj30242-pd77-001822.xlsx",
+  "id": 30242,
+  "N_declaration": "77-001822",
+  "date_declaration": "2026-03-05",
+  "Declaration_info": {
+    "id": 30242,
+    "name": "2-х секционный 8-12-ти этажный жилой дом",
+    "N_declaration": "77-001822",
+    "date_declaration": "2026-03-05"
+  },
+  "Current_declaration": {
+    "id": 30242,
+    "N_declaration": "77-001822",
+    "date_declaration": "2026-03-05",
+    "name": "2-х секционный 8-12-ти этажный жилой дом",
+    "developer": "АНТЕЙ",
+    "city": "Москва",
+    "district": "Зеленоградский АО",
+    "street": null,
+    "land_plot": "площадка 2",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Поселение Марушкинское",
+    "S_total": 6372.0,
+    "S_residential": 5273.65,
+    "S_non_residential": null,
+    "Price_plan": 620071688.0,
+    "S_land": 4490.0,
+    "Start_period": "2011-12-29",
+    "Finish_period": "4 квартал 2027 г.",
+    "Date_expert": "2014-02-14",
+    "material_walls": "с монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "43.5 м",
+    "N_residential_rooms": 78,
+    "N_non_residential_rooms": null,
+    "parking": 0,
+    "other_rooms": 0,
+    "min_S_flat": 40.0,
+    "other_rooms_19_6_1_4": null,
+    "other_info": "Открыт специальный счет застройщика 40702810438000039844 07.04.2020г.в ПАО СБЕРБАНК БИК 044525225; На 31 декабря\n2021 года показатели составили:1.Финансовый результат 2021\nгода = (-1 100) тыс.руб.2.Дебиторская задолженность = 44 742 тыс.руб.3.Кредиторская задолженность = 185 211тыс.руб"
+  },
+  "debug": {
+    "address_raw": "Город Москва, д Марушкино, поселение Марушкинское, Площад-ка №2",
+    "developer_raw": "\"Специализированный застройщик \"АНТЕЙ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Зеленоградский АО\", \"street\": null, \"land_plot\": \"площадка 2\", \"building\": null}",
+    "developer_llm_response": "АНТЕЙ",
+    "loan_amounts_parsed": [],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "40.00",
+      "conditional_number": "2"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      }
+    ]
+  }
+}

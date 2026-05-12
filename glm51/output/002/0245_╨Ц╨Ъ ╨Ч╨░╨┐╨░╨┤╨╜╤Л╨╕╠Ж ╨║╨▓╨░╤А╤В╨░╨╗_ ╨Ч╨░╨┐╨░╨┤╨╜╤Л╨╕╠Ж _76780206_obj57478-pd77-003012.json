@@ -1,0 +1,115 @@
+{
+  "source_file": "0245_ЖК Западный квартал_ Западный _76780206_obj57478-pd77-003012.xlsx",
+  "id": 57478,
+  "N_declaration": "77-003012",
+  "date_declaration": "2026-03-09",
+  "Declaration_info": {
+    "id": 57478,
+    "name": "Комплексная жилая застройка с объектами социальной и инже-нерной инфраструктуры 2 очередь строительства: (Жилой дом № 9)",
+    "N_declaration": "77-003012",
+    "date_declaration": "2026-03-09"
+  },
+  "Current_declaration": {
+    "id": 57478,
+    "N_declaration": "77-003012",
+    "date_declaration": "2026-03-09",
+    "name": "Комплексная жилая застройка с объектами социальной и инже-нерной инфраструктуры 2 очередь строительства: (Жилой дом № 9)",
+    "developer": "САМОЛЕТ-КВАРТАЛ ЗАПАДНЫЙ",
+    "city": "Москва",
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Поселение Марушкинское",
+    "S_total": 28942.5,
+    "S_residential": 18839.31,
+    "S_non_residential": 929.97,
+    "Price_plan": 2123563701.0,
+    "S_land": 8412.0,
+    "Start_period": "2023-12-29",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2023-12-27",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "39.57 м",
+    "N_residential_rooms": 432,
+    "N_non_residential_rooms": 197,
+    "parking": 0,
+    "other_rooms": 197,
+    "min_S_flat": 22.62,
+    "other_rooms_19_6_1_4": 19435000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Жилой дом № 9",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"САМОЛЕТ-КВАРТАЛ ЗАПАДНЫЙ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "САМОЛЕТ-КВАРТАЛ ЗАПАДНЫЙ",
+    "loan_amounts_parsed": [
+      19435000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "22.62",
+      "conditional_number": "93"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}

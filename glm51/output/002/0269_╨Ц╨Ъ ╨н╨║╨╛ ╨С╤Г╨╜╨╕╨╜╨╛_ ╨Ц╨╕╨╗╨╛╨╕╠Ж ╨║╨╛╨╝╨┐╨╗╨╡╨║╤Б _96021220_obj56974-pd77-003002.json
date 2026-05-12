@@ -1,0 +1,115 @@
+{
+  "source_file": "0269_ЖК Эко Бунино_ Жилой комплекс _96021220_obj56974-pd77-003002.xlsx",
+  "id": 56974,
+  "N_declaration": "77-003002",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 56974,
+    "name": "Многоэтажный жилой дом, корпус 13",
+    "N_declaration": "77-003002",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 56974,
+    "N_declaration": "77-003002",
+    "date_declaration": "2026-03-10",
+    "name": "Многоэтажный жилой дом, корпус 13",
+    "developer": "МОСКОВСКИЙ ИПОТЕЧНЫЙ ЦЕНТР-МИЦ",
+    "city": null,
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Поселение Сосенское",
+    "S_total": 56714.39,
+    "S_residential": 41370.3,
+    "S_non_residential": 2266.81,
+    "Price_plan": 2425916000.0,
+    "S_land": 153806.0,
+    "Start_period": "2023-12-28",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2022-12-23",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "75 м",
+    "N_residential_rooms": 949,
+    "N_non_residential_rooms": 262,
+    "parking": 0,
+    "other_rooms": 262,
+    "min_S_flat": 20.66,
+    "other_rooms_19_6_1_4": 17145364000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Корпус 13",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"МОСКОВСКИЙ ИПОТЕЧНЫЙ ЦЕНТР-МИЦ\"",
+    "address_llm_response": "{\"city\": null, \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "МОСКОВСКИЙ ИПОТЕЧНЫЙ ЦЕНТР-МИЦ",
+    "loan_amounts_parsed": [
+      17145364000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "20.66",
+      "conditional_number": "214"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

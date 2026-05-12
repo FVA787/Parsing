@@ -1,0 +1,109 @@
+{
+  "source_file": "0473_Ньютон Апартментс_77120643_obj42929-pd77-002328.xlsx",
+  "id": 42929,
+  "N_declaration": "77-002328",
+  "date_declaration": "2024-04-04",
+  "Declaration_info": {
+    "id": 42929,
+    "name": "Наименование объекта:",
+    "N_declaration": "77-002328",
+    "date_declaration": "2024-04-04"
+  },
+  "Current_declaration": {
+    "id": 42929,
+    "N_declaration": "77-002328",
+    "date_declaration": "2024-04-04",
+    "name": "Наименование объекта:",
+    "developer": "НЬЮТОН ДЕВЕЛОПМЕНТ",
+    "city": null,
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "г Москва",
+    "region": "Р-н Нагатино-Садовники",
+    "S_total": 72339.5,
+    "S_residential": 0.0,
+    "S_non_residential": 51691.93,
+    "Price_plan": 6264000000.0,
+    "S_land": 9188.0,
+    "Start_period": "2021-05-18",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "2021-03-22",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (ж/б каркас с за-полнением ячеистобетонными блоками)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "C",
+    "max_height": "99.9 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 1124,
+    "parking": 284,
+    "other_rooms": 840,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": null,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Уточнение адреса:",
+    "developer_raw": "\"НЬЮТОН ДЕВЕЛОПМЕНТ\"",
+    "address_llm_response": "{\"city\": null, \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "НЬЮТОН ДЕВЕЛОПМЕНТ",
+    "loan_amounts_parsed": [],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "source_file": "0139_ВОЙС_85653788_obj60564-pd77-003077.xlsx",
+  "id": 60564,
+  "N_declaration": "77-003077",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 60564,
+    "name": "Многофункциональный жилой комплекс",
+    "N_declaration": "77-003077",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 60564,
+    "N_declaration": "77-003077",
+    "date_declaration": "2026-03-06",
+    "name": "Многофункциональный жилой комплекс",
+    "developer": "ТРИ ЭС СИТИ",
+    "city": "Москва",
+    "district": "Текстильщики",
+    "street": "проезд 1-й Грайвороновский",
+    "land_plot": "земельный участок 2/2",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Текстильщики",
+    "S_total": 88536.5,
+    "S_residential": 45861.0,
+    "S_non_residential": 8171.25,
+    "Price_plan": 13409877717.0,
+    "S_land": 12483.0,
+    "Start_period": "2024-06-25",
+    "Finish_period": "4 квартал 2027 г.",
+    "Date_expert": "2024-06-14",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "150 м",
+    "N_residential_rooms": 1075,
+    "N_non_residential_rooms": 753,
+    "parking": 256,
+    "other_rooms": 497,
+    "min_S_flat": 22.1,
+    "other_rooms_19_6_1_4": 13013168000.0,
+    "other_info": "Финансовый результат на 31.12.2024г.Кредиторская задол-женность:83 886 000 руб.Дебиторская задолженность:1 074 775\n000 руб.Чистая прибыль 6 674 000 руб"
+  },
+  "debug": {
+    "address_raw": "Российская Федерация, город Москва, вн.тер.г. муниципальный округ Текстильщики, проезд 1-й Грайвороновский, земельный участок 2/2",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТРИ ЭС СИТИ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Текстильщики\", \"street\": \"проезд 1-й Грайвороновский\", \"land_plot\": \"земельный участок 2/2\", \"building\": null}",
+    "developer_llm_response": "ТРИ ЭС СИТИ",
+    "loan_amounts_parsed": [
+      928575000.0,
+      12084593000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "22.10",
+      "conditional_number": "8"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2027 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2025 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      }
+    ]
+  }
+}

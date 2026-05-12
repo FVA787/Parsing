@@ -1,0 +1,115 @@
+{
+  "source_file": "0211_ЖК 1-й Ясеневский_65770089_obj69153-pd77-003272.xlsx",
+  "id": 69153,
+  "N_declaration": "77-003272",
+  "date_declaration": "2026-03-10",
+  "Declaration_info": {
+    "id": 69153,
+    "name": "Многоквартирный жилой дом корпус № 4 со встроенно-пристро-енными помещениями нежилого назначения",
+    "N_declaration": "77-003272",
+    "date_declaration": "2026-03-10"
+  },
+  "Current_declaration": {
+    "id": 69153,
+    "N_declaration": "77-003272",
+    "date_declaration": "2026-03-10",
+    "name": "Многоквартирный жилой дом корпус № 4 со встроенно-пристро-енными помещениями нежилого назначения",
+    "developer": "ЩИБРОВО",
+    "city": "Москва",
+    "district": null,
+    "street": "шоссе Новомихайловское",
+    "land_plot": "земельный участок 3",
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Коммунарка",
+    "S_total": 50606.1,
+    "S_residential": 41093.5,
+    "S_non_residential": 2937.0,
+    "Price_plan": 7810297330.0,
+    "S_land": 72356.0,
+    "Start_period": "2024-08-29",
+    "Finish_period": "1 квартал 2028 г.",
+    "Date_expert": "2024-07-30",
+    "material_walls": "Иной вид материалов наружных стен и каркасов (трехслойные же-лезобетонные стеновые панели)",
+    "material_covering": "Сборные железобетонные",
+    "energy_class": "A",
+    "max_height": "60 м",
+    "N_residential_rooms": 976,
+    "N_non_residential_rooms": 429,
+    "parking": 0,
+    "other_rooms": 429,
+    "min_S_flat": 23.1,
+    "other_rooms_19_6_1_4": 27833000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, Коммунарка, шоссе Новомихайловское, земельный участок 3",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ЩИБРОВО\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"шоссе Новомихайловское\", \"land_plot\": \"земельный участок 3\", \"building\": null}",
+    "developer_llm_response": "ЩИБРОВО",
+    "loan_amounts_parsed": [
+      27833000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "23.10",
+      "conditional_number": "23"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2028 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      }
+    ]
+  }
+}

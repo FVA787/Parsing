@@ -1,0 +1,264 @@
+{
+  "source_file": "0597_Город Москва_ ГОРОД МОСКВА_ Ра_07066715_obj52234-pd77-002865.xlsx",
+  "id": 52234,
+  "N_declaration": "77-002865",
+  "date_declaration": "2025-04-14",
+  "Declaration_info": {
+    "id": 52234,
+    "name": "Реконструкция гостиничного комплекса. Корпус А",
+    "N_declaration": "77-002865",
+    "date_declaration": "2025-04-14"
+  },
+  "Current_declaration": {
+    "id": 52234,
+    "N_declaration": "77-002865",
+    "date_declaration": "2025-04-14",
+    "name": "Реконструкция гостиничного комплекса. Корпус А",
+    "developer": "ЭКОВЕСТ",
+    "city": "Москва",
+    "district": null,
+    "street": "Киевское шоссе",
+    "land_plot": "владение 5-й км",
+    "building": "корпус А",
+    "subject": "Город Москва",
+    "region": "Район Раменки",
+    "S_total": 1105.79,
+    "S_residential": 0.0,
+    "S_non_residential": 894.56,
+    "Price_plan": 4362355038.48,
+    "S_land": 8641.0,
+    "Start_period": "2022-05-06",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2021-05-11",
+    "material_walls": "Со сборным железобетонным каркасом и стенами из мелкоштуч-ных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "Не нормируется",
+    "max_height": "11.9 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 4,
+    "parking": 0,
+    "other_rooms": 4,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 16426250693.16,
+    "other_info": "В связи с невозможностью вести раздельный учет расходов по кредитованию и расходам на строительство, проектная сто-имость строительства, указанная в разделе 18 и данные по раз-делу 19.6 по всем 4 объектам, является общими данными.Сайт https:/sbis.ru/указан в контактах как сайт, на котором указаны сведения о АО\"СЗ ЭкоВест\", сайт застройщика в настоящее время находится в разработке и будет добавлен позже.Право аренды земельного участка с кадастровым номером 77:07:0006003:4628, на котором осуществляется реконструкция Объекта, находится в залоге у Кредитора (ПАО СБЕРБАНК).В связи с невозможностью размещения в разделе 15.3 буквенных литеров подъездов, подъезд\"А\"обозначен в квартирографии как\"1\", а условные номера нежилых объектов\"1.2.3.4\"счи-тать\"Гостиничные номера 1.2.3.4\""
+  },
+  "debug": {
+    "address_raw": "Г.Москва, МЖД, Киевское, 5-й км, 7Б, корпус А",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ЭКОВЕСТ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": null, \"street\": \"Киевское шоссе\", \"land_plot\": \"владение 5-й км\", \"building\": \"корпус А\"}",
+    "developer_llm_response": "ЭКОВЕСТ",
+    "loan_amounts_parsed": [
+      4106562673.29,
+      4106562673.29,
+      4106562673.29,
+      4106562673.29
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

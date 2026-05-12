@@ -1,0 +1,115 @@
+{
+  "source_file": "0343_Жилой комплекс _ТАТУМ__37311487_obj70778-pd77-003306.xlsx",
+  "id": 70778,
+  "N_declaration": "77-003306",
+  "date_declaration": "2026-03-17",
+  "Declaration_info": {
+    "id": 70778,
+    "name": "Многофункциональная общественно - жилая застройка. Многок-вартирный жилой дом с подземной автостоянкой. Корпус 1. Этап 1",
+    "N_declaration": "77-003306",
+    "date_declaration": "2026-03-17"
+  },
+  "Current_declaration": {
+    "id": 70778,
+    "N_declaration": "77-003306",
+    "date_declaration": "2026-03-17",
+    "name": "Многофункциональная общественно - жилая застройка. Многок-вартирный жилой дом с подземной автостоянкой. Корпус 1. Этап 1",
+    "developer": "ОБРУЧЕВА",
+    "city": "Москва",
+    "district": "Обручевский",
+    "street": "улица Обручева",
+    "land_plot": "владение 27",
+    "building": "корпус 1",
+    "subject": "Город Москва",
+    "region": "Обручевский район",
+    "S_total": 21597.7,
+    "S_residential": 11653.1,
+    "S_non_residential": 2326.1,
+    "Price_plan": 4850000000.0,
+    "S_land": 25001.0,
+    "Start_period": "2026-03-05",
+    "Finish_period": "1 квартал 2029 г.",
+    "Date_expert": "2026-02-19",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "Не установлено градостроительным регламентом",
+    "N_residential_rooms": 197,
+    "N_non_residential_rooms": 136,
+    "parking": 89,
+    "other_rooms": 47,
+    "min_S_flat": 28.4,
+    "other_rooms_19_6_1_4": 1600000000.0,
+    "other_info": "Иная информация о проекте:"
+  },
+  "debug": {
+    "address_raw": "Г.Москва, ЮЗАО, Обручевский, ул.Обручева, вл.27, корпус 2, 3, 4,\n5.Корпус 1.Этап 1",
+    "developer_raw": "\"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ОБРУЧЕВА\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Обручевский\", \"street\": \"улица Обручева\", \"land_plot\": \"владение 27\", \"building\": \"корпус 1\"}",
+    "developer_llm_response": "ОБРУЧЕВА",
+    "loan_amounts_parsed": [
+      1600000000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.40",
+      "conditional_number": "75"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "1 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2028 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2029 г."
+      }
+    ]
+  }
+}

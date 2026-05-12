@@ -1,0 +1,115 @@
+{
+  "source_file": "0376_Жилой комплекс_Светлый мир_Ста_10955347_obj27242-pd77-001674.xlsx",
+  "id": 27242,
+  "N_declaration": "77-001674",
+  "date_declaration": "2025-11-03",
+  "Declaration_info": {
+    "id": 27242,
+    "name": "Многоэтажный жилой дом корпус 11 (Этап 16)",
+    "N_declaration": "77-001674",
+    "date_declaration": "2025-11-03"
+  },
+  "Current_declaration": {
+    "id": 27242,
+    "N_declaration": "77-001674",
+    "date_declaration": "2025-11-03",
+    "name": "Многоэтажный жилой дом корпус 11 (Этап 16)",
+    "developer": "МСК Люблинская",
+    "city": null,
+    "district": null,
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Люблино",
+    "S_total": 79785.04,
+    "S_residential": 53144.6,
+    "S_non_residential": 4656.0,
+    "Price_plan": 6253840000.0,
+    "S_land": 645374.0,
+    "Start_period": "2018-06-28",
+    "Finish_period": "2 квартал 2026 г.",
+    "Date_expert": "2018-06-18",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "монолитные железобетонные",
+    "energy_class": "A+",
+    "max_height": "100 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": null,
+    "parking": null,
+    "other_rooms": null,
+    "min_S_flat": 23.25,
+    "other_rooms_19_6_1_4": 0.0,
+    "other_info": "Технические условия подготовлены в отношении комплексной застройки по адресу:г.Москва, р-н Люблино, ул.Люблинская, вл.72.Плата за технологическое присоединение сети инженер-но-технического обеспечения-ливневое водоотведение указана в отношении нескольких корпусов согласно условиям договора"
+  },
+  "debug": {
+    "address_raw": "Корпус 11 (этап 16)",
+    "developer_raw": "\"Специализированный застройщик \"МСК Люблинская\"",
+    "address_llm_response": "{\"city\": null, \"district\": null, \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "МСК Люблинская",
+    "loan_amounts_parsed": [
+      0.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "23.25",
+      "conditional_number": "937"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "2 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2021 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2021 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2022 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      }
+    ]
+  }
+}

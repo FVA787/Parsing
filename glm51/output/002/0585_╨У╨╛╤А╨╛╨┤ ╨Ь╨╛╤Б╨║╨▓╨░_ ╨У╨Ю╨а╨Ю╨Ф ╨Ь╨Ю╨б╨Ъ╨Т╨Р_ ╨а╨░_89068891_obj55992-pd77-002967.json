@@ -1,0 +1,111 @@
+{
+  "source_file": "0585_Город Москва_ ГОРОД МОСКВА_ Ра_89068891_obj55992-pd77-002967.xlsx",
+  "id": 55992,
+  "N_declaration": "77-002967",
+  "date_declaration": "2026-02-20",
+  "Declaration_info": {
+    "id": 55992,
+    "name": "Домовладение с новым строительством в составе: гостиница, СПА-салон, магазин, кафе, офисные помещения, подземная дву-хуровневая автостоянка",
+    "N_declaration": "77-002967",
+    "date_declaration": "2026-02-20"
+  },
+  "Current_declaration": {
+    "id": 55992,
+    "N_declaration": "77-002967",
+    "date_declaration": "2026-02-20",
+    "name": "Домовладение с новым строительством в составе: гостиница, СПА-салон, магазин, кафе, офисные помещения, подземная дву-хуровневая автостоянка",
+    "developer": "ОСТОЖЕНКА 9/14",
+    "city": "Москва",
+    "district": "Хамовники",
+    "street": "улица Остоженка",
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Район Хамовники",
+    "S_total": 9675.7,
+    "S_residential": 0.0,
+    "S_non_residential": 6395.38,
+    "Price_plan": 5155657117.0,
+    "S_land": 1658.0,
+    "Start_period": "2020-09-16",
+    "Finish_period": "4 квартал 2026 г.",
+    "Date_expert": "1997-02-10",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A++",
+    "max_height": "25 м",
+    "N_residential_rooms": null,
+    "N_non_residential_rooms": 77,
+    "parking": 55,
+    "other_rooms": 22,
+    "min_S_flat": null,
+    "other_rooms_19_6_1_4": 5010656913.69,
+    "other_info": "Структура финансирования:Собственные средства Застрой-щика в размере:145 000 000,00.Кредитные средства ПАО\"СБЕРБАНК\"России в размере:5 010 657 117 от стоимости строительства"
+  },
+  "debug": {
+    "address_raw": "Москва, ЦАО, р-н, Хамовники, ул.Остоженка, д.9/14",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ОСТОЖЕНКА 9/14\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Хамовники\", \"street\": \"улица Остоженка\", \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ОСТОЖЕНКА 9/14",
+    "loan_amounts_parsed": [
+      5010656913.69
+    ],
+    "min_S_flat_source": null,
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2023 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2023 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      }
+    ]
+  }
+}

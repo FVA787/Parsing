@@ -1,0 +1,166 @@
+{
+  "source_file": "0439_Левел Южнопортовая_83477352_obj64985-pd77-003175.xlsx",
+  "id": 64985,
+  "N_declaration": "77-003175",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 64985,
+    "name": "Многофункциональный жилой комплекс с подземной автостоян-кой. Этап 2. Этап 2.1 (корпуса 8, 9, 12, подземный паркинг 2.1, сти-лобат)",
+    "N_declaration": "77-003175",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 64985,
+    "N_declaration": "77-003175",
+    "date_declaration": "2026-03-06",
+    "name": "Многофункциональный жилой комплекс с подземной автостоян-кой. Этап 2. Этап 2.1 (корпуса 8, 9, 12, подземный паркинг 2.1, сти-лобат)",
+    "developer": "А ПЛЕЙС ДЕВЕЛОПМЕНТ",
+    "city": "Москва",
+    "district": "Печатники",
+    "street": "улица Южнопортовая",
+    "land_plot": "участок 28А",
+    "building": "17/1",
+    "subject": "Город Москва",
+    "region": "Район Печатники",
+    "S_total": 96517.1,
+    "S_residential": 67515.2,
+    "S_non_residential": 8320.4,
+    "Price_plan": 19858724983.0,
+    "S_land": 19633.0,
+    "Start_period": "2025-03-12",
+    "Finish_period": "4 квартал 2029 г.",
+    "Date_expert": "2025-01-25",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "B",
+    "max_height": "225 м",
+    "N_residential_rooms": 1220,
+    "N_non_residential_rooms": 419,
+    "parking": 269,
+    "other_rooms": 150,
+    "min_S_flat": 28.2,
+    "other_rooms_19_6_1_4": 128136704000.0,
+    "other_info": "Финансовый результат за 2 квартал 2025 года: чистая при-быль (48 383 тыс.руб), кредиторская задолженность (1 040 099\nтыс.руб.) дебиторская задолженность (56 783 985 тыс.руб.)"
+  },
+  "debug": {
+    "address_raw": "Москва, ЮВАО, Печатники, Южнопортовая ул.уч. 28А/17/1",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"А ПЛЕЙС ДЕ-ВЕЛОПМЕНТ\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"Печатники\", \"street\": \"улица Южнопортовая\", \"land_plot\": \"участок 28А\", \"building\": \"17/1\"}",
+    "developer_llm_response": "А ПЛЕЙС ДЕВЕЛОПМЕНТ",
+    "loan_amounts_parsed": [
+      64068352000.0,
+      64068352000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира",
+      "total_area": "28.20",
+      "conditional_number": "8-361"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "4 квартал 2029 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2026 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2029 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2027 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2027 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2028 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2029 г."
+      }
+    ]
+  }
+}

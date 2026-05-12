@@ -1,0 +1,166 @@
+{
+  "source_file": "0566_Форевиль_99978558_obj58133-pd77-003025.xlsx",
+  "id": 58133,
+  "N_declaration": "77-003025",
+  "date_declaration": "2026-03-06",
+  "Declaration_info": {
+    "id": 58133,
+    "name": "Многофункциональный жилой комплекс. Этап 1 - корпус 1 (Сек-ции 1-6 с пристройками, подземная стоянка)",
+    "N_declaration": "77-003025",
+    "date_declaration": "2026-03-06"
+  },
+  "Current_declaration": {
+    "id": 58133,
+    "N_declaration": "77-003025",
+    "date_declaration": "2026-03-06",
+    "name": "Многофункциональный жилой комплекс. Этап 1 - корпус 1 (Сек-ции 1-6 с пристройками, подземная стоянка)",
+    "developer": "ТРИ ЭС ДМИТРОВСКОЕ 2",
+    "city": "Москва",
+    "district": "САО",
+    "street": null,
+    "land_plot": null,
+    "building": null,
+    "subject": "Город Москва",
+    "region": "Поселение Сосенское",
+    "S_total": 65316.5,
+    "S_residential": 40715.7,
+    "S_non_residential": 6639.25,
+    "Price_plan": 7270726892.0,
+    "S_land": 49694.0,
+    "Start_period": "2023-02-13",
+    "Finish_period": "3 квартал 2026 г.",
+    "Date_expert": "2022-12-14",
+    "material_walls": "С монолитным железобетонным каркасом и стенами из мел-коштучных каменных материалов (кирпич, керамические камни, блоки и др.)",
+    "material_covering": "Монолитные железобетонные",
+    "energy_class": "A",
+    "max_height": "55 м",
+    "N_residential_rooms": 1033,
+    "N_non_residential_rooms": 517,
+    "parking": 317,
+    "other_rooms": 200,
+    "min_S_flat": 20.4,
+    "other_rooms_19_6_1_4": 26115948000.0,
+    "other_info": "Собственное участие не менее 13,8 процентов; заемные средс-тва не более 86,2 процентов.Информация отображенная в раз-делах 14; 19.6.1; 20 распространяется на оба этапа строитель-ства, суммы указанные в разделах 14; 19.6.1; 20 по каждому этапу строительства сложению не подлежат.Финансовый ре-зультат на 31.12.2024г.Кредиторская задолженность:359 627 000\nруб.Дебиторская задолженность:5 076 916 000 руб.Чистая при-\nбыль:-13 000 руб"
+  },
+  "debug": {
+    "address_raw": "Г. Москва, Новомосковский административный округ, п. Сосен-ское, п. Газопровод",
+    "developer_raw": "Полное наименование без указания организационно-правовой формы: \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"ТРИ ЭС ДМИТ-РОВСКОЕ 2\"",
+    "address_llm_response": "{\"city\": \"Москва\", \"district\": \"САО\", \"street\": null, \"land_plot\": null, \"building\": null}",
+    "developer_llm_response": "ТРИ ЭС ДМИТРОВСКОЕ 2",
+    "loan_amounts_parsed": [
+      13057974000.0,
+      13057974000.0
+    ],
+    "min_S_flat_source": {
+      "purpose": "Квартира-студия",
+      "total_area": "20.40",
+      "conditional_number": "457"
+    },
+    "Finish_period_selected": {
+      "occurrence": 5,
+      "value": "3 квартал 2026 г."
+    },
+    "Finish_period_all": [
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2026 г."
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.1",
+        "value": "20 процентов готовности"
+      },
+      {
+        "occurrence": 1,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2024 г."
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.1",
+        "value": "40 процентов готовности"
+      },
+      {
+        "occurrence": 2,
+        "source_section": "17.1.2",
+        "value": "2 квартал 2025 г."
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.1",
+        "value": "60 процентов готовности"
+      },
+      {
+        "occurrence": 3,
+        "source_section": "17.1.2",
+        "value": "4 квартал 2025 г."
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.1",
+        "value": "80 процентов готовности"
+      },
+      {
+        "occurrence": 4,
+        "source_section": "17.1.2",
+        "value": "1 квартал 2026 г."
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.1",
+        "value": "получение разрешения на ввод в эксплуатацию объекта недви-жимости"
+      },
+      {
+        "occurrence": 5,
+        "source_section": "17.1.2",
+        "value": "3 квартал 2026 г."
+      }
+    ]
+  }
+}
