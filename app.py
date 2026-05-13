@@ -20,7 +20,7 @@ if not os.path.exists(DOWNLOAD_DIR):
     os.makedirs(DOWNLOAD_DIR)
 
 def get_house_list_via_selenium(limit=3):
-    """Открывает страницу и извлекает ID объектов из кода, игнорируя изменения верстки"""
+    """Открывает страницу и извлекает ID объектов из кода"""
     url = "https://наш.дом.рф/сервисы/каталог-новостроек/список-объектов"
     
     chrome_options = Options()
@@ -34,44 +34,29 @@ def get_house_list_via_selenium(limit=3):
     try:
         st.write("🤖 Запуск локального Chrome...")
         driver = webdriver.Chrome(options=chrome_options)
-        
-        st.write("🌍 Открываем каталог новостроек ДОМ.РФ...")
         driver.get(url)
-        
-        # Даем 7 секунд на полную загрузку всех динамических элементов и таблиц
         time.sleep(7)
         
-        st.write("📊 Извлекаем ID домов из структуры страницы...")
-        
-        # Забираем весь HTML-код страницы (включая скрытые ссылки и скрипты данных)
+        st.write("📊 Извлекаем ID домов...")
         page_html = driver.page_source
         
-        # Ищем любые упоминания ID объектов в ссылках (например, /объект/12345 или id=12345)
-        # Шаблон ищет цифры от 4 до 7 знаков, идущие после слова объект или objId
-        found_ids = re.findall(r'(?:/объект/|objId=)(\d{4,7})', page_html)
-        
-        # Если ничего не нашлось в ссылках, ищем просто все уникальные 5-значные числа в коде (частый формат ID)
+        # Ищем ID объектов в коде страницы
+        found_ids = re.findall(r'(?:/объект/|objId=)(\d{3,7})', page_html)
         if not found_ids:
             found_ids = re.findall(r'\b\d{5}\b', page_html)
             
         unique_ids = list(set(found_ids))
         
         if not unique_ids:
-            st.warning("ID не найдены. Текст страницы:")
-            st.code(driver.find_element("xpath", "//body").text[:200])
             return []
             
         houses_list = []
         for obj_id in unique_ids[:limit]:
-            # Генерируем ссылку на скачивание проектной декларации
-            # В системе Минстроя файлы привязаны напрямую к ID объекта через этот эндпоинт
-            pd_file_url = f"/api/ext/file/declaration_{obj_id}"
-            
             houses_list.append({
                 'objId': obj_id,
                 'objAddr': f"Дом из каталога (ID {obj_id})",
                 'developer': {'shortName': 'Застройщик (информация внутри PDF)'},
-                'objPdId': pd_file_url
+                'objPdId': "Определится при скачивании"  # Больше не генерируем фейковый путь
             })
             
         st.success(f"🔒 ID успешно собраны! Найдено уникальных объектов: {len(houses_list)}")
@@ -82,33 +67,71 @@ def get_house_list_via_selenium(limit=3):
     finally:
         if driver:
             driver.quit()
-            
     return []
 
 def download_declaration(obj_id, pd_id):
-    """Скачивает оригинальный файл проектной декларации"""
-    if not pd_id:
-        return None
-        
-    download_url = f"xn--d1aqf.xn--p1ai{pd_id}"
-    file_path = os.path.join(DOWNLOAD_DIR, f"declaration_{obj_id}.pdf")
+    """Находит кнопку скачивания декларации прямо на странице объекта"""
+    # Заходим на страницу карточки конкретного дома
+    object_url = f"https://наш.дом.рф/сервисы/каталог-новостроек/объект/{obj_id}"
     
-    if os.path.exists(file_path):
-        return file_path
-        
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
+    
+    prefs = {
+        "download.default_directory": os.path.abspath(DOWNLOAD_DIR),
+        "download.prompt_for_download": False,
+        "download.directory_upgrade": True,
+        "plugins.always_open_pdf_externally": True
     }
+    chrome_options.add_experimental_option("prefs", prefs)
     
+    driver = None
     try:
-        # Для скачивания файлов прямые запросы часто работают, если сессия не привязана жестко
-        res = requests.get(download_url, headers=headers, verify=False, timeout=20)
-        if res.status_code == 200:
-            with open(file_path, "wb") as f:
-                f.write(res.content)
-            return file_path
+        driver = webdriver.Chrome(options=chrome_options)
+        driver.get(object_url)
+        time.sleep(5)  # Ждем загрузку карточки дома
+        
+        # Запоминаем список файлов в папке до нажатия на кнопку
+        files_before = set(os.listdir(DOWNLOAD_DIR))
+        
+        st.write(f"🔎 Ищем ссылку на декларацию на странице объекта {obj_id}...")
+        
+        # Находим элемент ссылки, который содержит скачивание проектной декларации
+        # Кнопка на сайте обычно содержит текст "Проектная декларация" или ссылку со словом 'file'
+        download_buttons = driver.find_elements("xpath", "//a[contains(text(), 'декларация') or contains(@href, 'file')]")
+        
+        if download_buttons:
+            # Кликаем по первой найденной кнопке документа
+            driver.execute_script("arguments[0].click();", download_buttons[0])
+            time.sleep(7)  # Ожидаем скачивание файла
+            
+            # Проверяем, какой новый файл появился в папке
+            files_after = set(os.listdir(DOWNLOAD_DIR))
+            new_files = files_after - files_before
+            
+            if new_files:
+                downloaded_name = list(new_files)[0]
+                old_path = os.path.join(DOWNLOAD_DIR, downloaded_name)
+                new_path = os.path.join(DOWNLOAD_DIR, f"declaration_{obj_id}.pdf")
+                
+                # Переименовываем для унификации
+                if not os.path.exists(new_path) and downloaded_name.endswith('.pdf'):
+                    os.rename(old_path, new_path)
+                    return new_path
+                return old_path
+        else:
+            print(f"Кнопка декларации не найдена для объекта {obj_id}")
+            
     except Exception as e:
-        st.warning(f"Не удалось скачать PDF для объекта {obj_id}: {e}")
+        print(f"Ошибка при поиске кнопки скачивания: {e}")
+    finally:
+        if driver:
+            driver.quit()
+            
     return None
 
 def parse_pdf(file_path):
