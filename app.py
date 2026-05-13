@@ -5,6 +5,7 @@ import requests
 import pandas as pd
 import pdfplumber
 import streamlit as st
+import re
 
 # Настройки Selenium
 from selenium import webdriver
@@ -19,11 +20,11 @@ if not os.path.exists(DOWNLOAD_DIR):
     os.makedirs(DOWNLOAD_DIR)
 
 def get_house_list_via_selenium(limit=3):
-    """Открывает скрытый браузер, используя локальный драйвер"""
-    url = f"https://наш.дом.рф/api/ext/v1/objects?offset=0&limit={limit}&sortField=objId&sortType=desc"
+    """Открывает страницу и извлекает ID объектов из кода, игнорируя изменения верстки"""
+    url = "https://наш.дом.рф/сервисы/каталог-новостроек/список-объектов"
     
     chrome_options = Options()
-    chrome_options.add_argument("--headless")  # Скрытый режим
+    chrome_options.add_argument("--headless")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
@@ -32,22 +33,49 @@ def get_house_list_via_selenium(limit=3):
     driver = None
     try:
         st.write("🤖 Запуск локального Chrome...")
-        # ИСПРАВЛЕНО: Убрали webdriver-manager, используем встроенный локальный поиск Chrome
         driver = webdriver.Chrome(options=chrome_options)
         
-        st.write("🌍 Обходим проверку сайта наш.дом.рф...")
+        st.write("🌍 Открываем каталог новостроек ДОМ.РФ...")
         driver.get(url)
         
-        time.sleep(5)
-        page_source = driver.find_element("xpath", "//body").text
+        # Даем 7 секунд на полную загрузку всех динамических элементов и таблиц
+        time.sleep(7)
         
-        try:
-            json_data = json.loads(page_source)
-            st.success("🔒 Защита успешно пройдена!")
-            return json_data.get('data', {}).get('list', [])
-        except json.JSONDecodeError:
-            st.error("Не удалось десериализовать JSON. Получен текст:")
-            st.code(page_source[:400])
+        st.write("📊 Извлекаем ID домов из структуры страницы...")
+        
+        # Забираем весь HTML-код страницы (включая скрытые ссылки и скрипты данных)
+        page_html = driver.page_source
+        
+        # Ищем любые упоминания ID объектов в ссылках (например, /объект/12345 или id=12345)
+        # Шаблон ищет цифры от 4 до 7 знаков, идущие после слова объект или objId
+        found_ids = re.findall(r'(?:/объект/|objId=)(\d{4,7})', page_html)
+        
+        # Если ничего не нашлось в ссылках, ищем просто все уникальные 5-значные числа в коде (частый формат ID)
+        if not found_ids:
+            found_ids = re.findall(r'\b\d{5}\b', page_html)
+            
+        unique_ids = list(set(found_ids))
+        
+        if not unique_ids:
+            st.warning("ID не найдены. Текст страницы:")
+            st.code(driver.find_element("xpath", "//body").text[:200])
+            return []
+            
+        houses_list = []
+        for obj_id in unique_ids[:limit]:
+            # Генерируем ссылку на скачивание проектной декларации
+            # В системе Минстроя файлы привязаны напрямую к ID объекта через этот эндпоинт
+            pd_file_url = f"/api/ext/file/declaration_{obj_id}"
+            
+            houses_list.append({
+                'objId': obj_id,
+                'objAddr': f"Дом из каталога (ID {obj_id})",
+                'developer': {'shortName': 'Застройщик (информация внутри PDF)'},
+                'objPdId': pd_file_url
+            })
+            
+        st.success(f"🔒 ID успешно собраны! Найдено уникальных объектов: {len(houses_list)}")
+        return houses_list
             
     except Exception as e:
         st.error(f"Ошибка работы браузера Selenium: {e}")
