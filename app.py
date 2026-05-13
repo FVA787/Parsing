@@ -1,83 +1,149 @@
 import os
+import time
+import json
 import requests
 import pandas as pd
 import pdfplumber
 import streamlit as st
 
-# 1. Настройки
-BASE_URL = "https://xn--d1aqf.xn--p1ai" # API наш.дом.рф
+# Настройки Selenium
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+
 DOWNLOAD_DIR = "declarations"
 RESULT_EXCEL = "dom_rf_data.xlsx"
 
 if not os.path.exists(DOWNLOAD_DIR):
     os.makedirs(DOWNLOAD_DIR)
 
-def get_house_list(limit=5):
-    """Получает список объектов с сайта через API"""
-    params = {
-        "offset": 0,
-        "limit": limit,
-        "sortField": "objId",
-        "sortType": "asc"
-    }
-    response = requests.get(BASE_URL, params=params)
-    if response.status_code == 200:
-        return response.json().get('data', {}).get('list', [])
+def get_house_list_via_selenium(limit=3):
+    """Открывает скрытый браузер, используя локальный драйвер"""
+    url = f"https://наш.дом.рф/api/ext/v1/objects?offset=0&limit={limit}&sortField=objId&sortType=desc"
+    
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # Скрытый режим
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
+    
+    driver = None
+    try:
+        st.write("🤖 Запуск локального Chrome...")
+        # ИСПРАВЛЕНО: Убрали webdriver-manager, используем встроенный локальный поиск Chrome
+        driver = webdriver.Chrome(options=chrome_options)
+        
+        st.write("🌍 Обходим проверку сайта наш.дом.рф...")
+        driver.get(url)
+        
+        time.sleep(5)
+        page_source = driver.find_element("xpath", "//body").text
+        
+        try:
+            json_data = json.loads(page_source)
+            st.success("🔒 Защита успешно пройдена!")
+            return json_data.get('data', {}).get('list', [])
+        except json.JSONDecodeError:
+            st.error("Не удалось десериализовать JSON. Получен текст:")
+            st.code(page_source[:400])
+            
+    except Exception as e:
+        st.error(f"Ошибка работы браузера Selenium: {e}")
+    finally:
+        if driver:
+            driver.quit()
+            
     return []
 
-def download_declaration(obj_id):
-    """Скачивает проектную декларацию по ID объекта"""
-    # Ссылка на декларацию обычно формируется через ID объекта
-    url = f"https://наш.дом.рф/сервисы/каталог-объектов/объект/{obj_id}"
-    # Примечание: В реальном API прямая ссылка на PDF лежит в карточке объекта
-    # Для примера имитируем путь к файлу, если мы нашли прямую ссылку
-    file_path = os.path.join(DOWNLOAD_DIR, f"decl_{obj_id}.pdf")
+def download_declaration(obj_id, pd_id):
+    """Скачивает оригинальный файл проектной декларации"""
+    if not pd_id:
+        return None
+        
+    download_url = f"xn--d1aqf.xn--p1ai{pd_id}"
+    file_path = os.path.join(DOWNLOAD_DIR, f"declaration_{obj_id}.pdf")
     
-    # Это упрощенный пример. В реальности нужно извлечь 'pdId' из данных объекта
-    # и скачать по ссылке: https://наш.дом.рф/api/ext/file/ID_ФАЙЛА
-    return file_path
+    if os.path.exists(file_path):
+        return file_path
+        
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+    
+    try:
+        # Для скачивания файлов прямые запросы часто работают, если сессия не привязана жестко
+        res = requests.get(download_url, headers=headers, verify=False, timeout=20)
+        if res.status_code == 200:
+            with open(file_path, "wb") as f:
+                f.write(res.content)
+            return file_path
+    except Exception as e:
+        st.warning(f"Не удалось скачать PDF для объекта {obj_id}: {e}")
+    return None
 
 def parse_pdf(file_path):
-    """Базовый пример извлечения текста из PDF"""
+    """Извлекает текст из первой страницы декларации"""
+    if not file_path:
+        return "Файл не скачан"
     try:
         with pdfplumber.open(file_path) as pdf:
-            first_page = pdf.pages[0]
-            text = first_page.extract_text()
-            # Здесь должна быть логика поиска конкретных полей (ИНН, Площадь и т.д.)
-            return {"Файл": file_path, "Краткий текст": text[:100] if text else "Пусто"}
+            if pdf.pages:
+                first_page = pdf.pages[0]
+                text = first_page.extract_text()
+                return text[:150].replace("\n", " ") if text else "Текст пуст"
     except Exception as e:
-        return {"Файл": file_path, "Ошибка": str(e)}
+        return f"Ошибка чтения PDF: {e}"
+    return "Нет данных"
 
 # --- Интерфейс Streamlit ---
-st.title("Парсер деклараций ДОМ.РФ")
+st.title("🏭 Парсер ДОМ.РФ через эмуляцию браузера")
+st.write("Использует Selenium для безопасного прохождения антибот-систем сайта.")
 
-if st.button("Запустить процесс"):
-    st.info("Шаг 1: Получаем список домов...")
-    houses = get_house_list(limit=3) # Берем 3 для теста
-    
-    data_for_excel = []
-    
-    for house in houses:
-        obj_id = house.get('objId')
-        addr = house.get('address')
-        st.write(f"Обработка объекта ID {obj_id}: {addr}")
-        
-        # В реальном API ссылка на файл лежит здесь:
-        # house.get('objPdId') -> это ID файла декларации
-        
-        # Имитация сбора данных
-        data_for_excel.append({
-            "ID объекта": obj_id,
-            "Адрес": addr,
-            "Застройщик": house.get('developer', {}).get('shortName')
-        })
-    
-    # Сохранение в Excel
-    df = pd.DataFrame(data_for_excel)
-    df.to_excel(RESULT_EXCEL, index=False)
-    
-    st.success(f"Готово! Данные сохранены в {RESULT_EXCEL}")
-    st.dataframe(df)
+limit_input = st.number_input("Количество объектов для проверки:", min_value=1, max_value=10, value=3)
 
-    with open(RESULT_EXCEL, "rb") as f:
-        st.download_button("Скачать Excel файл", f, file_name=RESULT_EXCEL)
+if st.button("Запустить процесс через Selenium", type="primary"):
+    st.info("Шаг 1: Запуск скрытого браузера Chrome...")
+    houses = get_house_list_via_selenium(limit=limit_input)
+    
+    if not houses:
+        st.warning("Список домов пуст. Не удалось собрать данные.")
+    else:
+        st.info(f"Найдено объектов: {len(houses)}. Начинаем обработку...")
+        data_for_excel = []
+        
+        for house in houses:
+            obj_id = house.get('objId')
+            addr = house.get('objAddr', 'Адрес не указан')
+            dev_name = house.get('developer', {}).get('shortName', 'Не указан')
+            pd_id = house.get('objPdId')
+            
+            st.write(f"⏳ Загрузка ID {obj_id}: {addr}")
+            
+            pdf_path = download_declaration(obj_id, pd_id)
+            pdf_snippet = parse_pdf(pdf_path)
+            
+            data_for_excel.append({
+                "ID объекта": obj_id,
+                "Застройщик": dev_name,
+                "Адрес": addr,
+                "ID Декларации": pd_id if pd_id else "Нет",
+                "Путь к файлу на ПК": pdf_path if pdf_path else "Ошибка",
+                "Выдержка из декларации": pdf_snippet
+            })
+            time.sleep(1)
+            
+        df = pd.DataFrame(data_for_excel)
+        df.to_excel(RESULT_EXCEL, index=False)
+        
+        st.success(f"🎉 Процесс завершен! Данные сохранены.")
+        st.dataframe(df)
+
+        with open(RESULT_EXCEL, "rb") as f:
+            st.download_button(
+                label="📥 Скачать готовый Excel файл", 
+                data=f, 
+                file_name=RESULT_EXCEL,
+                mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+            )
