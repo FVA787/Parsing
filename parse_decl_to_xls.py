@@ -57,7 +57,7 @@ def extract_fields_from_pdf(file_path):
                             data["Количество этажей"] = floors
 
                     # 5. Площадь
-                    if "Общая площадь жилых помещений" in line:
+                    if "Общая площадь объекта" in line:
                         area_match = re.search(r'\d+[\.,]\d+|\d+', line)
                         if area_match:
                             data["Жилая площадь (кв.м)"] = area_match.group(0)
