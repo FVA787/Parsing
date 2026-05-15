@@ -998,8 +998,7 @@ def read_existing_declarations(
                     continue
                 if date_to and parsed_decl_date > date_to:
                     continue
-
-            area, pattern_name, context = extract_building_area(text)
+            area, pattern_name, context = extract_building_area(text)   # ЗДЕСЬ ВЫЗЫВАЕТСЯ ФУНКЦИЯ ЧТЕНИЯ PDF
 
             note = ""
             if not area:
@@ -1012,7 +1011,7 @@ def read_existing_declarations(
                     "Путь": str(pdf_path),
                     "Дата декларации": decl_date,
                     "Общая площадь здания": area,
-                    "Шаблон": pattern_name,
+                    "Шаблон": pattern_name,  #ЗДЕСЬ В КОЛОНКУ EXCEL ЗАПИСЫВАЕТСЯ НАЙДЕННОЕ ЗНАЧЕНИЕ ПЛОЩАДИ
                     "Страницы": pages_note,
                     "Контекст": context,
                     "Примечание": note,
@@ -1044,38 +1043,56 @@ def read_existing_declarations(
 # EXCEL
 # ============================================================
 
+def normalize_excel_output_path(output_path: Path) -> Path:
+    """
+    Если пользователь указал папку, автоматически добавляем имя Excel-файла.
+    Если пользователь указал путь без .xlsx, тоже добавляем .xlsx.
+    """
+    output_path = Path(output_path)
+    # Если путь существует и это папка
+    if output_path.exists() and output_path.is_dir():
+        return output_path / "nash_dom_rf_area_result.xlsx"
+    # Если путь заканчивается без расширения
+    if output_path.suffix.lower() != ".xlsx":
+        return output_path / "nash_dom_rf_area_result.xlsx"
+    return output_path
+
 def save_rows_to_excel(rows: list[dict], output_path: Path, sheet_name: str = "Результат"):
+    output_path = normalize_excel_output_path(output_path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
-
     df = pd.DataFrame(rows)
-    df.to_excel(output_path, index=False, sheet_name=sheet_name)
-
+    try:
+        df.to_excel(output_path, index=False, sheet_name=sheet_name)
+    except PermissionError:
+        raise PermissionError(
+            f"Не удалось сохранить Excel-файл: {output_path}\n"
+            f"Возможные причины:\n"
+            f"1. Ты указал папку вместо файла .xlsx.\n"
+            f"2. Excel-файл уже открыт в Excel.\n"
+            f"3. Нет прав на запись в эту папку.\n\n"
+            f"Попробуй закрыть Excel или указать другой путь, например:\n"
+            f"{output_path.parent / 'result_new.xlsx'}"
+        )
     wb = load_workbook(output_path)
     ws = wb[sheet_name]
-
     header_fill = PatternFill("solid", fgColor="D9EAF7")
     header_font = Font(bold=True)
-
     for cell in ws[1]:
         cell.fill = header_fill
         cell.font = header_font
         cell.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
-
     ws.freeze_panes = "A2"
     ws.auto_filter.ref = ws.dimensions
-
     for column_cells in ws.columns:
         max_len = 0
         col_letter = column_cells[0].column_letter
-
         for cell in column_cells:
             value = str(cell.value or "")
             max_len = max(max_len, min(len(value), 80))
             cell.alignment = Alignment(vertical="top", wrap_text=True)
-
         ws.column_dimensions[col_letter].width = max(12, min(max_len + 2, 70))
-
     wb.save(output_path)
+    return output_path
 
 
 # ============================================================
@@ -1460,10 +1477,15 @@ with right_col:
                 st.stop()
 
             output_path = Path(output_excel_path)
-            save_rows_to_excel(rows, output_path, sheet_name="Площади")
+            saved_path = save_rows_to_excel(rows, output_path, sheet_name="Площади")
 
-            st.success(f"Excel сформирован: {output_path}")
+            st.success(f"Excel сформирован: {saved_path}")
             st.dataframe(rows, use_container_width=True, hide_index=True)
+
+            # Таким образом, можно указывать в интерфейсе просто папку:
+            # C:\Users\..............\Desktop\Проекты\2026-05-12 Робот дом РФ - пример
+            # А программа сохранит файл сюда:
+            # C:\Users\fomichevv4\Desktop\Проекты\2026-05-12 Робот дом РФ\nash_dom_rf_area_result.xlsx
 
     # ========================================================
     # РЕЖИМ 3: БАЗА ДАННЫХ
