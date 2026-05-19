@@ -1,5 +1,6 @@
 import json
 import re
+import pdfplumber
 import time
 from datetime import date, datetime
 from pathlib import Path
@@ -785,6 +786,7 @@ def download_declarations(
 # ЧТЕНИЕ PDF И ПОИСК ОБЩЕЙ ПЛОЩАДИ
 # ============================================================
 
+# Определим функцию, которая будет составлять список страниц для парсинга, указанных пользователем: 
 def parse_page_selection(page_selection: str | None, total_pages: int) -> list[int]:
     """
     Форматы:
@@ -846,14 +848,24 @@ def parse_page_selection(page_selection: str | None, total_pages: int) -> list[i
 def extract_text_from_pdf(pdf_path: Path, page_selection: str | None = "") -> tuple[str, str]:
     text_parts = []
 
-    with fitz.open(pdf_path) as doc:
-        total_pages = len(doc)
+    with pdfplumber.open(pdf_path) as doc:
+        total_pages = len(doc.pages)
         page_indexes = parse_page_selection(page_selection, total_pages)
 
         for page_index in page_indexes:
-            page = doc[page_index]
-            text_parts.append(page.get_text("text"))
-
+            try:
+                page = doc.pages[page_index]
+                table = page.extract_table()
+                if not table:
+                    return "",""
+                else:
+                    for row in table:
+                        if row:
+                            for cell in row:
+                                if cell and cell.strip():
+                                    text_parts.append(cell)
+            except Exception as e:
+                continue
         human_pages = ", ".join(str(i + 1) for i in page_indexes)
         pages_note = f"{human_pages} из {total_pages}"
 
@@ -873,33 +885,44 @@ def clean_area_value(value: str) -> str:
     value = value.strip(" :-–—;,.")
     return value
 
+def make_fuzzy_word(word: str) -> str:
+    """
+    Делает regex для слова, допускающий пробелы внутри слова.
+    Например:
+    объект -> о\\s*б\\s*ъ\\s*е\\s*к\\s*т
+    Поэтому regex найдет и:
+    объект
+    объ ект
+    о б ъ е к т
+    """
+    separators = r"[\s\|\u00a0]*"
+    return separators.join(re.escape(ch) for ch in word)
 
-AREA_PATTERNS = [
-    {
-        "name": "Общая площадь здания",
-        "regex": r"Общая\s+площадь\s+здан(?:ия|ий)\s*[:\-–—]?\s*([\d\s.,]+)\s*(?:кв\.?\s*м|м2|м²)?",
-    },
-    {
-        "name": "Общая площадь объекта капитального строительства",
-        "regex": r"Общая\s+площадь\s+объекта\s+капитального\s+строительства\s*[:\-–—]?\s*([\d\s.,]+)\s*(?:кв\.?\s*м|м2|м²)?",
-    },
-    {
-        "name": "Площадь объекта капитального строительства",
-        "regex": r"Площадь\s+объекта\s+капитального\s+строительства\s*[:\-–—]?\s*([\d\s.,]+)\s*(?:кв\.?\s*м|м2|м²)?",
-    },
-    {
-        "name": "Общая площадь строящегося объекта",
-        "regex": r"Общая\s+площадь\s+строящ(?:егося|ихся)\s+(?:объекта|объектов)\s*[:\-–—]?\s*([\d\s.,]+)\s*(?:кв\.?\s*м|м2|м²)?",
-    },
-    {
-        "name": "Площадь введенного объекта",
-        "regex": r"(?:Площадь|Общая\s+площадь)\s+введ[её]нного\s+объекта\s*[:\-–—]?\s*([\d\s.,]+)\s*(?:кв\.?\s*м|м2|м²)?",
-    },
-    {
-        "name": "Общая площадь с контекстом объекта",
-        "regex": r"(?:объект[а-я\s]{0,80}|здани[еяй][а-я\s]{0,80})Общая\s+площадь\s*[:\-–—]?\s*([\d\s.,]+)\s*(?:кв\.?\s*м|м2|м²)?",
-    },
-]
+def make_fuzzy_phrase(phrase: str) -> str:
+    """
+    Делает regex для фразы, допускающий:
+    - пробелы внутри слов;
+    - переносы строк;
+    - разделители таблиц;
+    - дефисы;
+    - двоеточия;
+    - точки с запятой.
+    """
+    words = phrase.lower().split()
+    word_separator = r"[\s\|\u00a0:;,\.\-–—]*"
+    return word_separator.join(make_fuzzy_word(word) for word in words)
+
+# Ищем именно фразу "Общая площадь объекта:"
+label_pattern = make_fuzzy_phrase("Общая площадь объекта:")
+
+# Ищем фразу + число после нее
+area_pattern = re.compile(
+    rf"{label_pattern}"
+    rf"[\s\|\u00a0:;,\.\-–—]*"
+    rf"(?P<area>\d[\d\s.,]*)"
+    rf"\s*(?P<unit>кв\.?\s*м|м2|м²)?",
+    flags=re.IGNORECASE | re.DOTALL,
+)
 
 
 def get_context(text: str, start: int, end: int, chars: int = 350) -> str:
@@ -916,16 +939,16 @@ def get_context(text: str, start: int, end: int, chars: int = 350) -> str:
 def extract_building_area(text: str) -> tuple[str, str, str]:
     normalized = normalize_text(text)
 
-    for item in AREA_PATTERNS:
-        regex = item["regex"]
-        match = re.search(regex, normalized, flags=re.IGNORECASE | re.DOTALL)
+    # for regex in area_pattern:
+    regex = area_pattern
+    match = re.search(regex, normalized)
 
-        if match:
-            value = clean_area_value(match.group(1))
-            context = get_context(normalized, match.start(), match.end())
-            return value, item["name"], context
+    if match:
+        area = clean_area_value(match.group(1))
+        context = get_context(normalized, match.start(), match.end())
+        return area, context
 
-    return "", "", ""
+    return "", ""
 
 
 def extract_declaration_date(text: str) -> str:
@@ -998,7 +1021,7 @@ def read_existing_declarations(
                     continue
                 if date_to and parsed_decl_date > date_to:
                     continue
-            area, pattern_name, context = extract_building_area(text)   # ЗДЕСЬ ВЫЗЫВАЕТСЯ ФУНКЦИЯ ЧТЕНИЯ PDF
+            area, context = extract_building_area(text)   # ЗДЕСЬ ВЫЗЫВАЕТСЯ ФУНКЦИЯ PDF
 
             note = ""
             if not area:
@@ -1011,7 +1034,7 @@ def read_existing_declarations(
                     "Путь": str(pdf_path),
                     "Дата декларации": decl_date,
                     "Общая площадь здания": area,
-                    "Шаблон": pattern_name,  #ЗДЕСЬ В КОЛОНКУ EXCEL ЗАПИСЫВАЕТСЯ НАЙДЕННОЕ ЗНАЧЕНИЕ ПЛОЩАДИ
+                    # "Шаблон": pattern_name,  #ЗДЕСЬ В КОЛОНКУ EXCEL ЗАПИСЫВАЕТСЯ НАЙДЕННОЕ ЗНАЧЕНИЕ ПЛОЩАДИ
                     "Страницы": pages_note,
                     "Контекст": context,
                     "Примечание": note,
