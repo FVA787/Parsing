@@ -857,7 +857,7 @@ def extract_text_from_pdf(pdf_path: Path, page_selection: str | None = "") -> tu
                 page = doc.pages[page_index]
                 table = page.extract_table()
                 if not table:
-                    return "",""
+                    continue
                 else:
                     for row in table:
                         if row:
@@ -900,7 +900,7 @@ def make_fuzzy_word(word: str) -> str:
 
 def make_fuzzy_phrase(phrase: str) -> str:
     """
-    Делает regex для фразы, допускающий:
+    Эта функция Делает regex для фразы, допускающий:
     - пробелы внутри слов;
     - переносы строк;
     - разделители таблиц;
@@ -976,9 +976,12 @@ def read_existing_declarations(
     max_files: int,
     page_selection: str,
     recursive: bool,
+    haveread: bool,
     include_unknown_dates: bool,
     progress_callback=None,
 ):
+    if not haveread:
+        return
     if recursive:
         pdf_files = sorted(folder.rglob("*.pdf"))
     else:
@@ -994,7 +997,7 @@ def read_existing_declarations(
             raw_text, pages_note = extract_text_from_pdf(pdf_path, page_selection)
             text = normalize_text(raw_text)
 
-            if len(text) < 50:
+            if len(text) < 0:
                 rows.append(
                     {
                         "Регион": region_name,
@@ -1015,7 +1018,6 @@ def read_existing_declarations(
 
             if parsed_decl_date is None and not include_unknown_dates:
                 continue
-
             if parsed_decl_date is not None:
                 if date_from and parsed_decl_date < date_from:
                     continue
@@ -1135,7 +1137,7 @@ def set_mode(mode: str):
     st.session_state.mode = mode
 
 
-st.title("Сервис выгрузки и чтения проектных деклараций наш.дом.рф")
+st.title("🏠Сервис выгрузки и чтения проектных деклараций наш.дом.рф")
 
 left_col, right_col = st.columns([1, 3], gap="large")
 
@@ -1171,7 +1173,7 @@ with left_col:
     )
 
     st.divider()
-    st.caption("Левая четверть — навигация. Правая часть — настройки выбранного действия.")
+    st.caption("Левая четверть — навигация. Правая часть — настройки выбранного действия. \n Чеклист перед запуском: \n 1. Проверить, что файл excel, указанный в Path, закрыт")
 
 
 with right_col:
@@ -1418,7 +1420,7 @@ with right_col:
                     key="read_date_to",
                 )
 
-            col_r1, col_r2, col_r3 = st.columns(3)
+            col_r1, col_r2, col_r3, col_r4 = st.columns(4)
 
             with col_r1:
                 max_files_to_read = st.number_input(
@@ -1441,6 +1443,11 @@ with right_col:
                     "Искать PDF во вложенных папках",
                     value=True,
                 )
+            with col_r4:
+                my_input = st.checkbox(
+                    "Я проверил, что файл Excel закрыт",
+                    value=False,
+                )
 
             include_unknown_decl_dates = st.checkbox(
                 "Включать PDF без найденной даты декларации",
@@ -1459,6 +1466,10 @@ with right_col:
 
         if submitted_read:
             folder = Path(folder_to_read)
+
+            if not my_input:
+                st.warning("Проверьте, что Вы закрыли файл Excel для сохранения, и поставьте галочку в соответствующем поле")
+                st.stop()
 
             if not folder.exists():
                 st.error("Папка с PDF не найдена.")
@@ -1491,12 +1502,13 @@ with right_col:
                 max_files=int(max_files_to_read),
                 page_selection=page_selection,
                 recursive=recursive_read,
+                haveread = my_input,
                 include_unknown_dates=include_unknown_decl_dates,
                 progress_callback=read_progress,
             )
 
             if not rows:
-                st.warning("После фильтрации по датам подходящих PDF не осталось.")
+                st.warning("После фильтрации по параметрам подходящих PDF не осталось.")
                 st.stop()
 
             output_path = Path(output_excel_path)
